@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief (2), Leonhard Millinger an seine Frau Katharina Prantner vom <date when-iso="1797-02-28">28.Februar 1797</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Peter Andorfer</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Innsbruck</settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <idno>Mikrofilm Nr. 2187, Nr. 9.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+            <sourceDesc default="false">
+                <listPlace xml:id="ortsverzeichnis">
+                    <place xml:id="mezzocorona">
+                        <placeName key="3173485">Mezzocorona</placeName>
+                        <placeName>Deutschmetz</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mezzocorona"/>
+                        </note>
+                    </place>
+                    <place xml:id="mezzolombardo">
+                        <placeName key="3173480">Mezzolombardo</placeName>
+                        <placeName> Welsch-Metz</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mezzolombardo"/>
+                        </note>
+                    </place>
+                    <place xml:id="magre_sulla_strada_del_vino">
+                        <placeName key="6536012">Magrè sulla Strada Del Vino</placeName>
+                        <placeName>Magreid</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Margreid"/>
+                        </note>
+                    </place>
+                    <place xml:id="ora">
+                        <placeName key="3171993">Ora</placeName>
+                        <placeName>Auer</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Auer_(S%C3%BCdtirol)"/>
+                        </note>
+                    </place>
+                    <place xml:id="cortaccia">
+                        <placeName key="6535970">Cortaccia</placeName>
+                        <placeName>Kurtatsch</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Cortaccia"/>
+                        </note>
+                    </place>
+                    <place xml:id="innsbruck">
+                        <placeName key="2775220">Innsbruck</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Innsbruck"/>
+                        </note>
+                    </place>
+                    <place xml:id="termeno_sulla_strada_del_vino">
+                        <placeName key="6535982">Termeno Sulla Strada Del Vino</placeName>
+                        <placeName>Tramin an der Weinstraße</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Termeno_sulla_strada_del_vino"/>
+                        </note>
+                    </place>
+                    <place xml:id="barbiano">
+                        <placeName key="6534774">Barbiano</placeName>
+                        <placeName>Kollmann</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Barbian"/>
+                        </note>
+                    </place>
+                    <place xml:id="unterland_tirol">
+                        <placeName>Tiroler Unterland</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tiroler_Unterland"/>
+                        </note>
+                    </place>
+                    <place xml:id="tirol">
+                        <placeName key="2763586">Tirol</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tirol"/>
+                        </note>
+                    </place>
+                    <place xml:id="egna">
+                        <placeName key="3177431">Egna</placeName>
+                        <placeName>Neumarkt</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Neumarkt_(S%C3%BCdtirol)"/>
+                        </note>
+                    </place>
+                    <place xml:id="trient">
+                        <placeName key="3165243">Trento</placeName>
+                        <placeName>Trient</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Trient"/>
+                        </note>
+                    </place>
+                    <place xml:id="brixen">
+                        <placeName key="3181550">Bressanone</placeName>
+                        <placeName>Brixen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Brixen"/>
+                        </note>
+                    </place>
+                    <place xml:id="oberland_tirol">
+                        <placeName>Tiroler Oberland</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tiroler_Oberland"/>
+                        </note>
+                    </place>
+                    <place xml:id="rom">
+                        <placeName key="3169070">Roma</placeName>
+                        <placeName>Rom</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rom"/>
+                        </note>
+                    </place>
+                    <place xml:id="bozen">
+                        <placeName key="3181913">Bolzano</placeName>
+                        <placeName>Bozen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bozen"/>
+                        </note>
+                    </place>
+                    <place xml:id="kufstein">
+                        <placeName key="2773299">Kufstein</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kufstein"/>
+                        </note>
+                    </place>
+                    <place xml:id="rattenberg">
+                        <placeName key="7873655">Rattenberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rattenberg_(Tirol)"/>
+                        </note>
+                    </place>
+                    <place xml:id="rotholz">
+                        <placeName>Rotholz</placeName>
+                        <note>Ein Ortsteil von Strass im Zillertal</note>
+                    </place>
+                    <place xml:id="schwaz">
+                        <placeName type="geonames" key="7872634">Schwaz</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schwaz"/>
+                        </note>
+                    </place>
+                    <place xml:id="san_michele">
+                        <placeName type="geonames" key="3167963">San Michele all’Adige</placeName>
+                        <placeName>St. Michael an der Etsch</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/San_Michele_all%E2%80%99Adige"/>
+                        </note>
+                    </place>
+                    <place xml:id="campodenno">
+                        <placeName type="geonames" key="6536231">Campodenno</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Campodenno"/>
+                        </note>
+                    </place>
+                    <place xml:id="nonsberg">
+                        <placeName type="geonames" key="3172219">Val di Non</placeName>
+                        <placeName>Nonsberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nonstal"/>
+                        </note>
+                    </place>
+                    <place xml:id="waidring">
+                        <placeName type="geonames" key="7873643">Waidring</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Waidring"/>
+                        </note>
+                    </place>
+                    <place xml:id="bommer">
+                        <placeName>Bommer- oder Pomerhof</placeName>
+                        <note>
+                            Der Bommer- oder Pomerhof war der Hof, den Leonhard Millinger 1785 von seinem Vater Stefan Millinger übernommen hatte. Die aktuelle Adresse ist Stäcklweg 19, 6384 Waidring. <lb/>
+                            <ptr target="http://goo.gl/maps/LdHd7"/>
+                        </note>
+                    </place>
+                    <place xml:id="fieberbrunn">
+                        <placeName type="geonames" key="2779595">Fieberbrunn</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Fieberbrunn"/>
+                        </note>
+                    </place>
+                    <place xml:id="kitzbühel">
+                        <placeName type="geonames" key="2774347">Kitzbühel</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kitzb%C3%BChel"/>
+                        </note>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>Gelobt sey Jesus Christus</p>
+                <p>Insonders geehrtes Eheweib.</p>
+                <p>
+                    <seg type="marschieren">
+                        <s type="complex">
+                            <date>Gestern als 27. Februäry oder Fasching Montag</date> sind mir auf
+                    daß<lb/> Dorf <rs type="place" ref="#campodenno">Campodedeno</rs> so auf den
+                    <rs type="place" ref="#nonsberg">Ainsberg</rs> liget mit gesund<lb/>
+                    ankommen, wo mir in stand Quatier bleiben werden,</s>
+                    </seg>
+                    <seg type="quartier">
+                        <s type="complex">unser Qua<lb break="no"/>tier Ort ligt rechts von <rs type="place" ref="#san_michele">Welisch
+                        Michaeli</rs> oder Landstrassen 4 stund<lb/> in ein Thall auf dem <rs type="place" ref="#nonsberg">Ainsberg</rs>,</s>
+                        <s type="simple">er ligt gantz hoch,</s>
+                        <s type="simple">ein schens
+                                ort,</s>
+                        <s type="simple"> er<lb/> ist groß wo über 300 Dörffer und vil Kirchen sein,</s>
+                        <s type="simple">da sind auß ne<lb break="no"/>ben mer 7. Componiern schitzen als <rs type="place" ref="#schwaz">Schwatzer</rs>, <rs type="place" ref="#rotholz">Rodholzer</rs>, <rs type="place" ref="#rattenberg">Ratten<lb break="no"/>berger</rs>, <rs type="place" ref="#kufstein">Kapfstain</rs> 2. und <rs type="place" ref="#kitzbühel">Kitzbichl</rs> 2. Canponieren schitzen auf
+                                    ein<lb break="no"/>mahl hineinkommen,</s>
+                        <s type="complex">die <rs type="place" ref="#kitzbühel">Kitzbichlerischen</rs> Schitzen ligen alle in Quar<lb break="no"/>tier an
+                            <rs type="place" ref="#campodenno">obbesagten Dorf</rs> wo gueter kalter
+                                        Luft,</s>
+                        <s type="complex"> die andern ein<lb/> wenig vorwerts wo noch schneig ist,</s>
+                    </seg>
+                    <seg type="sprache">
+                        <s type="simple">alhie reden die Leit alle wellisch,</s>
+                        <lb/>
+                    </seg>
+                    <seg type="verpflegung">
+                        <s type="simple">Wein ist nit gar guet</s>
+                        <s type="simple">kost daß Kändl 6 <choice>
+                                <abbr>X<hi rend="super">er</hi>:</abbr>
+                                <expan>Kreuzer</expan>
+                            </choice>,</s>
+                        <s type="simple">kein Pier bekant man<lb/> gar nit,</s>
+                        <s type="simple"> bis <date>däto</date> gelang <rs type="person" ref="#millinger_leonhard">ich</rs>
+                                                mit der Gäschi oder Lohn leicht aus,</s>
+                        <lb/>
+                        <s type="complex">daß Brod ist klein, und andere sachen
+                                                    Teur,</s>
+                        <s type="simple">man bekomt ums Geld hart<lb/> warme Speisen,</s>
+                    </seg>
+                    <seg type="strategisches">
+                        <s type="simple">obige schitzen haben ein Thall von <hi rend="overstrike">Nidergang</hi> Mit<lb break="no"/>tag <unclear>Sohne</unclear> zu verwachten,</s>
+                    </seg>
+                    <seg type="kommunikation">
+                        <s type="simple">den Brief von <rs type="place" ref="#bozen">Potzen</rs> aus von mir werd<lb/> ihr schan bekomen haben,</s>
+                    </seg>
+                    <seg type="marschieren">
+                        <s type="simple">von <rs type="place" ref="#bozen">Potzen</rs> aus bis hie her haben mir<lb/> 3. tag stand Quartir gehabt,</s>
+                        <s type="simple">mir seind von <rs type="place" ref="#waidring">haim</rs> aus bis <rs type="place" ref="#campodenno">alhero</rs>
+                            <lb/> 11. tag mäschiert,</s>
+                        <s type="simple">von <rs type="place" ref="#campodenno">hie</rs> bis <rs type="place" ref="#waidring">Waidring</rs> ist es 69 stund,</s>
+                    </seg>
+                    <seg type="strategisches">
+                        <s type="complex">die<lb/> Landschaft von <rs type="place" ref="#innsbruck">Innspruck</rs> hat uns Befelch geben 4. wochen auf den<lb/> post porto zustehen ohne den Reisen,</s>
+                        <s type="complex"> aber der <rs type="person">Gräntz Cammissäri</rs>
+                            <lb/> so in <rs type="place" ref="#nonsberg">Ainsberg</rs> nechst bei uns ist
+                                                                                sagt nur etwa 18. täg alhie<lb/> zu bleiben,</s>
+                        <s type="complex">als dan nach haus reisen, wie mir
+                                                                                    verhoffen,</s>
+                    </seg>
+                    <seg type="kriegsgeschehen">
+                        <s type="complex">Von<pb/>
+                            <rs type="person" ref="#franzosen">francossen</rs> förchten mir uns nit viel, dan <rs type="person" ref="#franzosen">sie</rs> fliechen die<lb/>
+                            <rs type="person" ref="#deutschen">deutschen schitzen</rs> ser,</s>
+                        <s type="simple">der
+                            <date>fasching Sontag</date> kommen von einen<lb/> berg bey 328. <rs type="person" ref="#franzosen">man francossen</rs> gegen <rs type="place" ref="#mezzolombardo">wellisch metz</rs> ganz<lb/> zuehi zum markt,</s>
+                        <s type="simple">mir schitzen
+                                                                                                        seind 5 stund herunt bey zu<lb/>
+                            <rs type="place" ref="#termeno_sulla_strada_del_vino">Tränim</rs> und <rs type="place" ref="#cortaccia">Kardäscht</rs>,</s>
+                        <s type="complex">da kam an <date>Sontag um 9
+                                                                                                                uhr Abend</date>
+                            <lb/> ein ordinäntz mit Briefe mir 7. Componieren schitzen so bey<lb/>
+                            aintausent fünfzig man seind sollen uns schnel aufmachen<lb/> und nach <rs type="place" ref="#mezzocorona">deutsch metz</rs>, so neben <rs type="place" ref="#mezzolombardo">wellisch <hi rend="overstrike">Michali</hi>Metz</rs> ligt
+                                                                                                                rai<lb break="no"/>sen,</s>
+                        <s type="complex">da haben mir schnel daß gewehr geladen und alle 4.
+                            biß<lb/> 5. stund eine schlechte neben strassen bey der Nacht gegen <rs type="place" ref="#mezzocorona">Metz</rs>
+                            <lb/> Mäschiert,</s>
+                        <s type="complex">Bald mir hinkomen sind, so seind die <rs type="person" ref="#franzosen">francosen</rs> schan
+                            <lb/> alle über den Berg ausgeraüst und mir haben keinen ge<lb break="no"/>sechen nur 2 <rs type="person" ref="#franzosen">francosen</rs>
+                            <note type="crit_app">Nachträglich eingefügt</note> haben die schitzen Bekommen,</s>
+                    </seg>
+                    <seg type="krankheit-klima">
+                        <s type="simple">in <rs type="place" ref="#bozen">Potzen</rs>, <rs type="place" ref="#ora">Auren</rs>, <rs type="place" ref="#termeno_sulla_strada_del_vino">Tre<lb break="no"/>min</rs>, <rs type="place" ref="#egna">Neumarkt</rs>, und
+                        mer orten ist die Krankheit und sterben<lb/> starck,</s>
+                        <s type="simple">seind Warme ort,</s>
+                        <s type="complex">nebst <rs type="place" ref="#magre_sulla_strada_del_vino">Margreit</rs> haben mir <hi rend="overstrike">Kersch</hi>Feigenbaum<lb/> Blie und oster Blieml gesechen,
+                            aber wo mir ietzt sind ist es später<lb/> kälter, und keine Krankheiten gott
+                            lob,</s>
+                    </seg>
+                    <seg type="grüsse">
+                        <s type="complex">duet <rs type="person" ref="#prantner_katharina">ihr</rs> mir auf die<lb break="no"/>sen Breif schreiben wie es zu Haus aufget, wo ihr gesund
+                                seit,<lb/> oder waß es sonst gibet zu <rs type="place" ref="#waidring">Waidring</rs>.</s>
+                        <s type="complex">Also mein Weib bist<lb/> du und alle in Haus von mir
+                                        schenstens gegriest, in schutz<lb break="no"/>Gottes und seiner wertisten Mutter
+                                        Maria befolchen,</s>
+                        <s type="complex">auch an alle<lb/> einen grues die mir nachfragen und von mir
+                                            waß wissen<lb/> wohlen,</s>
+                        <s type="simple">absonderlich einen gruess an <rs type="person" ref="#stainer_johann">Herrn Post<pb break="no"/>meisters</rs> zu <rs type="place" ref="#waidring">Waidring</rs>,</s>
+                        <s type="complex">auch last der <rs type="person" ref="#prantner_johann">Hans<lb/> Prantner</rs> seine Eltern und geschwister
+                                                        griessen mit<lb/> vermelden daß er gesund seye,</s>
+                        <s type="simple">auch von <rs type="person" ref="#gorgiser_michael">Michael Gorgi<lb break="no"/>ser</rs> einen grues an
+                                                            die <rs type="person" ref="#auer">Auer Hausgesind</rs>.</s>
+                    </seg>
+                </p>
+                <p>Actum <rs type="place" ref="#campodenno">Campdideno</rs> auf den <rs type="place" ref="#nonsberg">Ainsberg</rs> den <date>28. Februäry 1797.</date>
+                </p>
+                <p>
+                    <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs> Feld<lb/> Wäbl unter <rs type="person" ref="#feller_andreas">Herrn Hauptman<lb/> Feller</rs>.</p>
+                <p>Den Brief den ihr mir schreibt sol die überschrift<lb/> sein.</p>
+                <p>Dem <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs> Feld Wäbl unter<lb/>
+                    <rs type="person" ref="#feller_andreas">Herrn Hauptman Feller</rs> 1te Kitzbichlerisch<lb/> scharf schitzen Componi bey <rs type="person" ref="#unbekann">
+                        <unclear>Lovräte</unclear>
+                        <lb/> Pfleger zu <rs type="person" ref="#egna">Neumarkt</rs>
+                    </rs> abzugeben.<lb/> An Hof Freising nebst <rs type="place" ref="#cortaccia">Kärdätsch</rs>.<lb/>
+                    <rs type="place" ref="#innsbruck">Innspruck</rs>.<lb/>
+                    <rs type="place" ref="#egna">Neumark</rs>.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

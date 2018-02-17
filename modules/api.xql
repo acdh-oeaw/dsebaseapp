@@ -1,15 +1,15 @@
 xquery version "3.0";
 
-module namespace api="http://www.digital-archiv.at/ns/dsebaseapp/api";
+module namespace api="http://www.digital-archiv.at/ns/millinger-archive/api";
 declare namespace rest = "http://exquery.org/ns/restxq";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 import module namespace functx = "http://www.functx.com";
-import module namespace app="http://www.digital-archiv.at/ns/dsebaseapp/templates" at "app.xql";
-import module namespace config="http://www.digital-archiv.at/ns/dsebaseapp/config" at "config.xqm";
+import module namespace app="http://www.digital-archiv.at/ns/millinger-archive/templates" at "app.xql";
+import module namespace config="http://www.digital-archiv.at/ns/millinger-archive/config" at "config.xqm";
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare namespace http = "http://expath.org/ns/http-client";
 
-declare variable $api:JSON := 
+declare variable $api:JSON :=
 <rest:response>
     <http:response>
         <http:header name="Access-Control-Allow-Origin" value="*"/>
@@ -23,7 +23,7 @@ declare variable $api:JSON :=
     </output:serialization-parameters>
  </rest:response>;
 
-declare variable $api:XML := 
+declare variable $api:XML :=
 <rest:response>
     <http:response>
         <http:header name="Access-Control-Allow-Origin" value="*"/>
@@ -39,9 +39,9 @@ declare variable $api:XML :=
 
 
 (:~ lists content of collection ~:)
-declare 
+declare
     %rest:GET
-    %rest:path("/dsebaseapp/{$collection}/{$format}")
+    %rest:path("/millinger-archive/{$collection}/{$format}")
     %rest:query-param("page[number]", "{$pageNumber}", 1)
     %rest:query-param("page[size]", "{$pageSize}", 20)
 function api:list-documents($collection, $format, $pageNumber, $pageSize) {
@@ -50,14 +50,14 @@ let $result:= api:list-collection-content($collection, $pageNumber, $pageSize)
 let $serialization := switch($format)
     case('xml') return $api:XML
     default return $api:JSON
-        return 
+        return
             ($serialization, $result)
 };
 
 (:~ lists content of collection according to datatables API ~:)
-declare 
+declare
     %rest:GET
-    %rest:path("/dsebaseapp/dt/{$collection}/{$format}")
+    %rest:path("/millinger-archive/dt/{$collection}/{$format}")
     %rest:query-param("start", "{$start}", 0)
     %rest:query-param("lenght", "{$lenght}", 10)
 function api:list-documents($collection, $format, $start, $lenght, $draw) {
@@ -66,19 +66,19 @@ let $result:= api:dt-list-collection-content($collection, $start, $lenght, $draw
 let $serialization := switch($format)
     case('xml') return $api:XML
     default return $api:JSON
-        return 
+        return
             ($serialization, $result)
 };
 
-declare 
+declare
     %rest:GET
-    %rest:path("/dsebaseapp/{$collection}/{$id}/{$format}")
+    %rest:path("/millinger-archive/{$collection}/{$id}/{$format}")
 function api:show-document-api($collection, $id, $format) {
     let $result := api:show-document($collection, $id)
     let $serialization := switch($format)
     case('xml') return $api:XML
     default return $api:JSON
-    return 
+    return
        ($serialization, $result)
 };
 
@@ -89,8 +89,8 @@ declare %private function api:dt-list-collection-content($collection as xs:strin
         let $docs := collection($config:app-root||'/data/'||$collection)//tei:TEI
         let $all := count($docs)
         let $docs := subsequence($docs, $start, $start+$lenght)
-       
-        let $result := 
+
+        let $result :=
             <result>
                 <draw>{$draw}</draw>
                 <recordsTotal>{$all}</recordsTotal>
@@ -98,9 +98,9 @@ declare %private function api:dt-list-collection-content($collection as xs:strin
                 <meta>
                     <hits>{$all}</hits>
                 </meta>
-               
+
                 {for $doc in $docs
-                
+
                 let $id := app:getDocName($doc)
                     return
                         <data>
@@ -112,7 +112,7 @@ declare %private function api:dt-list-collection-content($collection as xs:strin
                         </data>
                  }
             </result>
-            return 
+            return
                 $result
 };
 
@@ -132,8 +132,8 @@ declare %private function api:list-collection-content($collection as xs:string, 
         let $next:= if ($pageNumber lt $last) then $pageNumber + 1 else $pageNumber
         let $next := $self||'?page[number]='||$next
         let $last := $self||'?page[number]='||$last
-       
-        let $result := 
+
+        let $result :=
             <result>
                 <meta>
                     <hits>{$all}</hits>
@@ -145,9 +145,9 @@ declare %private function api:list-collection-content($collection as xs:string, 
                     <next>{$next}</next>
                     <last>{$last}</last>
                 </links>
-               
+
                 {for $doc in $docs
-                
+
                 let $path := functx:substring-before-last(document-uri(root($doc)),'/')
                 let $id := app:getDocName($doc)
                 let $path2me := string-join(($base, $id, 'xml'), '/')
@@ -166,16 +166,16 @@ declare %private function api:list-collection-content($collection as xs:string, 
                         </data>
                  }
             </result>
-            return 
+            return
                 $result
     else
         let $result := <error>Page size and page number params need to be of type integer</error>
-        return 
+        return
             $result
 };
 
 declare %private function api:show-document($collection as xs:string, $id as xs:string){
     let $doc := doc($config:app-root||'/data/'||$collection||'/'||$id)
-    return 
+    return
         $doc
 };

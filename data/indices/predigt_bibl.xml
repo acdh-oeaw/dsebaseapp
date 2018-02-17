@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="edoc_ed000232_fg_transcript_all" xml:base="http://diglib.hab.de/edoc/ed000232/">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bibliographie</title>
+                <respStmt>
+                    <resp/>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>07.08.2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p> Das Personenverzeichnis bezieht sich auf die digitale MWB-Edition. </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography">
+                
+                <head>Bibliographie</head>
+                
+                
+                <listBibl xml:id="sekundär">
+                    <head>Sekundärliteratur</head>
+                    <bibl xml:id="andorfer_millinger">
+                        <author>
+                            <forename>Peter </forename>
+                            <surname>Andorfer</surname>
+                        </author>
+                        Die "Weltbeschreibung des Leonhard Millinger" als Schlüssel zum "Weltbild" des mitteleuropäischen Bauern? Viele Fragen und einige Antworten, in: Gunda Barth-Scalmani u. a. (Hg.), Forschungswerkstatt: Die Habsburgermonarchie im 18. Jahrhundert (Jahrbuch der Österreichischen Gesellschaft zur Erforschung des Achtzehnten Jahrhunderts 26), Bochum 2012, S. 225-240. 
+                        <ptr type="opac" cRef="718484592"/>
+                    </bibl>
+                    <bibl xml:id="pergler_waidringer">
+                        <author>
+                            <forename>Adolf </forename>
+                            <surname>Pergler</surname>
+                        </author>
+                        Die Waidringer Freiheitskämpfer von 1796 bis 1814. Ein Erinnerungsblatt von Adolf Pergler, k.k. Bezirksrichter in Lofer, Lofer 1907. PDF: <ref>http://digital.tessmann.it/tessmannDigital/Buch/18914/</ref>
+                    </bibl>
+                    <bibl xml:id="faust_krassnig_klöster">
+                        <author>
+                            <forename>Ulrich </forename>
+                            <surname>Fausst</surname>
+                        </author>
+                        <author>
+                            <forename>Waltraud </forename>
+                            <surname>Krassnig</surname>
+                        </author>
+                        Die Benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol 2002. <ptr type="opac" cRef="356910849"/>
+                    </bibl>
+                    <bibl xml:id="mayer_anteil">
+                        <author>
+                            <forename>Matthias </forename>
+                            <surname>Mayer</surname>
+                        </author>
+                        Der Tiroler Anteil des Erzbistums Salzburg, kirchen- und kunstgeschichtlich, 5. Band: Kirchdorf – Waidring – Kössen und Schwendt, Going 1956.
+                    </bibl>
+                    <bibl xml:id="dorfbuch_stulrich_pillersee">
+                        <author>
+                            <forename>Werner </forename>
+                            <surname>Köfler</surname>
+                        </author>
+                        Chronik von St. Ulrich am Pillersee, St. Ulrich a. Pillersee 1977.
+                    </bibl>
+                    <bibl xml:id="dorfbuch_kirchdorf">
+                        <author>
+                            <forename>Christian </forename>
+                            <surname>Nothdurfter</surname>
+                        </author>
+                        Kirchdorf in Tirol. Hrsg. Gemeinde Kirchdorf in Tirol. Red. von Christian Nothdurfter u.a., Kirchdorf in Tirol 2005.
+                    </bibl>
+                    <bibl xml:id="dorfbuch_fieberbrunn">
+                        <author>
+                            <forename>Werner </forename>
+                            <surname>Köfler</surname>
+                        </author>
+                        Fieberbrunn. Geschichte einer Marktgemeinde, Fieberbrunn 1979.
+                    </bibl>
+                    <bibl xml:id="peters_pflug">
+                        <author>
+                            <forename>Jan </forename>
+                             <surname>Peters</surname>
+                        </author>
+                        Mit Pflug und Gänsekiel, Selbstzeugnisse schreibender Bauern. Eine Anthologie (Selbstzeugnisse der Neuzeit 12), Köln-Weimar-Wien 2003.
+                    </bibl>
+                    <bibl xml:id="schennach_revolte">
+                        <author>
+                            <forename>Martin P. </forename>
+                            <surname>Schennach</surname>
+                        </author>
+                        Revolte in der Region. Zur Tiroler Erhebung 1809 (Veröffentlichungen des Tiroler Landesarchivs 16), Innsbruck 2009.
+                        
+                    </bibl>
+                    <bibl xml:id="haisjackl_wintersteller">
+                        <author>
+                            <forename>Herta </forename>
+                            <surname>Haisjackl</surname>
+                        </author>
+                        Major Rupert Wintersteller – Tiroler Schützenkommandant 1809. Der glücklose „Abgott der Unterinntaler“, in: Brigitte Mazhol, Bernhard Mertelseder (Hg.), Abschied vom Freiheitskampf? Tirol und ‚1809‘ zwischen politischer Realität und Verklärung (Schlern-Schriften 346), Innsbruck 2009, S. 199-222.
+                    </bibl>
+                    <bibl xml:id="steiner_freiheitskampf">
+                        <author>
+                            <forename>Hans </forename>
+                            <surname>Steiner</surname>
+                        </author>
+                        Der Freiheitskampf in seinen Folgen. Kriegsschäden im Strub- und Saalachtal am Beispiel zeitgenössischer Aufzeichnungen, in: Friederike Zaisberger / Fritz Hörmann (Hg.), Freiden - Schützen 1809-2009, S. 355-377. 
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

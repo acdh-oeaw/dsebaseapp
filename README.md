@@ -1,4 +1,4 @@
-# Digital (scholarly) Editions Base Application (dsebaseapp)
+# Digital (scholarly) Editions Base Application (millinger-archive)
 
 An [eXist-db](http://exist-db.org/exist/apps/homepage/index.html) based application to create, curate, publish and analyze 'digital (scholarly) editions.
 

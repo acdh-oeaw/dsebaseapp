@@ -3,11 +3,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>About your application</title>
+                <title>The Millinger Archiv</title>
                 <author>
                     <persName>
-                        <forename>forename</forename>
-                        <surname>surename</surname>
+                        <forename>Peter</forename>
+                        <surname>Andorfer</surname>
                     </persName>
                 </author>
             </titleStmt>
@@ -27,8 +27,8 @@
     <text>
         <body>
             <div>
-                <head>About</head>
-                <p>Some place to write your project</p>
+                <head>The Millinger Archiv</head>
+                <p>Leonhard Millinger</p>
             </div>
         </body>
     </text>

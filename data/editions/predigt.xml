@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd" xml:id="edoc_ed000232_fg_transcript_f01" xml:base="http://diglib.hab.de/edoc/ed000232/">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Die Predigtmitschriften des Leonhard Millinger </title>
+                <author>Leonhard Millinger</author>
+                <respStmt>
+                    <resp>TEI-P5 konforme Kodierung durch</resp>
+                        <name type="person">Peter Andorfer</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name type="person">
+                        <name>Peter Andorfer</name>
+                    </name>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno type="workID">http://diglib.hab.de/edoc/ed000232/start.htm</idno>
+                <idno type="ppn">78630202X</idno>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr type="crossRef" target="http://www.hab.de"/>
+                </publisher>
+                <date>2014</date>
+                <availability status="restricted">
+                    <p>
+                        Available at
+                        <ref target="http://diglib.hab.de/edoc/ed000232/start.htm">
+                            (c) Herzog August Bibliothek Wolfenbüttel
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <revisionDesc status="unfished">
+            <list>
+                <item>systematische Auszeichnung der Orts- und Personennamen </item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="pb_i" n="I" facs="#mss/ed000232_00003"/>
+            <div xml:id="titelblatt">
+                <head>
+                    <choice>
+                        <orig>
+                            <hi rend="head1">pro Memori</hi>
+                        </orig>
+                        <reg>Titelseite</reg>
+                    </choice>
+                </head>
+                <p>
+             Aufschreibung, etlicher Predigen, sozu <rs type="place" ref="#fieberbrunn">fieberprun</rs>: und anderen orthen ao: <date when="1773">1773</date> gehalten worden sind. <lb/>
+             In diesen Buech hab <rs type="person" ref="#millinger_leonhard">ich</rs> 16. Predigen, etwaß ganz und etliche ganz kurz geschriben; nach deme ich solche gehört: so habe <rs type="person" ref="#millinger_leonhard">ich</rs> es bei der nacht: und Frürtag auf notiert, und Erst in meinen älteren Jahren alhero geschriben; zu mein: und etwan anderer Seelen Heil, damit das gehörte nicht so gschwind ausser acht gelassen werde. 
+             </p>
+                <p rend="center">
+             Dritte Buech.
+          </p>
+                <p rend="left">
+                    <rs type="person" rend="#millinger_leonhard">Leonhard Millinger</rs>, <rs type="place" ref="#bommer">Pomer</rs> Sohn Von <rs type="place" ref="#waidring">Waidring</rs>, des Alter in den <date when="1773">21. Jahr</date>, bei den <rs type="person" ref="#millinger_simon_onkel">Hofmark Schreiber, Mesner, und Schuelmaister</rs> in Dienste, um obige Zeit <date when="1773">1773</date>. 
+          </p>
+                <pb xml:id="pb_ii" n="II" facs="#mss/ed000232_00004"/>
+                <pb xml:id="pb_1" n="1" facs="#mss/ed000232_00005"/>
+            </div>
+            <div xml:id="predigt_1">
+                <head>
+                    <choice>
+                        <orig>1.te Predig so gehalten der Herr Pater Vikäri <rs type="person" ref="#schmutzer">Benno Schmutzer</rs> Vikari zu <rs type="place" ref="#fieberbrunn">Fieberprun</rs> den <date when="1773-06-20">20. Juny ao: 1773</date> als am 3ten- Sontag nach Pfingsgen.</orig>
+                        <reg>1. Predigt</reg>
+                    </choice>
+                </head>
+                <p>
+             In den heutigen Evangeli Lesen mir, das Christus sagt, das über einen Sinder grössere freid sein würd, als über 99.ig die dö Buess nit Bederffen, über einem Sinder, über Ein Schaf das Verlohren war, wen ein solches wider gefundten würd, so würd ein Volmächtige freid in Himmel bei den Lieben Englen sein, gleich wie sich das Weib erfreut hat so 10. Groschen in ihrem reich gehabt. hat Einen Verlohren diese aber widerum gefundten hat, Wan ein Siender Rechte Buess Tuet, so würd ein Volmächtiger Jubel und Freud sein in den Himmel, der ganze Himmel erfreuet sich wen ein Sinder widerum zuruckkehret: und sich finden last, durch die Buess aber geliebte bildet euch nit ein daß ihr alle die ihr Buess getan habt ein grosse und volmächtige freud in Himmel gemacht habt, gewislich nit, macht euch dise Gedänken nit, das ihr schan Buess getan habt, Biesser genueg, daß ist war, Leicht Leit genueg, an diesen manglet nie mahl, aber wahre Büesser mit vil wahre Büesser die in Himml ein freid machen, dise seind wenig, an dise manglets wohl, ia ich sage noch ein mahl auf keine weiß habt ihr alle wahre Buess getan, zu einer wahren Buess gehört was mehrers darzue, iene Buess die mir Verricht haben, dise ist keine wahre Buess nit, dise ist nur ein schein Buess, ia geliebte, Leichter si, merkt es, Leichter ist es gar nie mahls fählen, gar nie strauchlen oder Sindigen, als näch der Sind widerum aufstehen und Buess Thuen darüber, weil mir den Himmel Bishero Leid gebracht haben, anstat dessen aber hinfüran freud bringen, so hört an: und gewet acht auf meine heutige Predig: Das es einen
+             <pb xml:id="pb_2" n="2" facs="#mss/ed000232_00006"/>
+             ernst einen gewalt Braucht Vor der Buess und zu der Buess in den Ersten Teil. das es ein Gewalt, kröften, und einen Mann erfordert und braucht dies würd weisen der zweite Teil. <lb/>
+             Einen dreiyfachen strick reist man so Leicht nit ab, und dannoch muest du disen abreissen, wan du eine Buess Thuen wilst, die in Himmel eine Volkommene freid macht, ia Gleichsam mit drey Meß Saillen ist der Sinder angehenkt: und Gehengt an dreyen feindten der Welt, den Teufel und den Eigenen fleisch, dise drey stakre strück must du Biessender Sinder wan du zur Buess greiffen wilst auf ein mahl ab: und weck Reissen, eines nach den anderen wohlen mir kurz durch suchen und sechen der erste feind oder strick den du abweisen must ist Welt; die Welt hast du Lieb, derentwegen kanst du ihr nicht Versagen, also wie Adam der Ewa die Verbothen frucht zu Essen nit Versagen hat können, die Welt dise ist die angenem auf allen seithen, der fraß: und der spil Tisch, die alte Sindhäfte Kammerratschaft, und die Lustbarkeit, dises ist die Welt, dise Welt Liebest du, hingegen ist die Welt in dich Verliebt, und du in die Welt, also ist Von der Welt gehen nit Leicht, aber mein Biessender Sinder, wan du schan die Welt: daß ist ihre Eitle freuden und Lustbarkeiten, und die Kammeratschaft Verlassen wilst: und entlassen bist durch eine wahre Buess dich darvon abreissen, also sagt die Welt zu dir, so Bald sie Vermerkt das du ein Buesser werden wilst, schan sagt di eWelt, waß wilst ietzt tuen, waß hast in Sie, wilst du dich von uns hinweckmachen, kanst du Lustig sein und wohl Leben allein, wie Lustig würd dir sein, 
+             
+             <pb xml:id="pb_3" n="3" facs="#mss/ed000232_00007"/>    
+             Versuechs nur, du kanst das Melankolische Leben gewiß nit lang gedulten, du must ehender ins grab, vergune doch dier ein Lustiges Leben, ietzt kanst dus habe, ietzt können mir Lustig sein, das Harte Biessende Leben, gehört nur für die Mönichen, Wald Brüedern, und Einsidlern zue, diß und dergleichen sagt die Welt zu dir: dein eigne Hausgenossen seind auch dein Welt feind, freilich seind jene nit bei dir in den Beicht stuel, aber vorhero haben sie dich in ihr gebundten; Schau ist disen Strick oder feind abreissen Leicht, Braucht das nit ein ernst; Aber es get halt Vilen wie es den Heiligen Augustinus ergangen ist, Weil Augustinus noch ein Sinder war gab ihm gott durch eine Heilsame ermanung, Er solte Buess Thuen, über sein Sindhaftes Leben, Augustinus sache wohl seine augenscheinliche gefahr der Ewigen Verdamnuss, wofern er nit eine wahre Buess Tuet, Augustinus entschlosse sich oft, er will Buess Thuen, er will sich Von der Welt, daß ist soner Bösen Kammerradschaft hinweck machen, diser abersagen, aber so Bald seine mit kammerraden dises merkten sagten sie Augustin waß wilst ietzt tuen, wilst uns ietzt absagen, was Tuest allein, wilst du ein Gestrenges Leben anfangen, das ist ia Augenscheinlich wider dein natur, das get bei [dir] nit, bleib bei uns, sey Lustig, ietzt kans sein, Augustinus liese im dissagen, und blibe der alte Sinder, oft hat Augustin in sin gehabt Buess tuen, aber in das werkstellen hat er 2.3. und 4. Jahr zutuen gehabt, er blibe alzeit der alte Augustinus und Sinder: Er denkt ihm endlich selber kan ich dan gar niemahls Buess Thuen, ach 
+             
+             <pb xml:id="pb_4" n="4" facs="#mss/ed000232_00008"/>               
+             wie lange zeit hab ich in Sin Buess Thuen, und der Welt Absagen, kan aber solche niemahls ins werkstellen; Er sagt, ietzt wil ich mir rechten ernst antuen, welches auch geschechen ist, sehet was die Welt Verhindern kan, das der Sinder nit rechte Bueß Tuet. noch ein grösserer feind ist der Teuffel, diser sagt der Heilige Apostel Paulus, diser Teufel get herum wie ein Leb , und suecht wem er verschlucken kan, der Teufel [bemuet] sich Tag und Nacht, der Teufel schlaft und früerent niemahls, er suecht: und schaut, und Prowürt auf allerlei seithen, wie er den Menschen verfiehren kan, er Lauft: und schnauft, Er schwitz: und sitzt, nur den Menschen Von den gueten abzuhalten, und zu einer Sind bringen, damit Er sein eigen würd, ist das etwaß Leichtes, ist diser strick feind leicht abzureissen, aber samt den Teufel und Welt, ist noch ein grösserer feind, und das ist unser fleisch, dieses ist der gröste feind. <lb/>
+             
+             Diser feind über windet ville, unser eigenes fleisch, das ist unser eigene Leib, diser wil nur guet Leben haben, unser fleisch das wil nicht wissen von fasten: und Casteiungen, es will nicht wissen als freiden: und Lustbarkeiten, sagt man den Leib: oder Fleisch von der Buess, o sagt sie, die Buess ist zu hart, ich kans nit Tuen; mit einen wort der Leib will haben gut Essen, Sauffen, Schlaffen, und der Eitlen kurz weil: und Lustbarkeit nach gehen, dises ist der stärkiste feind. Sehet ihr ietzt, die ihr meint zu der Buess Brauchts nit Vil, wie Vil Braucht es, o wie hart seind die drey Haupt feind zu überwindten, ist es nit war das es Ernst, kröften: und Gewalt braucht ehe und biß man zu der Buess komt. und noch nit genueg es braucht in: und bey der Buess auch wiederum ein Gwalt, kröften, Ernst, und einen Mann
+             
+             <pb xml:id="pb_5" n="5" facs="#mss/ed000232_00009"/>               
+             und dis in zweiten Teil. <lb/>
+             Die Juden haben den Heiligen Apostel Petrerum in einen Tieffen: und festen kerker gespäret, das unmöglich war Er widerum heraus zu komen, aber gott der Herr schickte den Petrus einen Engel zue, der im heraus füehrte, durch die Erst: Eiserne Thür: oder Wacht, durch die andere, und Endlich durch die dritte wacht, das der guete Petrus widerum Von allen gefängnuss und Bandten widerum frey, ledig, und Loß war. Jetzt wer ist unter dem Petrus Verstandten, der Sinder Buess Theuen will, un dder Engel ist die Buess, die den Sinder hreaus fiehren wil von Sindten, aber es seind halt drey starke Eisserne wachten und Thiren, und dies seind zum ersten die Scham, zweiten Reu, und dritten die Böse gewohnheitten, durch dise drey wachten wil der Engel: oder die Buess den Sinder heraus füehren; aber es habe ville einen zu schwachen Engel, daß ist einen schlechten und geringen Ernst Buess zu thuen, wenig kommen durch diese: und von diesen drey wachten heraus, dass nit in einer stecken und hangen Bleiben, wo nit in der ersten, doch anderen, und dritten. Dise drey wohlen mir auch in kürze durch gehen: und sechen, wie vielle in der Ersten wacht stecken Bleiebn von wegen der scham , das sie ihre Sinden nicht Beichten getrauen: oder Verkleinern: und Verduschen. Wie hart ist es seine haimlihce Sinden offenbahren, alle umstand und Zahl, daß ist nicht Leichtes, dagen müssen ich bin ein Tieb, sagen miessen ich bin ein Kinder Mörder: oder Mörderin, ia nit allein den Leib, sondern auch Seelen mörder, sagen müssen eine Herr ich bin nit mehr die ienige für die mich der Herr angesechen hat, da´kleinot ist hin, die Jungfrauschaft ist hin, ich habs Verloren und Verscherzet, ich bin ein Huer, und nit eine Jungfrau, sagen müssen ich bin ein 
+             
+             <pb xml:id="pb_6" n="6" facs="#mss/ed000232_00010"/>               
+             Ehebrecher, und Todschlöger, ein Verfiehrer, ein Betrieger, und dergleichen, ist daß waß leichts, der Teufel macht den Sinder da er Sindiget: und Sindigen wihl die Sind gering, Leicht vor, Benimt ihme alle scham, und speibt im ein er kans schan widerum Beichten, aber bei der Beicht und Buess da gibt Er die scham widerum zurugg, wie es einmahl ein frommer Priester zu ostern gesechen hat, da der Teufel Von einem Beichtstuel zum anderen geloffen ist, da der Teufel Befragt worde ist was er da macht, Er hat gesagt ich muß zurugg geben, weil sie gesindiget haben, hab ich ihnen die scham genommen, anietzto gib ichs ihnen zuruck, und machs ihnen schwörzer vor, damit sie es ihnen nit zu Beichten und offenbahren Trauen, sehet dies duet der Teufel, der Teufel wil haben die Sinden sollest du nit offenbaren, oder da du es schan offenbaren duest, du oft unter wehrender Verzehlung dies zuruck reissen vermändtlen, ihnen eine andere farb anstreichen, Verkleinern oder gar die zahl nit sagen, secht wie hart, o wie Vil Blieben nit da schan in der ersten wacht wegen schamhaftigkeit stecken. <lb/>
+             Die aber durch dise erste Eiserne Thrü oder Wacht herauß kommen seind, ist zu besorgen sie mögen durch die andere nit mehr hinaus, welches ist die Reu. Von wegen der Reu: und Leid da bleiben gar Ville stecken, das ist der Haupt Buncten, an disen Eckstain stossen sich gar vielle an: und fallen, die Reu Braucht mehrer als ihnen einige Einbildten, die Reu muß übernatirlich sein, und nicht natürlich, die natürliche reu hilft nicht vor der Beicht, in der Beicht, oder nach der Beicht, eine über natürliche Reu muß sein: Wan es dich Reut das du Etwaß gestohlen hast, und der durch um dein Ehr, guten Namen, und in Verdacht kommen bist, wans dich Reuet daß du wegen deiner unzucht 
+             
+             <pb xml:id="pb_7" n="7" facs="#mss/ed000232_00011"/>               
+             in Schand und spot auch unkosten kommen Bist, wen es dich reuet daß du Von neben Menschen nit mehr für from, sondern für Sindhaft angesechen würst, Wan es dich auf dise und dergleichen weiß Reuet, so ist die Reu gar kaine nützliche Reu, es nutzt dich nicht, dan die Reu muß wegen Gott sein, auß forcht Gottes, oder aus Liebe Gottes, wie mirs schan in dir fasten Christenlehre gehört haben, das es nemlich sein muß das Herz muß blietten, das Herz muß Weinen, nit der Mund, sondern das Herz, dieses muß blietten. Aber bei Villen gehet dise übernatrüliche Reu ab, wie Ville Bleiben in dieser wacht stecken, die in der Ersten zwar heraus kommen seind, aber in diser Zweitten Bleiben Ville, und Vielle, und die mehrist bleiben in diser Thir und Wacht hangen und stecken. Die aber das glück haben, und kommen durch diese wacht mit der Reu heraus, so ist halt annoch zu Besorgen, sie Bleiben in der dritten und letzten Wacht noch stecken. Welches ist die Böse gewohnheitten. <lb/>
+             Die Böse gewohnheiten abreissen, durch Brechen das Braucht gwalt. Die alte Kammeratschaft Verlassen, die du also Liebst, das ungerechte guet: und Ehrlichen nammen zurugg geben das du so lang Besizest, dem Spil: und Zech Tisch verlasse den du so oft suechst und Lieb hast, die Hochfart die du also üebst, in kleidung, Sitten, und Gebärden, deine gewohnheitten Zorn: und Fluechen, auch Schelten ein ausgang zu machen, sehet braucht dies nit Gewalt, ehe ihr mit diser ein ausgang macht, die Gewohnheit ist daß sprich wort ist ein Eisserne Pfaid, daß ist war
+             
+             <pb xml:id="pb_8" n="8" facs="#mss/ed000232_00012"/>               
+             aber ziecht dirs ab du duest dir nit Laid, aber wie gets mit disen stuck, man get zwar Beichten, fragt der Preister hast reu und Leid ia sagen sie, hast einen [steiften] ia mein Herr, ia heist es; du bist aber kaum auß dem Beichtstuel, oder aus der Kirchen, disen tag noch, oder in zwey oder drey tagen Bist du der alte Luederer, der alte Sinder, waß ist das, heist das die alte Böse gewohnheiten abziechen, ausfreissen, und durch Brechen, wie Vil, wie Ville Bleiben in der letzten wacht noch stecken, die durch die zwey heraus kommen seind: Bleiben noch in der dritten und letzten stecken. <lb/>
+             So sichst du gelt da du meinst, du mit deiner Buess hast schan von gott: und den Englen in Himmel eine Volkommen freud gemacht, siche ob du in disen drey wachten nirgenst hanget: und steckent bliben bist; Wan du durch dise drey Thüren kommen bist, hernach wen du in: und Bei der Buess die drey feind überwundten hast, als dan hast eine wahre Buess gewürkt, und Freud gemacht in Himmel, sonst nit, ietzt must du erkennen, das die Buess nit ein Leichtes: und schlechtes ding sei, die Buess: wie ich schan gesagt hab, und dise drey wachten durch gehen daß Braucht gwalt, das Braucht köften, das Braucht einen ernst, und das Braucht auch einen Mann, waß er Verspricht muß erhalten, Nit kratk Beichten und Sindigen, und Sindigen und Beichen, das ist ein schein Buess, und kein Buess. Der König David, ein Mann nach den Herzen Gottes, nach dem er ein Ehebruch und Tod schlag Begnangen hat, diser hat nit Gschwind Buess Tuen können, und wäre ein so Gelehrter Mann, zuvor ein Gerechter, ein Heiliger Mann, Ehe er dieses getan hat: dannoch hat er Neun Ganze Monat zu thuen
+             
+             <pb xml:id="pb_9" n="9" facs="#mss/ed000232_00013"/>               
+             gehabt, ehe er weine wahre Buess gewürket hat, ia er wurde noch länger die Buess Verschoben haben, oder dieselbe gar nit getan haben, wen ihme nit der Profet Nathan so eifrig ermant: und zur gesprochen und Gepredigt het: Aber wan wir schan Buess Thuen, wan mir schan Beichten gehen, ist es doch nit allemahl geut, weil auch oft die zue Bereittung darzue abget, nit nur allein in: und bei der Buess fählen Ville, sondern es ermanglet Villen Vor: und zu der Buess, wie mir schan Gehört haben, Von wegen den drey Haupt feindten, daß diese Villen zu stark seind, aber es fält auch Villen an der zuebereittung da, da steht man frue Morgens auf, mit gedanken heunt muß ich Beichten gehen, Eilet der Kirchen zue, Tringet den Beichtsuel zur: und hin, und erzehleten ihre Sinden her, ohne wahre Reu: und fürsatz heraus, Von den Beicht stuel zu den Speiß Gäter, und Isset das wahre Lam Gottes, den wahren Gottes, den wahren Gott hinein, geht von der Krichen hinaus, und nach Hauß, auf den Haim weeg iss schan widerum mit der Welt die anred, und mit der Welt eins worden, oder in ein kurze zeit Bist ein solcher Sinder wie zu Vor, oder wohl gar noch ein Grösserer, waß ist oft Von ein solcher Buess zu halten, gelt du bist halt in einen feind: oder Wacht Thir stecken: und hangen Bliben. Aber zu allen deinen solchen Buessen Lacht der Teufel, man sagt zwar Beichten oder Brünen, du aber, wan du solche schlechte Buess und Baichten Verrichten duest, so must dannoch Brinnen, und auf Ewig, ia Geliebte Von wegen der Buess, merkt es, Von wegen der Buess
+             
+             <pb xml:id="pb_10" n="10" facs="#mss/ed000232_00014"/>               
+             werden Ville, und Ville, und Ville Verdamt, Von wegen der Buess, nit von wegen ihrer Sinden, sondern Von wegen ihrer Buess, die sie so Liederlich, aus gewohnheit, und Brauchs halber so schlecht Verrichten und Empfangen, Von wegen dieser Buess werden gar so Vielle Verdamt.
+             Anietzto zum Beschluß geliebte sage ich euch, Bedenket ein ieder selber, ob er eine wahre Buess gewürket hat, die in Himmel eine Volkommene freud gemacht und annoch macht, habt ihr eine wahre Buess getan, so seit Versichert, die freid in Himmel ist gro´. Habt ihr aber kein rechte Buess gethan, so seith ihr Armseelige Sinder, und ihr habt Gehört wo ihr Villeicht Angestossen habt, suecht: und schaut zurugg, und Verpessert euer fehlen, und gebet acht ein iedweder, daß ihr hin für an eine wahre Buess Verrichet, das Bitte ich euch, Tuet euch ein Gwalt an, ein Ernst an, hienach hilft auch Gott mit seiner Göttlichen Gnad, und es gehet ganz Leicht vostatten, und machen Von wegen unserer Buess, Gott und den Engelen grosse: und Volkommene freüd in den Himmel, welchen ich euch allen winsche, Ammen. 
+             
+          </p>
+            </div>
+            <div xml:id="predigt_2">
+                <head>
+                    <choice>
+                        <orig> 2te-Predig, so gehalten der <rs type="person" ref="#unbekannte_person">Herr Pater Capuciner Vikäri: oder quärtian Von <rs type="place" ref="#kitzbühel">Kitzbichel</rs>
+                            </rs>, den <date when="1773-07-04">4. July</date> als St.-Ulrich tag und zugleich 5. Sontag nach Pfingsgen, zu <rs type="place" ref="#st_ulrich">St. Ulrich</rs>: alda die Haupt sach also.</orig>
+                        <reg>
+               2. Predigt
+            </reg>
+                    </choice>
+                </head>
+                <p>
+             St. Elisawet die Mutter des Heiligen Johanni des Tauffer, dise war gros Vor den Herrn, wie auch St. Johannes der Vorlauffer
+             
+             <pb xml:id="pb_11" n="11" facs="#mss/ed000232_00015"/>               
+             Jesu Christi: also ist auch der Heilige ischof St. Ulrich dies Pfarrgots Haus Patron groß vor den Herren, weillen mir anheunt dessen festtag begehen: und Verehren, so wil ich euch zeugen das des Heiligen Pischof Ulrich sein grsheit zweyfach seye: Erstens Vor den Augen der Menschen, zweitens vor den Augen gottes: Geliebte merket auf, ich fange an in nammen Jesu.<lb/>
+             Daß St. Ulrich groß Vor den Augen der Menschen ist, dies sechen mir in den ersten teil meiner Predig; Vor den Augen der Menschen, ist gemeiniglich groß Reichtum, Ehren stell, hoch ansechen, und Menschen gunst: aber in isch selbsten ist dies nicht grosses, auch Gott sicht daß nit für gros: sonden für gering an, und wie es in der Tad würklich ist, der Heilige Ulrich hat auch keinen Reichtum, und hoch ansechen; und Er war doch groß Vor den augen der Menschen, Er hat in sein Reichtum nicht mehr als nur Vier Hemeter, 6. Tisch Düecher, und drey SChilling geld, auch etwaß notwendigen Haußrat, Seine sehr Vielle Wunder Tatten machten ihme gros vor den Menschen, unser Pfarrs Patron St. Ulrich hat Ville Wunder Taten gewürket, ich wil nur ein Exempel bei bringen, Von einem Armen Betlman, diser hate eine Längere zeit einen Laibsschaden, er war fast von allen Verlassen, der Heilige Ulrich Bit bei Gott für ihme, und der Betler Bekomme die Völige gesundheit, also bitten mir den Heiligen Ulrich mit wahren Vertrauen, in allen unseren anligen, es würd uns geholfen werden, hat der Betler
+             
+             <pb xml:id="pb_12" n="12" facs="#mss/ed000232_00016"/>               
+             Hilf erhalten, und hat darum nit gebehten, um wie Vil mehr würd der Hilf Bekommen der dan um Bittet, wen ich alle Wunder so St. Ulrich gewürkt er zöhlen Tet, so wurden mir heunt keinen Ausgang bkeommen. In den zweiten teil wohlen mir sehen St. Ulrich zweite grosheit Vor den Augen Gottes, wegen seinen frommen Leben, und guten Tugenten. <lb/>
+             Vor Gott ist daß fromme Leben, und gute Tugent des Menschen in grossen wert und ansechen, wen es schan Vor den Augen der Menschen gering scheint, der Heilige Ulrichus ist nit Er allein from und gros Vor Gott diß wär noch nit gar Vil, aber Er bringt auch andere zu Gott, und macht auch dise groß vor gott, dises ist sehr Viel, und zwar nit nur allein mit worten, sondern auch mit werken welches noch ein Bessere Würkung hat als die Wort,die werk zwingen gelichsam den Menschen zur nachfol, mit worten bringtet man zwar auch Vil zu Gott, aber mit werken wäres noch Vil Leichter, St. Ulrich get seinen untertanen Vor mit stilschweigen, mit mässigkeit, mit Keuschheit, mit freygebigkeit, mit gedult, mit samftmuet, und mit frömigkeit, also sollen es auch mir machen, mir können zwar alle den geistlichen stand nit antretten, aber mir können doch stilschweigen, mir können doch mässig leben, von den Lasten des Volsaufen enthalten, mir können uns: absonderlich die Jugent Von der unkeuschheit erhalten, mior können und sollen ia den neben Menschen etwaß geben und mitteilen,  ia mit den Baren geld bkeomt oft einer ein Pfund schmalz, oder ein halbes stär getreidt nit. mir können gedultigen: und sanftmietiger sein, nicht in ungedult und Zorn ausbrechen: absonderlich sollen mir uns an die frömigkeit gewöhnen: als dan werden
+             
+             <pb xml:id="pb_13" n="13" facs="#mss/ed000232_00017"/>               
+             mir mit den Heiligen Pischof Ulrich groß Vor den Augen Gottes sein: also wohlen mir uns Befleissen, den Heiligen Ulrich unsern Pfarr Haupt Patron, seinen Tugenten nach zu folgen, als dan ist uns der Himmel zu einer Ewigen Belohnung, welches ich uns allen Herlich winsche Ammen.
+              
+             
+          </p>
+            </div>
+            <div xml:id="predigt_3">
+                <head>
+                    <choice>
+                        <orig> 3. Predig so gehalten der Herr <rs type="person" ref="#widmann">Pater Michl Widman</rs> Quätioter zu <rs type="place" ref="#fieberbrunn">Fieberprun</rs>, den <date when="1773-07-25">25. July 1773</date> am 8.ten- Sontag nach Pfingsgen oder Jakobi Tag.</orig>
+                        <reg>
+               3. Predigt
+            </reg>
+                    </choice>
+                </head>
+                <p>
+             In den Heuntigen festtag Ewangelio sechen mir, wie Beherzthaft die Mutter der zwey Söhn Zewadei war, das sie zu Jesu Christi gieng, da er mit seinen Apostlen allein auf einer seitehn war, und ihnen waß zu sagen het, und dannoch war dise Mutter so keck, und sie Baitede nicht auf eine gelegene Zeit mit Christo Jesu zu reden, und ihme zu bitten, daß ihre zewy Söhn einer zu der Rechten: der andere zur Linggen seiten sitzen könte; aber Christus der Herr ob Er schan mit seinen Apostlen zu Thuen het, kehrete Er sich dannoch zu der Betriebten Mutter und erhörete ihres Bittens: da wolte Christus der Herr anzeigen, das er alzeit: und an allen orthen bereit seye zu hlfen, wen er nur darum gebethen und gesuecht werde, so kan: und wil er unß helffen, in all unseren nöthen und anligen, Kreutz und Leiden, in all unser Betriebnussen und widerwärtikeiten der Seel: und Leib. Gott kan uns Helfen weil er allmächtig ist, dises weiset der Erste Teil. Gott will uns Hlefen weil er gietig und Barmherzig ist, und dises würd ezeigen der zweite Theil. So fang ich an in dem nammen Jesu und Maria. 
+             
+             <pb xml:id="pb_14" n="14" facs="#mss/ed000232_00018"/>               
+             das uns gott helfen kan dises ist gewis und unfehlbar, weil er allmächtig ist, und weil es ihme alles möglich ist, dises sechen mir ia weil Er die ganze Welt mit einen einzigen Viät erschaffen hat, alle Engel, alle Menschen, alles waß lebt: und schwebt, alles alles hat er nur mit einen einzigen Wörtl Viät es geschche, mit disen ist schan die ganze Welt Vor seiner gewesen, und wan ers haben wolt das die ganze Welt und alle menschen ietzt in disen Augenblick zu grund gehen solten, und dafür ein Tausent so grosse: und ville schenere Welten sein solten, so mechte Gott nur denken und sagen es Gescheche so wäre dise WElt und alle Menschen schan zu nicht und grund gangen, und dafür andere ein Tausent Welten da. <lb/>
+             Alles, und alles ist Gott mit [Leichter ein möglich], darum haben mir gute Hoffnung daß er uns gewiß und sicher helfen kan, mir mögen in einer Betriebnuss und widerwärtigkeit, Kreutz und Leiden sein weie nur wöhlen, nur zu Gott wendten, der kan uns helfen. O wie oft aber Traut man auf einen Menschen, auf eine Kreatur mehrer als auf Gott, bei den Menschen suecht man hilf Rat und Tad, mit Bitten und Seufzen, zu gott: und bei gott da suecht man nit Hilf, der doch er allein helfen kaan, ia nit allein helfen kan, sondern er wil auch helfen: in den zweiten Teil. <lb/>
+             Gott wil helfen weil er gietig und ein Barmherziger Vater ist, wen mir nur bei ihme mit wahren Vertrauen: und glauben: auch Gueter Hoffnung Bitten, und Hilf bei ihme suechen, mit Vertrauen muss sein, 
+             <pb xml:id="pb_15" n="15" facs="#mss/ed000232_00019"/>               
+             nit mit wanklen oder zweiflen, ob uns gott erhöre: oder nit, ob das gebeth guet sey oder nit, nein auf ein solches gebeth ist uns gott nit schuldig das er uns erhöre, Bitten und bethen mit Beständigkeit, wen er uns schan nit auf das erste mahl erhöret, so erhöret er uns doch auf das zweitte: oder dritte mahl. Jesus sagt ia in dein Evangelium suchet zum ersten das Heil euer SEelen, das andere würd euch alles zue geworffen werden: Gott erhaltet ia die Vögel des Luft, die fisch in den Wasser, die Lilien: und Bluemen auf den feld, dise arweithen ia nicht, spinen nicht, und werden dannoch gekleidet, so würd gott ia uns erhalten, weill er uns Versprochen hat, mir müssen freilich daß unsrige mit Tuen. 
+             Zum Beschlus, o gietigister gott, weil du helfen kanst: und helfen wilst, So Bereuen mir, das mir Bishero mit so schlechten eiffer und Vertrauen gebethet haben, und bitten dich o gietiger und Barmherziger gott, verzeiche uns diese: Hinfüro wohlen mir, mit grossen Vertrauen und glauben, auch mit Eifer bei dir um Hilf suechen, welche Hilf mir auch sicher finden werden, Ammen. 
+             
+          </p>
+            </div>
+            <div xml:id="predigt_4">
+                <head>
+                    <choice>
+                        <orig>4te- Predig, so gehalten der <rs type="person" ref="#schmutzer">Herr Pater Vikäri zu <rs type="place" ref="#fieberbrunn">Fieberun</rs>
+                            </rs> den <date when="1773-08-01">1te- August</date> als 9.ten- Sontag nach Pfingsgen und zugleich dortigen Kirchweichfest ao: 1773.</orig>
+                        <reg>
+                4. Predigt
+             </reg>
+                    </choice>
+                </head>
+                <p>
+             Gros  war die Begiert: und Verlangen des Zachei Christum zu sechen, allein weil er klein von Persohn war, so kante er ihm über das Volk nicht sechen, da lief er Voraus, stig auf einen feigen Baum;  
+             
+             <pb xml:id="pb_16" n="16" facs="#mss/ed000232_00020"/>               
+             Aber noch Vil grösser war die Begiert jesu den Zacheus zu sechen, und ihme Heil geben, welcehs Er ihme angekindet hat. Warum hat dan Chistus der Herr dem Zachei der ein Sinder war ein Verschreitter und offentlicher Sinder, ein unrechter wuecherer und obrister unter denen Pfariseern wie Zacheus war heil anbothen: und ihm wider fahren lassen: darum gab er ihme Heil, weil Er geschwind so Bald im der Herr gerueffen hat, so ist er eilenzt ohne aufhalten von dan Wilden feigenbaum herunter gestigen. Schau Sinder wie oft Rufet gott dir, und mir, und einen iedwederen, wie oft schaut er um dich als wie um Zachei, aber du kehrest ihm den Ruggen, wie oft rueft gott dir Sinder steig herab von den Wilden feigen baum, steige herab von deinem Sindhaften Leben komme  zu mir, er rueft dir heunt widerum zue, aber dise stüm wilst du nit hören, du Verstopffest die ohren, und ist die ruefente stim Gotets bei dir umsonst, du schreist halt alzeit gräss Morgen, Beständig hast du das Raben geschrey gräss gräss Morgen steig ich herab, Morgen wil ich Buess tuen und aufhören Sindigne, o du Morgen, du falsches Morgen, du betrig: und Verfierisches Morgen, und du Verfluechtes Morgen, wie Ville und Ville hast du schan Betrogen und Verfieret, und zwar in die Höll und in die Ewige Verdamnuss gefiehret, weil sie mit ihrer Buess auf dich gwartet haben, so seind sie Vorhero gestorben und auf Ewig Verdorben, Heunt noch Sinder, heunt ist uns allen Heil wider fahren, heunt Rueft usn Gott zue mir sollen herabsteigen Von den Sindhaften Leben, Von den 
+             
+             <pb xml:id="pb_17" n="17" facs="#mss/ed000232_00021"/>               
+             Wilden feigen baum, von den Bösen gewohnheiten, Von disen solten mir durch eine wahre Buess zu Christo steigen, und den feigen baum: daß ist die Böse gewohnheit der sinder Verlassen und Hassen. Wäre Zacheus nit geschwind auf das erste ruefen des Herren nit herabgestigen, so wäre ihm gewislich nit Heil erfahren, wie mir in den heuntigen Sontag Ewangelio vernommen, daß die Stadt Jerusalem den tag des Heil nit erkent haben, dahero ihnen Gott die erschröckliche straffen angekindt hat, weil sie ihre heimsuchung nit erkennt haben. Ich wil euch in meiner heutigen Predig in küzre zeugen wie falsch das gräss: oder Morgen schreien, sagen, und denken sey. Gietigster gott der du mich unwürdigen alhero bestelt, den Sinder und sein Hartes Herz zur Bues Bewegen, auf das Er den tag des Heil einet, gibe mir deine gottliche gnad, das ich dises recht erklären kan, so fang ich an in namen Jesu und Maria. <lb/>
+             Das [der] Profet Jermias ein fliegentes Buech gesechen hat, das ist was seltsammes, das ist gewiß nd ungezweiflet das es ein Buech gibt, wo alles aufnotiert und geschriben ist, alles Böses und gutes, die Straf oder Belohnung. Aber ein fliegente Sichl so der Profet Jsaias gesechen hat ist nit waß seltsammes, die fliegente Sichl, und unter die fliegente Sichl ist nicht anderes Verstanden als die Gerechtigkeit  gottes, die fliegt um ein ander, und ist Bald da bald dort, waß duet sie, Sie duet schneiden so Bald die
+             
+             <pb xml:id="pb_18" n="18" facs="#mss/ed000232_00022"/>               
+             Zeit ist, bei einen iedwederen Menschen, mit dem Tod hinweck schneiden, weck mähen, die gerechtigketi gottes ist nit gschwind bei den Sinder, wan er schan schwärlich gesindiget hat, sondern alzeit die Barmherzigkeit: Er sagt die Gerechtigkeit ich wil schan kommen, ich will mich schan rechnen. Bauersman warum schneidts du nit gleich mit der Sichl in dein Korn, in dein getreid drein, schneide für waß seind dir sonst die Sichlen, Neun sagst du, laß nur die Zeit ankommen, bis das getreid reif: und zeitig würd, hernach wil ich schan darin schneiden und alles zu boden Legen, gelt man Last den April, May, Juny, July, und Heimonat ankommen biß man den getreid samblet oder schneidet, also Sinder gott macht es auch also, er schlagt mit seiner gerechtigkeit nit gschwind darein, sondern gott Last ain Monat, 1. Jahr, 2. 10. 20. und sogar 30ig Jahr Vergehen, ehe er strafet, gleich wohl unter diser zeit gibt er den Sinder einige zurfähl, Traurige zuefähl, und ermanungen, es wartet die Barmherzigkeit immer auf die Buess, aber Bei die Sünder ist alles umsonst, er fahret hatl mit seinen unbuesförtigen Leben fort, etliche Jahr in der alten Bösen Bekantschaft, in der alten Kammerratschaft, in der alten Bösen gewohnheitten zu Sindigen. Gott erzeügt sich als wen er nicht empfindten dät Von deinen Leben, aber hernach, merks Sinder, Blad der Sinder reif ist, hernack komt gott, zuvor wart er imm er zue, er Last Ville Monat und Jahr für über gehen, er straft nie mahls, die Barmherzigkeit kans nit über
+             
+             <pb xml:id="pb_19" n="19" facs="#mss/ed000232_00023"/>               
+             sich Bringen; aber bald die Sünden zahl erfillet ist, und der Tag und stund Vollendet: und Volbracht ist, o da komt die Gerechtigkeit Gottes über den Sünderr mit grossen Zorn und Schröcken, hernach komt er als ein gestrenger Richter und Verdammer, es mag der Barmherzigkeit noch so hart ainkommen, gestraft muß sein, und zwar erschröcklich Ewig ohne alle Barmherzigkeit, du memchst aber dir denken oder sagen seind doch Ville in Himmel, die biß an ihr End Sindhaft gelebt: und gewesen seind, und dannoch Seelig gestorben: Sinder der du dier dises ein bildest, weist du wie du stürbest, ist dir Gott dises schuldig das er dich zu letz in den Tod noch zu gnaden an: und auf nimt? Da du ietzt der gnad gottes nit Teihaftig wilst sein: oder werden, du Sindiger Mensch, weist du wie lang du noch lebst und wie weit der Tod Vor dir ist; wan du dies weist: und sagest ia, so Liegst dus, du kanst noch dise Stund da sterben, oder wist du, das du die Maß: und Zahl deiner Sinden noch nit erfillet hast, so Bist du ein Lugnerwans dus sagst, Villeicht hast noch eine: oder gar keine mehr, das weiß ich nit, und du nit, so bald die Zahl erfillet ist, als dan is gar mit dir, oder weist du etwan daß die zeit noch nit da ist, das dich Gott durch die Gerechtigkeit oder fliegente Sichl Trift und über dich komt, das weist du auch nit, ob du nach dieser stund noch eine hast zu der Bues; Mandäs und Äman waren Zwey König, der Mandas ware dem Äman sein Vater, diser lebet 55ig Jah in Sindhaften Leben, er ware ein 
+             
+             <pb xml:id="pb_20" n="20" facs="#mss/ed000232_00024"/>               
+             Wuecherer, ein zu allen Laster ergebender Sinder, in seiner Krankheit gab im gott Heilsame Reu der Sinden, guete einsprechung: und ermahnungen zur Bues, alwo er mit gewürkt und wahre Bues getan hat, und Seelig in den Herrn Verschiden ist. Sein Sohn Äman wurde auch König, und Regierte anderhalbs Jahr, er hat auch den willen zu leben wie sein Herr Vater, Er lebte gar Sindhaft, und Er wihl aber auch Bues thuen wie sein Vater, nun er Regiert noch nit zwey Jahr lang, da wurde er von seinen Eigenen Diener in seinen Haus um das Leben gebracht, und der Ewigen Verdamnus zuegeschickt. Ia Sinder du kanst dir nach einen Einfahl und närischen ratschlüssen sagen, gott hat mich noch ein mahlen gestraft, da ich schan lang ein Sinder Bin, er würd mich noch so gschwind nit straffen, mein wer hat dir disen gscheiden rat eingeben, äso so würd dich gott noch nit straffen, weil er dich noch nie gestraft hat, o du Verblendter: und Boshafter ein wurf und anschlag, wie länger die straffe ausbleibt: desto schärffer ist sie, wan gott dich schan nit gestraft hat, so würd er dich schan straffen, es würd nit ausblieben, Er würd dich strafffen genueg, und Villeicht schan bald; Eine freische neue wundten ist noch Leichtlich zu heillen, aber eine alte wundten, so schan der Ausbeissende Wurm, und sonst allerhand schmerzen darbei ist, dise ist hart, ia oft unmöglich zu heillen. Aslo schau, bist du in einer Tod Sind gefahlen, und Tuest gschwind dariber Buess so gets ganz Leicht, du kanst
+             
+             <pb xml:id="pb_21" n="21" facs="#mss/ed000232_00025"/>               
+             nach Leichtlich aufstehen, aber ist dein Sinden Leben oder unbueßförtiges Leben schan alt, scahn unfrisch, und alle Böse gewohnheit darzurkommen, so kanst du nit mehr Leicht gesund werden, hernach Brauchts mehrer. Wie der baum hengt, also falt er hin. wie hengter, Er hengt halt zu der gewohnheit der Sinden. wo hengt er hin, wo mehrer gewicht ist. Wo ist mehrer gewicht, ietzt Lege deine Sinden und gute werk zusammen, scahu welcehs schwärer ist, auf der schwärern seithe falt er, falt er auf die rechte, oder Lingge dort bleibt er in Ewigkeit lügen, falt er Rechts: oder gegen Mittag, so ist er guet gefahlen und würd Seelig sein: falt er aber gegen mitte nacht oder Lingg, so ister auf Ewig verdamt. Sindigest in der gewohnheit, hast wie sagen gehört die gewohnheit ist ein Eiserner Pfaid, dise kan man so Leicht nit abziechen, Eine Sind nach der anderen fort, nach und nach würd das Menschen Herz so hart, ia härter als Eisen, als wie ein Kristal, das ist wie in hochen Bürgen der alte Schnee oder Eiß so ein mahl dahin geht, das gewissen würd finster und Verplendet, und man erkent: und will die Sind nit mehr erkennen, also lebt der Sindige Mensch fort, biß die zeit da ist, das den gerechte: und über den Sinder gestrenge Richter komt, und selben in die Ewige Verdambnuss und Höll Stürzet und verstost.<lb/> 
+             Zum Beschlus vernemt noch ein Traurige geschicht, es ware ein Kaufman, diser füerte kein guetes
+             
+             <pb xml:id="pb_22" n="22" facs="#mss/ed000232_00026"/>               
+             Leben nit, Er war mit einem Weibs Bild Verliebt: Er Reisete über das Mähr und nahme dise mit und füehrten ein Sindhaftes unreines Leben, gählung entstunde auf den Möhr eine grosse ungestimigkeit das sie alle in gröster Lebens gefahr seind, sie alle Rueften zu Gott um Hilfe, absonderlich dise zwey Sindhaften Persohnen, dise Versprecehn Gott hinfüra ein gutes reines Leben zufüehren, und dises Lueder leben zuverlassen. Es wurde endlich dises ungewiter stil und ruehig, waß geschache, gelich hernach fiehlen dise zwey widerum in die alte Sinden und Laster, es stunde nit lang an, so ware widerum eni heftiges sturmiges ungewitter, daß Endlich das Schif zu Trimmern Zerprochen wurde, der Kaufmann ergriffe Von den Schif ein Bred auf disen erhielt er sich. Zum glick: oder unglick, ergrif: und erdappet auch dises besagte Weibs Bild ein trum von den zerbrochnen Schif und erhielt sich auch auf den Wasser, es war aber der Wind noch nit stil, er schutzte und warffe die Breter hin: und Her, daß sie Alle Augenblick von den  Tod nit sicher seind, dise zwey ruften zu Gott, Verfluechten ihr Sindhaftes Leben, nammen ihne Vor ihr Lebtag (wen sie noch Von diser Versindkungsgefahr erlöst werden) nit mehr bei ein ander zu sein, endlich Brachts auf den Bretern der Wind an ufer oder gestat des Möhr Beide Persohnen, sie gingen hinaus, fiellen nider auf ihre Knie, dankten Gott um dise gnad und Guthat, und
+             
+             <pb xml:id="pb_23" n="23" facs="#mss/ed000232_00027"/>               
+             giengen an das Land wohin sie Verlangten; unter weegs aber wurde ihr Vorsatz schan widerum gebrochen, sie füerten das alte Lueder Leben fort, o undank. Nun über eine zeit schickte gott den Kaufman eine schwäre knrakheit zue, nur damit der Sinder sich zu ihme Bekehren solte, die Bäder: und Doctor sprechen ihm das Leben ab, und sagten ers soll sich zum sterben richten und für seine Seele Trachten, sie Brachten ihme einen Beicht Vater, Er wolte aber nichts wissen Von der Beicht, und sagte noch darzue, Er sein schan verdamt, weil er so oft Versprochen hat, ein anderes leben zu füehren, und ein mahl getan, der Beicht Vater aber sagte ihm, Von der unendlichen Güete und Barmherzigkeit gottes, wan er eine Reu und Vorsatz hat und die Sinden Bricht, auch dises WEibs Bild auß den Hauß geschaffet, so will ers über ihm nemmen, Endlich sagt der Kranke sinder, wan deme also, so will ich dises Tuen, Er beichte seine Sinden fliessig, und Bereuete sie Herzlich, und schafte auch das Sindige Weibs BIld aus dem Hauß. Es stunde nit lang an, wurde es Von stund zu stund Besserer mit seiner Krankhiet, daß auch die Leit sagen, er kommet noch mit Leben darvon, der kranke sagte warum hatb ihr mir zu Vor die Krankheit so gros gemacht, und cih das arme Mensch auß dem Hauß schaffen müssen, Ey lasst mirs herkommen in mein hauß, sie komme zu ihm, und klagte ihm, wie das sie so 
+             
+             <pb xml:id="pb_24" n="24" facs="#mss/ed000232_00028"/>               
+             umbarmherzig auß den Hauß gestossen worden ist: der Kranke Kaufmann wil dise umfangen, unter dessenist er Tod darnider gesunken und gestorben, und Ewig Verdroben. 
+             Geliebte sehet wie lang gott zuewart, und dannoch so schnel: und unversechens mit seiner Gerechtigkeit kommen ist; das dir dises nit wider fahre, so halte deinen vorsatz, fahlest du aber, so Beichte es geschwind, Schiebe die Bueß nit auf, laß kein gewohnheit werden draus. O gott: Verzeiche uns unsere Sinden, und gibe uns gnad, das mir von den Wilden Sindhaften feigen Baum herabsteigen, und denselben Verlassen wie Zacheus, Ammen. 
+             
+          </p>
+            </div>
+            <div xml:id="predigt_5">
+                <head>
+                    <choice>
+                        <orig>5te- Predig, so der <rs type="person" ref="#schmutzer">Herr Vikäri zu <rs type="place" ref="#fieberbrunn">Fieberprunn</rs>
+                            </rs> als bruderschaft fest den <date when="1773-08-10">10ten- August St. Lorenzi tag 1773</date> 5. Predigt gehalten hat.</orig>
+                        <reg>5. Predigt</reg>
+                    </choice>
+                </head>
+                <p>
+             In den Heuntigen Heiligen festägigen Evangelium Lesen mir, wer seine Seel liebet der würd sie Verliehren, und wer seine Seel auf diser Welt hasset der würd sie Bekommen zu den Ewigen Leben. So will ich euch anheunt zwey Vorstellen, einen der seine Seel auf diser Welt geliebet, und der andere der sie gehasset, dise zwey seind iene der Heilige Martyrer und Levit Laurentius welches fest mir anheunte Begehen dieser hasset seine Seel auf der Welt, und hat sie zu den Ewigen Leben gewunen un dBekommen: Hingegen der Reiche Brasser Liebet seine Seef auf der Welt, und Lies ihr alles nach Belieben und Gut und wohl leben zue, und hat
+             
+             <pb xml:id="pb_25" n="25" facs="#mss/ed000232_00029"/>               
+             sie Verlohren, und auf Ewig Verlohren, da sie ist in der Höllen; der Heilige Laurenzius Liess sich auf einen glienden Rost Braten, aber der Reiche Brasser: und alle andere Verdamte Sinder müssen in der Hölle gluet gebtraten werden dies in den Ersten Teil. <lb/>
+             und daß die Verdamte müssen Ewig gebraten werden, in den zweiten Teil. So fang ich an, ihr aber merket auf.<lb/> 
+             An allen glideren auf ein mahl gebraten werden, das ist unmenschlich, dises kan kein Mensch nit ausstehen, das er nit sterben muß; der Heilige Lorenz ist auch nit an allen Glidern  auf ein mahl gebraten worden, weil er Gesagt hat zu den Tyrannnen, kehret den Braten um, auf das die andere seithen auch gebrathen  würd, obschan einige ein hand in eine feur gehabt: oder Verprant sein worden, als wie die Sedo und [Gemigra], so seind sie doch nit in allen Glideren und auf ein mahl gebrent: und Gebraten worden, wie der Verdamte Prasser, und alle Verdamte in der Höll, dise werden auf ein Mahl an allen Glidern Gebraten, sie sitzen mitten in einen Prinenden Schwebl und See Teucht Begraben, und um und um Verschlossen, die Höll ist mitten in der Erden, gleich wie man einen Verstorbenen in die Erden Vergrabt, also um den Verdamten iber all feur, ihr ganzer Leib, ihre Ohren, ihre Augen, ihr Nasen, ihr Mund, ihr Händ und füess, ihr Herz und Niehren, ih Mark und Adern, ihr Sinne und willen, alles, alles würd Gebraten und Gebeiniget, und zwar auf ein mahl ist erschröcklich. Ihr könt
+             
+             <pb xml:id="pb_26" n="26" facs="#mss/ed000232_00030"/>               
+             eich einbilden ein solches feur das sit wan etwan ein Stadt oder etwaß anders abprint, ihr könt euch fürstellen die Hitz die in einen schmölz: Kalch: oder glaß ofen ist, dieses feur, dies Braten, dise Hitz, ist und wär den Verdamten nur eine abkiehlung, gegen den Hölläschen feuer. Als wie es gott oft den Menschen zum schröcken zue gelassen hat, das wan ein Verdamte seel auf die Welt kommen ist, und ihr hand in ein kaltes wasser gedunket, daß Wasser auf ein mahl Gesothen, ganze Messing Leichter so hin ein geworffen zerschmolzen seind, durch [anrierung] der Verdamten, dieses höllische feuer Brint und Bratet nit nur allein den Leib, sondern auch die Seel. Auf diser Welt kan dos Feur, oder sonst etwa, ein schuß, ein straich, oder ein fahlen der Seelen nit schaden, aber in der Höllen wohl, dort schadet daß feur der Seelen, nit auß kraft, des feuer, sondern aus kraft gottes, der Arm gottes, die gerechtigkeit Gottes diese hat den feuer die kraft geben und angezindet. Ein grosser Kriegs heldt hat nur schwerdt, und mit disen schwert hauete er allen, so er nur Trift ihre Köpf und Leiber mitten Von ein ander, eben war ein grosser fürst diser Welt, diser wolte fürwitz halber daß Schwerd sechen, da dises ein Saldat Vernam, sagte er zu den fürsten, ihr müest dieses nit den schwert zueschreiben, sondern der Hand oder Arm die diß Schwert füheret. Also auch nit den Höllischen Feur müssen mirs zue messen daß sie nit allein den Leib, sonderen auch die Seel Beiniget Brenet und Bratet, sonderen der Hand Gottes die es gemacht hat müssen mirs zueschreiben, weiß wegen hat aber gott die Hölle gemacht, etwan das er dich Sinder Braten, Beinigen, und Blagen kan, 
+             
+             <pb xml:id="pb_27" n="27" facs="#mss/ed000232_00031"/>               
+             Nein die Höll ist nit destwegen gemacht: und Erschaffen worden, sondern nur daß er dich durch die Höll zu ihme in Himmel bringen und Laithen kan, das du diese straf förchten soldest, un ddie Sinden meiden, destwegen hat Gott die Höll angezindet, und Last dirs ankindten, aber wer ist ursach, du Verdamter Sinder der du ietzt würklich in der Höl Bratest, an deinen Brinen und Braten, ich sage zu dir, als wie die kötzer der Heiligen auf denen scheider Hauffen nur spot weiß zu ihnen geredt haben, wie duet daß feur, ist es guet, warum habt ihr euchs selber angezint, also Verdamter, gehe heraus von den feur, aber nein Bleib nur darin sitzen und Ligen, du hast dirs selber gemacht mit deinen Sinden und Lastern, mit deinen Verfiererischen Lebens wandl, Gott ist dir kein Versöhnen sondern ein gestrenger und zu Gleich Gerechter Richter, Sinder Sinderin mit welchen wilst du Gebraten werde, mit den Heiligen Laurenzius, oder mit den Reichen Brasser: und mit einen ieden Verdamten, ich glaubemit den ersteren, gelt weil die Verdamte an allen glideren Gebraten werden, und auf ein mahl. und warum Liebest du dein Seel dein Leib auf der Welt so Vil, Es ist ia schan ein einiges Schmach wörtlein zu vil, ein ieder fasttag ist dir zu hart, es gibt dir oft der Beicht Vater ein zu grosse Buess auf du sagst der Beicht Herr ist wohl [ahgschmach], kanst du dis nit Leiden, wie würst du die Höll aussechen können: Schau Versuechs mit einen Heiligen Ordens mann, und mache es wie es diser gemacht hat, so Bald der Ordens man etwaß hart und schwär gefählen ist, so ist er da und habt den finger über ein Liecht oder feurlein, er hat aber gleich zucken müssen, Er sagt kan
+             
+             <pb xml:id="pb_28" n="28" facs="#mss/ed000232_000232"/>               
+             Ich diß nit Leiden in einen finger, wie wurd ich in der Höll Leiden köönnen, er wurde widerum aufgemundert und kamme ihm als Leicht: und nicht mehr hart an daß guete zu würken, also Versuechs, schau wan du dise nit Leiden kanst, wie Getraust du dir in der Höll zu Leiden und zu erdulten, oder meinst du, du derfts die Höll nit zu förchten als wie diser fromme ordens Mann, Sinder Sinderin, oder meinst du das Höllische obrinen und Braten daurt nit Lang: dises werden mir in zweiten Teil hören. <lb/>
+             Laurenzus sagte und Spottete zu den Tyrannen, ietzt ist der Braten Gänzlich aufgebraten, esset nur von mir: aber der Verdamte Brasser ist nicht aufgebraten, Laurenzius sagt sein Braten seye nur ein abkielung, eine erquickung, Er hat Betracht daß Höllische Braten, und zwar daß Ewige Braten, Er hat Lieber ein kurzes Zeitl gebraten werden wohlen, damit er zu Gott in den Himmel erscheinen kan; Aber der Verdamte ist zwar auch Gebraten, aber nicht aufgebraten, der Heilige Augustinus sagt, es seye recht, das der Sinder ein mahl genuegsam gebraten würd, weil er hat den undendlichen Gott, unendlich Beleidiget, so ist es auch recht und Gebirt sich eine unendliche Straf darauf, auf eine unendlcihe Beleidigung, gehört ein unendliche Straf; das Braten allein wär noch ein Leichtes, aber das Braten auf Ewig, das ist was anderes; Chritus der Herr als der Gerechte: und über den Sinder Gestrenge Richter, sagt nigt Back dich von mir fot das Höllische feur, 
+             
+             <pb xml:id="pb_29" n="29" facs="#mss/ed000232_00033"/>               
+             auf ein hundert oder ain Tausent, oder noch mehr Tausent: oder Tausent mahl Tausent Jahre lang, sondern Er sagt in das Ewige feur, ins Ewig, o Ewigkeit wie Bist du so lang, stelt euch Vor alle gräslein, alle Sandköhrnlein, alle Wasser Tropffen, alle Baum: und Stauden, und mache auß ein ieden Stück: oder Trüpflein Einhundert Tausent Jahr, so wurdens sehr Ville jahr sein, und ist doch kein Augenblick Von der Ewigkeit, ia keinen anfang nicht, ietzt geliebte woh [dunkt] dich mein Sinder, Traust du dir dies auszustehen auf Ewig, wen einer dise Ewige Bein, dise Ewige Höllische Braten recht Betracht, so det es mich gar nit wundern, das ein Mensch der daß Betracht gar nit mehr kein freliches gesicht machen det, gar kein lachen sein Lebtag nit mehr Tete. <lb/>
+             Wohl aber wundert mich daß, das so Ville sagen oder denken, ihme ist Lieber die Höll: als das ungerechte Guet zurugg geben, lieber in die Höll als mit den feind Versöhnen, Lieber in die Höll als die Kammerat:  undSindhafte Bekantschaft: und Böse gewohnheit meiden, Lieber in die Höll als dise Persohn fliechen und Verlassen; dies sagtst du gar oft, sagst dus nit, so duest es doch in der Tad; als wie ein mahl einer auf die nacht zu seinen Schlep Sack zu besuechen und gehen hat wöhlen, so sagte im einer er solte dies sein Lassen, es Bässen ihm einige auf und wohlen ihme Tödten, ia nit nur allein Zeitlich den Leib, sondern er würd auf Ewig getödt weil er auf den Sindhaften weeg ist er würd in die Höll kommen, da gab er dise Vermessene Antwort und sagt, 
+             
+             <pb xml:id="pb_30" n="30" facs="#mss/ed000232_00034"/>               
+             dise Persohn ist wohl wert, daß man der Höll zue get; Wie ist dir ietzt in der Höll, ist es wohl wert daß du wegen sie in der Höll Bist, wie ist dir zu muet; o ietzt schreit er, ietzt rueft er, was hab ich getan, ietzt Verfluecht er die Sind, ietzt winscht er kunnt ich noch auf der Welt sein, ich wolte anderst Tuen und Leben, Er Verzweiflet schier, Aber  alles  umsonst, er kan nit mehr anderst, er würd gebraten werden, und ohne End und Ausgang, dise Verdamte schauen und dise, die ihnen mit den Schwert, oder sonst einerley weiß daß zeitliche Leben Benommen und Abkürzet haben, und sich von ihrem zeitlichen Triebsal Ledig gemacht durch den Tod, mit disen Werchzeig wohlen sie ihnen daß Leben nemmen, Aber umsonst sie können sich nit Tödten, sie schreien o feuer wie Brents du uns, warum Verbrents du uns nit gar zu Aschen , o Ihr immer nagente Würbmer wie Beisset ihr uns, warum zerpeisset und Verzört ih uns nit gar, aber umsonst sie können nit sterben und in Ewigkeit nit, Sie Toben sie wietten, sie schreien, sie weinen, sie werden shcier Rasent und Verzweiflent, sie stürzten sich selbsen in das feuer, damti sie nur den Tod findten kunten, aber umsonst: und alleweil umsonst, Ewig, Ewig ist das Leiden ohne Bardan, mit dir ist es aus; der Reiche Brasser Bittet den Vater Abraham , das ihm der arme Lacarus nur ein einziges Tröpflein wasser auf seine ausgesperte und ausgetrockene zung darreiche dat, aber umsonst. Es wurde den Verdamten ihr Gröster Trost sein, wen sie einmahl in der ganzen Ewigkeit sagen kunten ietzt hat das Braten ein endt, dise wär ihr Gröster Trost wen nur einmahl wer, were es wie lang
+             
+             <pb xml:id="pb_31" n="31" facs="#mss/ed000232_00035"/>               
+             und darwil, aber nein sie können in Ewigkeit nit sagen als wie mir auf der Welt, waß ist daß dich  in dein Kreutz und Leiden und widerwertigkeiten Tröstet, geht nicht anders als daß nich tEwig wehret, o werds doch nit Ewig sagst du, es werd der Tod schan ein end machen, ia auf der Welt schan, aber in der Höll dort nit, dort würds Ewig, dort ist der Tod niemhal, aber bei uns wohl meine zuehörrer, bei uns ist noch Zeit da mir disen Ewigen Höllischen Braten ent gehen können durhc ein Besseres Leben, eins muest du erwöhlen, Sinder, Sinderin, die Höll: oder ein Besseren Lebens wandel führen, die Höll: oder dich: oder dich mit deinen feind versöhnen, die Höll: oder das ungerechte Guet zurückgeben, die Höll: oder die Bekantschaft: und Böse Kammeratschäft fliechen, die Höll: oder diese Persohn meiden, die Höll: oder eine rechte kindlcihe Lebens Beicht; daß [einwedern] must du erwöhlen, erwöhle dir ietzt waß dier Lieber ist, ein Besseres frommes Leben, oder die Höll, du sagst aber ich bin vil zu schwach, daß ich dies und ienes meiden kan, das ich dies und ienes würken kan, da messest du als deiner schwachheit zue, bist du da zu Schwach, schau ob du in der Höll nit auch zu schwach bist, traust du dir die Höll die Ewige Höll auszustehen, messest die Höll auch deiner schwachheit zue, Steig jetzt hinab Sinder, und ein iedwederer wohl, auf das ihr nit hernach hinab miest, schau: und Betracht ihr Beinen und Braten, ihr schreien und Heillen, nim
+             
+             <pb xml:id="pb_32" n="32" facs="#mss/ed000232_00036"/>               
+             dies wohl  zu herzen, o daß wär ein iedem nutz, wen er die Höllische Peinen oft: und alzeit Vor augen het, diser wurde kleine Sinden wenig: und grosse gar keine Tuen. Solte aber noch einer da sein, der noch Lieber die Höll wil, als dieses und ienes meiden und fliechen so sage ich ihme kurz zum Beschluß, so fahr du nur fort mit deinem freien sindahften Leben, aber solt dich noch eine erleichtung oder ermahnung ankommen und Gott zueschicken, und sollest und wollest du Sinder der du die Höll noch lieber wilst ausstehen, als ein besseres Leben füehren, wen du schan zu den Himmel um Hilf rueffen würst, so Himmel erhöre im nit, Verstopffe deine ohren, er ist nit wert erhört zu werden, wen er sich schan zu letzt zu dir o Gott kehren will, so nimme ihm nit an: und auf zu gnaden, er wil ietzt nit, gib ihm dort auch die gnad nit, Verstoss ihm, und gibe ihm was er ietzt Lieber will, nemlich die Ewige Höllische Beinen, Aber nein mein Gott Ich Verhoffe das nti, das noch eines zu Gegen sein solle, der die Höll Lieber will als dich: und deine Ewige Belohnung: So wohlen mir die Sind und Laster meiden, selbe Bereuen, die Gegelenheit fliechen, das ungerechte Guet zu ruckgeben, Mir wohlen uns mit unserem feind Versöhnen, und die Persohn die mir wissen das uns schädlich sit, dise wohlen mir fliechen verlassen, damit mir auf diser Welt mit den Heiligen Laurenzius ausgebraten werden, und nicht mit den Reichen brasser, gott Gebe es, Ammen. 
+             
+             <pb xml:id="pb_33" n="33" facs="#mss/ed000232_00037"/>
+                </p>
+            </div>
+            <div xml:id="predigt_6">
+                <head>
+                    <choice>
+                        <orig>
+               6te- Predig, so alda den Inhalt kurz Beschriben, Gehalten zu <rs type="place" ref="#fieberbrunn">Fieberprun</rs> der Herr Pater <rs type="person" ref="#widmann">Michl Widman</rs> den 11. Sontag nach Pfingsgen als Maria himmelfarttag oder <date when="1773-08-15">15. August 1773</date>.
+            </orig>
+                        <reg>
+                  6. Predigt
+               </reg>
+                    </choice>
+                </head>
+                <p>
+             Maria hat den pesten Teil erwölt, daß ist war, sie ist anheunt zu Gott: und zu den Himlischen freuden auf genommen worden, was ware aber die ursach das sie so hoch: ia über alle reine Heilige Englische Geister erhöcht ist worden; Etwan destwegen weil sie eine Mutter gottes ist worden: und Gewesen: wie auch annoch ist, Nein, destwegen ist sie nit zu so hochen ehren und würden komen, sondern destwegen, weil sie in Lebzeiten, ia zeit ihres Ganzen leben Gott getrei, gehorsam, und demietig gewesen ist, das sie niemhals daß mindiste wider Gots, noch seine geboth getan hat, sie wäre eben in so hochen ehren Tron zu gott: und den Himel kommen, wan sie schan kein Mutter gottes gewesen wäre, Von wegen ihren Verdiensten, und so Heilig gefiertes Leben, und destwegen weilen sie bei Gott, so hoch in Gnaden: und ehren ist, so vermag sie auch vil bei Gott, und kan vil erbitten und erlangen für uns armen bedrangten Menschen, nur das würd erfordert, das mir die Jungfrau Maria auch mit Vertrauen und Hoffnung
+             
+             <pb xml:id="pb_34" n="34" facs="#mss/ed000232_00038"/>               
+             anrueffen und sie Verehren, aso werden mir gewis erhört sie ist eine Barmherzige Mutter, und allen ist sie Barmherzig, Sie ist ein zuflucht der Sinder allen denen ienigen die zu ihr flüechen; aber die, die ihre fürbith und Hilf Maria nur müssbrauchen, und desto kecker fort Sindigen weil Maria Barmherzig: und eine zueflucht der Sinder ist, nein für solche ist sie kein zuflucht nit, die nur auf dies Sindigen, nun mit wahren Vertrauen wohlen mir die Heilige Mutter Gottes Maria anrueffen, bei ihr um hilf sechen, mit einen gut denkenden Herzen; o  So werden mir Bald frieden, waß mir suchen, erhalten waß mir Begehren (wen mir anderst etwaß Begehren so nit wider gott: und seiner geboth, und uns zur Seeligkeit nit schädlich ist) Sie ist eine Barmherzige Mutter, und ein zueflucht der Sinder, und wen mir schan Sinder sind, so können mir der Jungfrau Maria dannoch nachfolgen, mir müssen unser Leben Bessern, Von Sinden abstehen, disen ernstlichen willen müssen mir haben. O Seeligiste Jungfrau Maria, und zu Glecih Mutter Gottes, die du den Besten Teil erwöhlet hat, mir Bitten dich alle, recht Inbrinstig: und mit Vesten Vertrauen, du wollest uns die gna dbei Gott deinen Sohn zu wegen Bringen, daß mir wahre Buess über unsere Sinden würken können, und dir auch nachfolgen, und Gott Getreu, gehorsam, und demietig seind, diessnemmen mir uns für, darzu Helfe uns auch die seeligste Maria Himmels Königin, Ammen. 
+          </p>
+                <pb xml:id="pb_35" n="35" facs="#mss/ed000232_00039"/>
+            </div>
+            <div xml:id="predigt_7">
+                <head>
+                    <choice>
+                        <orig>
+                   7.te- Predig, hat gehalten der <rs type="person" ref="#widmann">Hr. Pater  Michl</rs> zu <rs type="place" ref="#fieberbrunn">Fieberprunn</rs> den <date when="1773-08-24">24. August 1773</date> am St. Bartlme tag als Bruderschaft fest.
+                </orig>
+                        <reg>
+                   7. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             In den heuntigen festtägigen Evwangeli Lesen mir, wie daß Christus die ganze Nacht auf den Berg zu seinen Himlischen Vater Gebethet hat, ehe er ihme die Zwölf Apostel erwöllet hat, ist anzuzeigen wie mir zu Gott betten sollen, weil nur unser einziges Gschäft ist unser Seelen abzuwarten, also das unser Gschäft einzig für die Seel sein solte, in den ersten Teil. Das unser Gschäft einzig für unser Seel sein solte, weil sie das Beste ist so mir haben, und sie es selbst zu geniessen und zu Beissen hat in den zweiten Teil, so fang in an in nammen jesu und Maria. <lb/>
+             Liebste Brüder – Gott ist Beschäftiget die Gnaden und Gaben uns zu Geben, und unst Guete Einsprechungen ermahnungen und Gelegenheit zue zu bringen, das mir für unser Seelen sorgen müssen, und unser Geschäft solle und muß sein das mir der Gnaden und Gaben mit würken, denen Gueten einsprechungen: und ermahnungen folgen, nur allein für unser seelen Heil soll das Geschäft und Verrichtung sein, weil mir nur eine Seel haben, ist dise hin, so ist alles hin in Ewigkeit, und ist keine Hoffnung noch etwaß zu gewinen oder bekommen, ist aber dise gewunnen: Gewingen mir diese unser einzige Seel so ist alles Gewungen, alles haben mir, alles besitzen mir, und alles Geniessen mir, und zwar in alle Weigkeit; so soll und muß ein iedweder sein Seel selbst Gewinnen: oder selbst Verliehren und selbst Verwerffen, kein Prediger, kein Beicht Vaterm keine Eltern, und alle andere
+             
+             <pb xml:id="pb_36" n="36" facs="#mss/ed000232_00040"/>               
+             können dir deine SEel gewinnen zu den Ewigen Leben, wen dus nit selbst willst, wan du nit selbsten für sie Geschäftiget Bist, wan du nit selbst die Hand an das werk legest, Helfen können dir Besagte Priester und Eltern zwar, aber wan du nit selber wilst, so ist alles umsonst, dero halben mueß ein ieder selbst für seine Seel Sorg tragen und Beschäftiget sein, weil auch Gott für sie Beschäftiget ist, und die Gnaden und ermanungen Gibt, so müssen mir: und ein ieder selber mit würken, warum, weil es ein ieder Mensch: oder eine iede Seel selbst Geniessen und zu Bissen oder leiden hat, und dies in den zwei zweiten Teil.<lb/>
+             Es solte ia Billich unser einziges sorgen für unser Seelen Heil sein, weil ein ieder alleinizig darfür rechenschaft muß Geben, ist die Seel Guet Geschäftiget und füert ein frommes Leben, so hat sie in Himmel allein und Ewig dir Freüden und Belohnung dafür zu Gewarten, ist die Seel aber Böß geschäftiget, und hat ein Sindhaftes Leben Gefiert, und nit gesorget für das Ewige Leben, so muß sie Leiden allein, die Höllische Ewige Bein. Derohalben sorget ein ieder zu aller vorderist für sein eigene kostbare Seel, und es muß ein ieder für seine Seel sorgen, andere können dirs nit gewinnen zu den Ewigen Leben, du allein kanst es gewingen, der Prediger, der Beicht VAter, deine Eltern, und andere fromme Leith können dich nit Seelig machen wan du nit selber wilst seelig werden, Verhilflich können sie dir wohl sein, aber zwingen könnens dich nit, nein, nun so sorget und seith Beschäftiget für eure alleinzige, unsterbliche Seel, 
+             
+             <pb xml:id="pb_37" n="37" facs="#mss/ed000232_00041"/>               
+             weil sie das kostbariste ist so mir haben, aus allen Gaben, nichts köstlicher ist als unsere Seele, dise ist mehr wart als alle Schätz: Güeter: und reichtum der Ganzen Welt, so ist sie ia wert, das mir für sie Sorgen, für sie Beschäftiget seyen, weil auch Gott für unser Seel beschäftiget ist, und uns so ville Gaben und gnaden gegeben hat, und annoch Gibet, und mir müssen auf diser Welt als Christen etwas Leiden, damit mir dorten Bekommen die Ewige freüden, und das Leiden muß wegen Gott mit Gedult sein, wie der Heilige Bärtolome dessen fest mir anheunt Begehen, der Heilige Apostel Bartlme hat zeit seines Lebens Vil geliten, Er ist Gereiset in Weit: und wilde örter der Welt, daß Evangelium zu Predigen, er hat Geliten Hunger und Durst, Hitz und kält, um nur die Seelen zu Bekehren, und endlich hat er sich Von Wegen Gott: und den Himmel seine eigne Haut abziechen und Schinten Lassen, gleich sam wie ein Vich, und mir wohlen nicht wissen Von Kreuz und Leiden, mir seind so kleinmeitig: Betrachten mir unser Bruderschaft Patronen den Heiligen Sebastian und barbara, waß und wie Vil ie wegen Gott Geliten, wie sie für ihr Seel gesorget, ia Marter und Tod ausgestandten, o Lieber Gott, daß mir so wenig für unser Seel gesorget, und so ungedultig in Leiden gewesen seind, dises Bereuen mir, und wohlen den 
+             
+             <pb xml:id="pb_38" n="38" facs="#mss/ed000232_00042"/>               
+             Heiligen Apostel Bärtolome nach folgen, so Vil möglich ist, damit mir unser einzige Seel, die du nach deinen Ebenbild Erschaffen hast, gewinnen können, darzue Helfe uns mit deiner Gnad, Ammen. 
+             
+          </p>
+            </div>
+            <div xml:id="predigt_8">
+                <head>
+                    <choice>
+                        <orig>
+                   8. Predig, so gehalten der Pat. Michl den 16. october als Letzten guldnen Sambstag an der Hochfilzen 1773 alda die Haupt sach kurz Beschriben.
+                </orig>
+                        <reg>
+                   8. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             Ihr betrangte Menschen, die ihr auf dieser mieheseeligen Welt herum wandern müsset, wollet ihr hilf haben so fliehet, und wohin, in das Haus der Mutter, in disen Gots Haus, die Mutter Gottes Maria Hilft den Sinder in Ersten teil. Sie hilf den Sinder bei Gott in Tod in zweiten Teil, merket auf ich fange an in namen Jesu und Maria. <lb/>
+             Gott wil auch den Sinder, den bereuten Sinder zu sich nehmen, aber die Sind wil Gott nit, aber den Sinder hilft Maria, den beissenden Sinder, diser würd Von Maria sicher Hilf erlangen, Nicht aber iener Sinder die nur auf die Giete und Hilf Maria vermessentlich Sindigen, disen würd sie nicht helfen, sondern den Bereitten: Buesförtigen Sinder diser würd Hilf erfahren, nicht nur allein dem Sinder Bei Lebzeiten Hilft Maria, sondern auch in seinen Tod, wie mir dies in Zweiten Teil Vernemmen werden. Maria Hilft den Sterbenden Sinder, dort in Tod Beth stet sie den Sinder Bei, 
+          
+          <pb xml:id="pb_39" n="39" facs="#mss/ed000232_00043"/>
+             Wie sie schan Villen Hunderten Beigestandten: und Geholfen hat, Ich wolte Ser Ville Exempel und Miräckel Lei bringen, wie sie den Sindern in Tod geholfen hat, aber kürzer halber unterlaß ich solche zu erzählen. Geliebte merket es, Nur halt ienen Sindern, die sie bei Lebzeiten angerueffen haben, Einer der Maria nie: oder Selten oder schlecht anruefet, auch kein Diener Maria nit ist, ein sochen kent Maria nit in der sterb stund, es komt ihr die stim des Ruefenden Sinder frembt: und unbekant Vor, wie sie zu Vor bei sein Lebzeiten dise stim selten gehört hat. Nun so wohlen mir die Mutter Gottes Maria in ihren Haus wahrhaft, mit Vertrauen, und Guten Vorsatz Verehren und bei ihr Hilf suechen, so würd uns gewis: und sicher Geholfen werden, Maria würd uns erhöhren, und Bei Gott hilf zu wegen Bringen, Christus der Herr sagt selbsten, seine Mutter Maria kan bei Gott Vil erhalten durch ihre Groß Vermögente fürbit: ia Geliebte, ihr möget in einer Betribnuß sein, es seyen  solche der Seel: oder Leib nach, nur [keck] hin zu Maria, sie ist mir zu flucht der Sinder, eine Helferin der Christen, und eine Mutter der Barmherzigkeit, in Leben: und sterbenszeit, Ammen.  
+          </p>
+            </div>
+            <pb xml:id="pb_40" n="40" facs="#mss/ed000232_00044"/>
+            <div xml:id="predigt_9">
+                <head>
+                    <choice>
+                        <orig>
+                   9.te- Predig, so gehalten der Herr Pater Vikäri zu Fieberprunn, den 20. Sontag nach Pfinsgen als 17. october ao: 1773.
+                </orig>
+                        <reg>
+                   9. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             So müssen mir den alle Sterben, ist dan gar keiner Von sterben befreiet, ganz und gar nicht, dises sechen mir in den Heuntigen Evangelium ausfiehrlich das ein Königs Sohn, Jung Von Jahren, Hoch von Edl, Von Königlichen Gebliet, der einzige Trost des VAters war, dannoch fangt er schan an zu sterben.<lb/>
+             Also ist das urteil schan Gesprochen über uns alle, mir: und alle müssen sterben, Jung: und alte, Groß: und kleine, Reich: und Arme, Bürger und Bauer; Edl Leit und Grafen, König und Kaiser, Pischöf und Pabst, in [Stutiani] alle, alle müssen sterben, keiner ausgenommen, daß sterben ist einen iedwedern gewiß, aber die stund ist ungewiß, so gwiß das das sterben ist, so ungewiß ist die zeit, der Tod Gewiß, die stund ungewiß, Wohlen mir in Leben sterben lehren, das ist, das mir uns zum sterben Bereit machen, damit mir nicht unversehcen sterben müssen, Von diesen würd meine heuntige anred sein, selbes in kürze zu erklären, ihr merket auf, so fang ich an in nammen Jesu und Maria. <lb/>
+             Christus der Herr sagt selbsten in den Heiligen Evangelium Bei Lucas, Wachet ihr wisset weder den tag, noch die stund in welcher der Herr kommen würd, heunt oder Morgen, dise: oder kinftige wochen, diß: oder kienftiges Jahre kan daß Letzte sein, das weiß niemand, auch die Engel nit. Weil daß Sterben gewiß sey, und die sterb stund aber ungewiß, keiner ist versichert, ob er nit
+             
+          
+          <pb xml:id="pb_41" n="41" facs="#mss/ed000232_00045"/>
+             heunt sterbe, ehe und Bevor er Von diser Kirchen hinaus gehet, so frag ich euch, weret ihr Bereut wen ietzt der Herr kommen det, könet ihr mit ihme Gehen, Traut ihr euch in disen stand zu sterben, in den ihr ietzt euch würklich Befindet, fraget und durchsuechet ein ieder selbst sein Gewissen: du ungerechter Wuecherer, Betrieger und Tieb, der du daß ungerechte Guet noch würklich Bei dir hast, oder das Besitzest, Von disen Issest, Von disen dich Bekleidest, und mit disen du Spillest, Traust du dir ietzt zu sterben *und du gibst es doch nit zurück* <note type="crit_app">Unter der Zeile angefügt.</note> du Geiller der du nicht hast als Böse Gedanken, Wort: und werk, mit dir und anderen Begehest, Verlast: und fliehest keine Böse gelegenheit, Traust du dir ietzt zusterben. Du Rachgierieger und Feindschaft Tragenter der du in offentlicher feindschaft Lebest, und dich mit deinen feind nicht Versöhnest: und ihme Verzeichest draust du dir ietzt zu sterben.  Du Verschwigne stume Sinder, der du Villeicht schan Ville Jahr deinen Sinden wuest noch nie recht heruas gespiben hast, Sie in der Beicht nit recht erkläret: und geoffenbart hast, Traust du dir ietzt zu sterben in disen stand, oder zu leben wie du Bist, Gibe antwort: du denkts dir ietzt ist: und wär kein zeit zum sterben, wohl es ist ein zeit zum sterben, aber kein Zeit Guet zu sterben nit, zu sterben isst wohl ein zeit, aber Guet zu sterben ist kein zeit, Ein diener kan seine Herrn zweifach dienen, Wen ein Vornemmer Herr ausraiste, und Last kund machen und sich ansagen Morgen auf die nacht kom ich nach Haus, der diener weiß das er heunt zu nacht da: und da 10: 12: oder
+
+          <pb xml:id="pb_42" n="42" facs="#mss/ed000232_00046"/> 
+          Vierzehen stund von hie, von dess Herrn sein haus zu nacht Bleibt so denkt im der diener kan ich Morgen biß auf Mittag Tuen was ich will, ich mag und kan eine geselschaft nach gehen, ich bin schan Versichert der Herr komt Vormittag gews nit, nach mittag vil ich mich schan richten, auf daß ich Bereit bin so Bald der Herr ankomt, gesetzt aber, es sagt der Herr Morgen kam ich haim oder nach haus, und spricht gar kein stund und zeit nit auß, darf hernach der diener Vormittat inst Würths Haus gehen, nein es mechte der Herr kommen, komt der Herr aber Vormittat nit, darf er zu Mittag Tuen was er wihl, auch nit, Er kan zu mittag wohl kommen, weil er Vormittag nit kommen ist, wen aber der Herr zu Mittag auch nit komt, darf der diener nach mittag: und auf den Awent hingehen wo er will, nein auf keine weis, nit, wan er anderst ein Getreier diener sein wil, weil der Herr zu Mittag auch nit kommen ist, desto Gwisser kimt er nach mittag oder auf den Awent: also Bist du alt desto Gwisser und eheder komt der Tod, also Er komt heunt, mithin muß der diener den ganzen Tag wachtbar sein, weil er nit weis wan er komt, frue: oder spat. also mekrs dir dise: Gott der Herr komt halt, und fordert uns ab Von diser Welt, das wissen mir, aber wan er komt das wissen mir nit, er hat kein zeit ausgesprochen, mir seind nie mahlen sicher, wie und wan er komt, da mir schlafen und nit Bereit seind mit unseren Leben, mir seind kein tag, kein stund, ia kein augenblick nit sicher Von den Tod, wan von Himmel: oder von einen Engel eine offenbahrung het, daß er über Vier wochen sterben müsste, o wie wurde nit ein solcher alles richtig machen, das zeitliche und geistliche, er wurde ein frommes Buess Leben anfangen, 
+          
+          <pb xml:id="pb_43" n="43" facs="#mss/ed000232_00047"/>
+             
+             Warum, weil ich weiß wurd ein solcher sagen, daß ich Bald sterbe, und nit mehr zeit hab als bei Vier wochen, und du Sinder Bist nit Vier wochen Versichert, und Lebst also dannoch dahin ohne Buess Leben, o was ist daß für ein Vernuenft, eine Vermessenheit ist das Sinden über Sinden zu heuffen, und kein augenblick von Tod sicher sein, Wen ein Kranker schwär kranz liget, und ihme schan alle Bäder und Doctor das Leben absagen, und schan Verzweiflen an lengren Leben und Besser werden, das er aufs lengste noch drey wochen Lebete, so glaubts ein soclher Kranker, wie rechts ist, richet scih zum Tod, wen anderst möglich Legte er ein ganze Lebens Beicht ab, also ein Dochtor einen Menschen der nur [gedunken} nach das urteil spricht glaubt man, seind aber Ville gesund worde die noch Leben, da ihnen schan das Leben abgesprochen war, sie seind ietzt noch frisch und Gesund: und warumm dan Gott nit, Gott sagt nit drei wochen lebest du noch , sondern du bist keinen augenblick nit sicher, dis sagt Gott der Herr selbsten, zeig mir einem der Von den ausspruch Gottes darvon kommen ist, der nit gestorben ist. Höret waß ein Heid sagte (aber in dieser Materi derfet man ihm ein Profeten und gelehrten nennen) Er sagt mein wan einer übers Meer Reisete, oder in einee Gefährliche blutige Feld Schlacht Gehen muß, so richet er sich zum Tod, er macht zu Vor Testament und alles richtig, er gabe ihm selbst die antwort, und sagte förcht man den Tod da in der Gefahr, also warum dan nit sonst auch, mir sein ia ein mahl kein Viertl sstund sciher darvon, der Tod ist gleich weit Von einen der über Meer Reiset: oder von einen der zu Hause wohnet, oder Von einen der mitten in einer Feldschlacht ist, oder einen bei seiner Handdierung im Hauß, nur mit disen unterschid, auf den Meer: und in der Schlacht last sich der Tod äeusserlich
+        
+          <pb xml:id="pb_44" n="44" facs="#mss/ed000232_00048"/>
+             
+             Besser sechen, sonst ist er bei einen iedwederen Gleich weit, dises sagt ein Heid, was müssen mir Christen sagen, mir müssen unsere händ für das gesicht höben, und scham rod werden, mir Betrachten dises nit, da mir samt der Vernunft das galueb, das wahre Gleauben Liecht haben. Das ist war das ein Gesundter: und Kranker Gleich weit Von den Tod seyen, krat den Kranken zeigt sich der Todt an, aber sterben kan der gesundte ehnder als der kranke, das weiß halt niemand; Einen ausflucht: und zwar eine Teuflische Betriegerey kanst du dir noch denken, Ich bin noch Jung, stark, und Gesund, es werde der Tod so Gschwind nit da sein, ich wehre whol etwas Verhero empfindten ehe ich sterb, hernach kan ich Gschwind Buess tuen, o mit disen gedanken sind Vielle Tausent Betrogen worden, oder du gedenkts dir es sind wohl mehrer Sinder alt worden, und haben in ihren Alten Jahren noch Buess getan, ich will schan auch noch Buess Tuen, ä so wohl verlast du dich auf deine alte jahr, wilst du dort Bues Tuen, es kan sein das du Bueß Tuest, kan sein nit auch, das weiß ich nit, aber ich sage dir, es würd dir ergehen, als wie es einen Reichen Edl man ergangen ist. Da zu zeit wie diser Edlman Lebte die Crhisten Von den Ketzern sehr Verfolgt wurde, Gedenkt im der Edl mann ich wils wohl Gescheider angreiffen, in herzen will ich ein Katolischer Christ sein, mit den Mund und äeusserlich aber will ich mich zeugen als ein Ketzer, damit ich mein Haab und Gueth Behalten kan, und er hat auch Zwey Katolische Beicht Väter in Geheim, einen Bei Hof in der Stadt, und den anderen ausser der Stadt in ein seinigen Schlos, Es denkt im diser Edl man es würd mich der Tod nit so Gschwind anbacken und angreiffen, 
+
+          <pb xml:id="pb_45" n="45" facs="#mss/ed000232_00049"/>
+             
+             als wie ein [kur], oder wie die strassen rauber angriffen werden; Eins mahl gieng der Edlmann mit Zwey seinigen Bedienten Von der Stadt in sein Schloß hinaus, unterweegs aber wurd im Gähling übel, da sprunge ein Diener den Schloß: und der andere Bediente der Stadt zur, um die Beicht Väter zu hollen, da die Beicht Väter kommen wahren, wahre der Edl Herr schan eine Leich, er ist schan gestorben, sehet zwey Beicht Väter hat er Gehabt zum übel Leben, aber keinen zum Guet sterben: Du o Sinder Sinderin hast auch ein Beicht Vater zu deinen üblen Leben, aber es kan dir auch also gehen, daß du keinen hast zum gut sterben, es kan dir auch also Gehen wie diesen Edl Herrn, das du unversechen sterben, und mit den Teufel in die Höll fahren muest, waß sagst du zu diesen, ia ich [mieds] halt haben, ich mieds halt gelten Lassen, und mieds halt auch gelten lassen Leiden, ä so so miets dus halt haben, so miedts du halt Leiden, wans dir auch solso Gehen dät, das sagt ein Christ, draust du dir wohl leiden das Ewige Höllische feuer, miets dus halt Gelten Lassen, das du mit den Teufel auf Ewig in die Höll räisest, draust du dir den Teufel und die Höll auf Ewig zu haben, gelt du ohn besohner Sinder, wo ist dein Sin auf mit der Vernunft. Ein gewisser graf wurde mit den Stein schmerzen hart geblagt, die Dochtor aber Von Disen schmerzen zu helfen, nammen ihne Vor ein Schnit zu 
+
+          <pb xml:id="pb_46" n="46" facs="#mss/ed000232_00050"/>
+             prowieren, der graf aber sagte nein, ich will nit der erste sein, daß ich mier dies Tuen laß, da kunt es mit mir gschwind Gar sein, in diser zeit aber wahren 20 andere Eben mit disen Schmerzen Behaft; und dise alle deten den Schnit Prowieren, und sie wurden alle gesund, biß an einen, nur einer muste sterben, dies hinterbrachten sie den grafen, und sagten er solte es wagen, es seind Von zwainzig nur einer Gestorben, der graf sagt ist einer gestorben so kunte ich der zweite sein, das laß ich mier nit tuen, was wurde aber der graf gesagt haben, wan 10. oder 12. gestorben wären, er wurde gewiß die Docktor auß der Stadt Speitzen haben lassen, also wen andere Junger sterben, kanst du nit auch Junger sterben, wie vil Tausent: und Tausent seind gestorben, die auch disen willen gehabt haben wie du, die halbe aus allen Menschen seind gewwiß übel gestorben, so nit mehrer, und du meinst du wilst in den alteren Jahren Buess tuen, da du diese stund von Tod nit sicher Bist, ich weiß nit, ob nit dise wort die ich ietzt zu euch rede die Letzte seien, und du weist nit, ob du nit in diser Kirchen das Letzte mahl da bist, oder ihr setzet euch heunt zu Tisch, so wist ihr nit, ob nit dies das Letzte Essen sein, zu Awent legt ihr euch ins Beth, ihr wist aber nit ob ihr nit das Letzte mahl in das Beth steiget und zu nacht darin sterbet, der Tod ist ein Brueder des schlaf, dahero solle wohl ein ieder, ehe Er etwaß Esset: oder Trinket, ehe er sich zur ruhe und schlaf Begebt, sein gewissen durchsuchen, und die Sinden Bereuen, 
+
+          <pb xml:id="pb_47" n="47" facs="#mss/ed000232_00051"/>
+          
+          und Beichten, zu füssen des Beicht Vater gehen, und reumietig: ausfierlich entdecken, sagen und sich anklagen, wen einer ein haus, ein grund stuck, eine Wise, oder einen Wald Kauffen det, so duet er Gwiß handlen, er tuet sich auf allen seithen Versichern, oder Leichts du einen ein Geld, und sagest Villeicht bekam ich das Kapitäl schan wider, [mein] gelt mit den Villeicht bist du nit zufriden, aber da es um dein Seel zu Tuen ist, deine iezige Seel, das kostbariste und das aller beste, so ist die SEel, das gekostet hat das Teuer Bleut Jesu Christi, das um dise zutuen ist da wagt man es gering, ist man mit den Villeicht zufriden, o Verplendtes Leben, oder hast du Brief und Sigl darum, das du noch nit stirbest, [Eü] ia wohl nit du bist bit sicher, ob du nit disen Augenblick  stirbest, es ist zwar nit Vonnethen das du ein Ganzes jahr, ein ganzen tag herum Gehest, mit Mellancolley und auf daß sterben sarg  hast, sei Lustig, fröhlich und wohl uf, einer der in ein ruehigen gewisen ist, hat ursach das er Lustig sein kan, ein solcher kan ihm denken komt der tod wan er will, ich bin alzeit Bereit, mir wohlen uns auf das sterben richten, auf das mir nit unversechen sterben müssen, durch eine wahre Beicht, und zurugg Gebung das ungerechte Guet, die Böse gelegenheit abfassen und fliechen, damit so Bald der Herr uns abfordert
+
+          <pb xml:id="pb_48" n="48" facs="#mss/ed000232_00052"/>
+             Von diser Welt, Bereith seine und mit ihme zu der Ewigen freid reisen können, welches ich euch allen Winsche, Ammen.         
+          </p>
+            </div>
+            <div xml:id="predigt_10">
+                <head>
+                    <choice>
+                        <orig>
+                   10.te- Predig, so gehalten der Herr Pater Roman Pruggmoser<note type="crit_app">nachträglich eingefügt</note> zu St. ulrich den 29. August als Schutz-Engel fest: oder der 13 Sontag nach Pfingsgen, ao: 1773.
+                </orig>
+                        <reg>
+                   10. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             Die Bandten jesu Chrisi, und des Heiligen Johannes des taufers wahren zeichen daß sie sterben musten, aber nit also ist das band der schwarz ledernen Gürtl, sondern das ist ein zeichen des Lebens, mit disen Bandten sein mir an der aller seeligsten Jungfrau Maria: und Maria an uns Verhenget und gebundten, Geliebte Christen, dise Heilige Erz-Bruderschaft der Gürtl ist die ältist: und gröste aus allen, mit den Gnaden und Gaben, dise Bruderschaft haben dreysig Römische Päbst äpprowiert und Bekröftiget, der mit diser Gürtl um Gürtet ist, der hat daß zeichen des Lebens, dise Görtl ist uns ein Heil Gürtl, und zwar ein dreyfache Heil Gürtl; Sie ist erstens ein Gnad Volle Heil Grütl, zweitens ein sicherer weeg weiser zu der räuß in daß Vater land, und dritens ein Trost Girtl in den Letzen Gericht.<lb/>
+             Dies werde ich euch liebwertiste Zuehörrer, in drey kurze teil zeigen und vorweisen, Von euch ein aufmerksames gehör: und kurze Gedult, so fant ich an in 
+             
+
+          <pb xml:id="pb_49" n="49" facs="#mss/ed000232_00053"/>
+             
+             nammen Jesu: und Maria der Trost Vollen Mutter Gottes. Ein gnaden Volle Heil ist dise Maria Von Trost, und Erz-Bruderschaft, also kommet nur zu disen Gnaden reichen Schatz kasten, erhöbt und nemt heruas was ihr wöllet, nach euren Belieben, da könt ihr alles haben, in diser löblichen Gürtl Bruderschaft können mir oft: und Ville Volkommene Abläs gewinnen, wen mir nur wöhlen, wie mir schan in der Brudschaft Breif sechen, nicht allein in den Leben sondern auch in den Tod könen mir Vollkommenen Ablas nach der Beicht, mit aussprechung: oder gedenkung des Siessen nammen Jesu Volkommenen Ablas Gewinnen, und auch nach den Tod, es scheidt zwar sonst der Tod alles, aber in dieser Bruderschaft werden mir auch nach den Tod der Abläs, ia allen Guten werken der ganzen Chistenheit Teil haftig: unf fächig, ihr habt euch heunt Von Sinden in den Beicht Stiellen gereiniget, so macht noch ein mahl Volkommene Reu: und Leid Verfluch die Sind, und komme doch zu Maria Von Trost und Gewinge den Volkommenen Ablaß, so würd ihr auch Von aller Sindenstraf rein, o was kunten mir noch mehrer Verlangen. Es ist auch dise Gürtl ein sicherer weeg weiser, zu den Vaterland, dises sechen wür in den zweiten Teil.<lb/> 
+             Mir müssen reisen, wo hin, im ein end weit Gelegenes
+             
+          <pb xml:id="pb_50" n="50" facs="#mss/ed000232_00054"/>
+             
+             Ort, mir haben da kein sichere Stadt, keinen Augenblick nit, es gehört alles gott, auf der Welt gehört nicht unser, mir seind nur wanders: und bstand Leit, mir müssen halt reisen in ein weites fremdes Land, in die Ewigkeit, in die Ewigkeit, und der weeg ist hart zu reisen, Von wegen gefahren, auf disen weeg werden sich ein finden strassen rauber und Mörder, und so unmenschlich: und unbarmherzige Mörder, daß sie mit disen waß der Mensch hat nit zu friden seind, sondern den Menschen oft gar das Leben nemmen, der Teufel ist iener Mörder, die Teufel werden scih einstellen und Bemiehen nur den den dahin reisenden Menschen Seel zu erdapten; ihme Tödliche wunden Geben durch die Versuchungen mit den fleischlichen Gelisten, und mit allerhand Versuchungen, ia er suecht auch so gar den Menschen zu Tödten, und auf Ewig zu Tödten mit der Einwilligung zur Sind, und auch machet disen weeg in die Ewigkeit: und zu den Himlischen Vater land Beschwärlich so ville ihr weeg, nit ein ieder weeg ist der rechte zum Himmel. Wen ein REisender in ein ort komt wo drey weege Von ein ander gehen, so stehet er ein wenig stil, besichtiget, und fraget nach welchen er gehen muss, Liebste Christen, also gehen auch in der sterb stund Ville weeg von einander, da
+          <pb xml:id="pb_51" n="51" facs="#mss/ed000232_00055"/>
+             
+             get der Welt weeg, da get der fleisch weeg, da get der Teufel weeg, und da get der freie willen weeg, welichen müssen mir Gehen, keinen unter diesen weegen, keiner ist der rechte weeg, wie werden mir aber den rechten weeg finden, wo haben mir einen sicheren weeg weiser, der unß zu den Himmlischen Jerusalem füehret, Ich weis für mich: und für euch meine Liebe Brüder und Schwestern diser Bruderschaft keinen anderen nit, als [Mariam] dise ist ein sicherer weeg weiser mit der Gürtl, alda können mir den weeg zum Himmel nit Verfählen, wen maria zu uns mit der gürtl kommet, o so haben mir die Strassen rauber: und ihr weeg nicht zu förchten; und zu besorgen, sie ist uns ein Heil Gürtl in der Raiß und auf den Weeg zu der Ewigkeit, Sie ist aber nit allein ein Gnaden Gaben und sicherer weeg weiser Gürtl, und ein zwey fache Heil gürtl, sonderen wie ich schan Gesagt, sie ist mir für uns dreyfache Heil Gürtl, auch in: und Vor den Gericht gottes ist sie uns ein Heil: und Trost Gürtl, dises in den dritten: und letzten Teil.<lb/>
+             So Bald der Mensch aus der Welt Gehet, so ist da das gericht bei ein ieden Menschen, in disen ort wo der Mensch stirbt, als dan würd der Sohn Gottes kommen zu richten, was würd er richten, das Guete, die Guete werk, ach Christliche zuehörer, die Guete werk würd er richten, wie wenig haben mir Gute werk, mit haben ia mehrere Sinden, 
+             
+          <pb xml:id="pb_52" n="52" facs="#mss/ed000232_00056"/>
+             
+             wie werde es uns ergehen, es würd da sein bei den Gericht Gott, der Schutz Engel, und der Teufel, der Engel würd den Menschen anklagen bei Gott: wegen Vilen nachlässigkeiten in den guten, daß Ville gute ermanungen keine frücht gebracht. Der Teufel wurd uns den richter Vorstellen und sagen, göttlicher Richter, gerechter Richter siche diese Seel die hat mir zwar in der Heiligen Tauf abgesagt abgeschworen, aber so Bald sie zum Verstand Jahren kommen, so hat sie deinen Siessen Joch abgesagt, mir und meinen werken zuegesagt, und mir so lang Gedienet, dich und deine geboth Veracht, dich so oft und freiwillig Boshafter weis Beleidiget und entunehret, Gerechter Richter sprich daß urteil über die Seel, und übergibe es mir, dan es gehört mir, weil es mir Besser als dier gedienet hat, also würd der Teufel zu den Richter sprechen, ach Liebste Brüeder und Schwestern, wie würd es uns ergehen, wo Hilf wo Trost, abermaahl weis ich kein bessers Trost: und Hilf mitl als bei Maria und der gürtl, sie ist ein Trost und heil gürtl, Maria würd unser Mutter, Mittler, und fürbitterin sein, ia gewiß würd sie es sein, sie ist ein Trösterin der Betriebten, ein Helferin der Christen, und ein sichere zu flucht der Sinder. Aber noch in einen ligt es, nemlich die Ordnung: und satzungen
+          <pb xml:id="pb_53" n="53" facs="#mss/ed000232_00057"/>
+             der Bruederschaft müssen mir halten, und selbe Verrichten, wie sie uns in den Bruderschaft Brief Vorgeschriben seind, hernach können mir sicher Hoffen auf Maria, sie kan Helfen: und wil uns Helfen, mir können auch sicher hoffen an der dreyfachen Heil Gürtl, auf diser Erz-Bruderschaft Maria Von Trost, dise Heilige Erz-Bruderschaft ist ein so fruchtbarer Gnaden Baum, das er nit nur allein Monatliche frichten bringet, sondern Wochentliche, Tägliche, ia ich sage noch mehr Stündliche neue früchten bringt diser Baum, und mir können uns dise zu nutzen machen, ia unendliche gnaden und Gaben Gibet uns dise gürtl. Mithin seits wohl getröst Liebste Brüeder und Schwester diser Erz-Bruderschaft, kommet noch einmahl zu disen Gnaden SChatz, zu Maria Von Trost, machet eine Volkommene Reu und Leid, Verfluchet die Sind über alle übel, dan sie ist das gröste übel Vor Gott: und den Menschen, wen mir dises meiden und fliechen, Hassen und Verlassen, o so seith getröst, dise Erz Bruderschaft der Gürtl würd uns ein Heil: und Voller Gnaden und Gaben gürtl sein in den Leben, sie würd uns ein Heil gürtel sein in unsern Tod, ein sicherer weeg weiser zu den Himmel, und sie würd uns ein Trost Volle Heil Gürtl sein Vor den gerechten Richterstuel Gottes, welches ich euch allen winsche, Ammen.
+          </p>
+            </div>
+            <pb xml:id="pb_54" n="54" facs="#mss/ed000232_00058"/>
+            <div xml:id="predigt_11">
+                <head>
+                    <choice>
+                        <orig>
+                   11te- Predig, so gehalten der Herr Pater Vikari Benno den 8. September, oder Maria Geburts tag zu fieberprunn 1773.
+                </orig>
+                        <reg>
+                   11. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             Erfreuen und ergötzen können sich die Menschen auf Erden, aber nit genugsam, und nur auf ein zeitlein werd dises, aber in dem Land der Seeligen da kan sich ein ieder genuegsamlich, Volmächtig, Ewig erfreuen, ergötzen und erlustigen, wollen mir aber wissen ob mir auch dort hin gelängen könne zu den Seeligen, und ob mir auch auß der Zahl der auserwölten seyen, dies weiß zwar keiner, keiner kans wissen ob er Verdamt, oder Seelig würd, mir wohlen aber kürzlich dies untersuchen, und cih wil euch zeugen ob ihr aus der Zahl der Ausserwölten und in das Buch des Lebens eingeschriben seit, oder oh ihr Verworffen und euer nammen in den Buech des Lebens nicht eingeschriben ist. Wen ihr wahre Diener und Liebhaber, Verehrer und Hochschätzer Maria der allerseeligsten Jungfrau seit, und sie Verehret, mit Kindlichr Lieb Liebet und ihr Lob und ehr Vermehret, so seit ihr aus der zahl der ausserwölten, und auch in den Buch des Lebens eingeschriben, nit unfelbar, sondern gewislich, dan weil uns Maria helfen kan, und Helfen will, sie kan uns helfen, weil sie die Mutter Jesu Christi ist, in den ersten Teil. Sie wil uns helfen, weil sie unser Mutter ist, dies in den zweiten teil.<lb/> 
+             Geliebte mörket auf, so fang ich an in nammen Jesu und Maria.<lb/>
+             Wan ihm einer     
+          <pb xml:id="pb_55" n="55" facs="#mss/ed000232_00059"/>
+             
+             denken uns sagen det, maria kan uns nit helfen, oder es erhörets gott nit, wan sie für uns Bittet und etwas erhalten will für uns; diser Tuet sich weit verfehlen, er wäre ein Mistrauer auf gott: und maria, dan Maria ist ia die Mutter Jesu, mithin ist Jesus der Sohn und Kind Maria, was kan dan ein Kind seiner Mutter abschlagen, Ein Mutter wans sie ihr Kind um etwas bittet, so würd das Kind gwiß nit so hart sein, ia kan Gleichsam nit anderst, es Gibts die natur nit anderst als die Mutter erhöhren, ihre Bitt gestetten, wan bei ein Kind das Herz so hart und Verbittert ist, das niemand mit den Kind etwa richten kan, so wür des Gwislich die Mutter dises Kind mit ihren Bitten erweichen und zu recht Bringen: Also die Mutter Jesu, dise Bittet bey ihren Kind, bei ihren Sohn Jesu Christi, Gleich wie ein Kind sein Mutter die Bitt nit abschlagen und Versagen kan, also und noch Vil mehr, kan Jesus der Sohn Maria, als seiner Liebsten Mutter nicht abschlagen und Versagen, ia Gwislich nit. Auch den Sinder kans Helfen, Von seinen Sindhaften Leben abzuhlefen, ihme bei Gott um Gnad zu Bitten, und zu wegen bringen das er ein rechte Buess würken kan, aber nit diesen der nur auf die Güete und Hilf Maria fort Sindiget, und
+             
+          <pb xml:id="pb_56" n="56" facs="#mss/ed000232_00060"/>
+             
+             in seinen Sindhaften Leben fort fahret, sondern der sich Bekehren will, ia mechten ihme einige Denken, ich glaubs schan, das uns Maria Helfen kan, aber waß hilfts, wan sie uns nit helfen will, O Geliebte auch an diesen Manglets nicht, sie wil uns auch Helfen, weil sie unser Mutter ist; in den zweiten Teil. <lb/>
+             Daß sie die Mutter Gottes ist, dise allein wär schan Genueg, das sie uns auch helfen will, dan sie suecht ia die ehr und hcoh schätzung Grössere freud und Glori Gottes, und dises geschicht durch Vermehrung der Ausserwölten Zahl, die Maria durch ihre Hilf suechet, uns Menschen dort hinzufüehren: Aber Maria will uns helfen weil sie unser Mutter ist, es hat uns gott selbsten zu einer Mutter geben, da er an stamme des Heiligen Kreutz am Karfreitag zu St. Johannes Gesagt, siche deine Mutter durch dise mit ihm uns alle, uns als eine Mutter geben, er hat auch Gesagt zu Maria siche deinen Sohn, also auch sein mir mit Johannis der Maria als Söhn und Kinder anbefolchen worden, So ist Maria unser Mutter, und mir seind ihre Kinder, ia auch der Sinder, diser hat Maria zu einer Mutter, o Gerechter Gott, weist du keinen Mann, der für uns gut stet, und für uns gut spricht, so weis ich ein Weib, Maria dise stehet für uns Sinder absonderlich Guet, gott sagte zu Maria, neben den Schaf
+             
+          <pb xml:id="pb_57" n="57" facs="#mss/ed000232_00061"/>
+             
+             stal, und schaf hütten, sollest du die Böck auf der anderen seitehn hietten und weiden, wer ist unter die Schaf Verstanden, die frommen, und die Sinder seind die Böck, ach so muß dan Maria die stinkende Böck Weiden und Hüetten, ia Maria solte die Sinder oder Böck, dise solte, und Tuet sie WEiden und Hietten, und auf dise Gibt sei Acht. Ein gewisser Herr leise sein Getreid Schneiden, und sache zue wie ein Weib hinten nach die getreid Echer fleissig zusammen klaubet, da sagte der Herr zu den Schneiderinen, Lasset noch mehr öcher lügen, damit sie mehrer zusammen klauben kan, der Herr ist gott, der Maria befehlet die Sinder zusammen klauben, die übersechen öcher seind die Sinder die Verlohren seind, die öcher glauberin ist Maria, dise klaubet die Sinder zusammen, sie suechet darum, um zufindten, und sie zu den anderen Waitzen, daß ist, zu denen lobenden gerechten frommen Menschen oder Schafen zu bringen, o waß Tuet Maria für uns, wie suecht sie uns Sinder, als Ihre Von Gott anbefolchen Kinder. Ein Barmherziger Vater kan schir nit gerecht, und Barmherzig sein, schlagt er darein, und straft er das fahlende Kind, so Tuet er der Güete und Barmherzigkeit zu Viel, ist er stil und straft nit, so Tuet er der Gerechtigketi zu wenig, aber er sagt zu seinen Weib, so 
+          <pb xml:id="pb_58" n="58" facs="#mss/ed000232_00062"/>
+             
+             Bald ich die Kinder straffen wihl, so Bitte bei mir für sie mithin Tuet ein solcher Vater der Güete: noch Gerechtigkeit nit zu vil, und nit zu wenig. Also gleiche weiß hat gott seiner Mutter anbefolchen und gesagt, so Bald ich die Sinder straffen will, so Bitte bei mir für sie. Saara des Abraham Weib, hate eine stolze dienst Magt, Sie Verstosse diese samt ihen Kind, Von wegen ihrer Hocheit von ihren Hauß hinaus, daß sie mit samt den Kind in die Wildnuss reisen müste; auf den weeg aber bekommen sie kein Wasser nit, das ihren durst Löschen kunten, das kleine Kind Verschmachte schie Vor lauter durst, sie weinte: und heilte sehr Bitter, ia fangte Gleichsam an zu sterben von Lauter durst, die Mutter disen Knaben ihr Kind aber konte dieß nit zusechen, daß ihr eigeens Kind so erbärmlich Von lauter durst dahin sterben mus, sie Gienge darvon in ein Gestreiss, damit sie nur nit den Letzten Seufzer und Attenzug deß Kin nit ansechen derfte, sie schreiet: und Bittet zu Gott um Hilf, sie Weinet und Heilet, unter dessen komme ein Engel, zeigte ihr einen Brunnen, damit sie den Kind noch zu Trinken Geben kunte, und daß Kind wurde frisch und Gesund nach dem sie zu Trinken Bekommen, hat Gott dise Mutter Von wegen ihren Kind erhöret, dise Stolze magt um wie Vil mehr würd er dan Mariam seiner Liebsten Mutter erhören, da sie       
+          <pb xml:id="pb_59" n="59" facs="#mss/ed000232_00063"/>
+             
+             für uns arme Sinder, und Kinder bitten tuet. Mithin kan uns Maria Helfen als ein Mutter Christi: und wil uns Maria Helfen als unsere Mutter, o was Trost Volle Helferin haben mir an Maria, es erfordert dies woh weil mir eine sichere helferin haben, das mir sie Verehren und Lieben, und ihr Bieß in den Tod dienen, so darf ich zum Beschlus diß wohl nit sagen, mit den heiligen Bernhardus, wie Er gesagt hat zu seinen Volk, da er Villen Tausent Predigte, da erstumet er Gähling, über ein eitlein schrie Er Seufzent und Weinent auf, und sagte (unter so Villen Tausent zuehörer so cih da habe, werden kaume ein hundert Seelig, ich zweifle an diesen noch stark ob die Ain hundert Seelig werden also redet Er) Aber wan ich Betrachte und mir Vorstelle das ietzige leben so man führet, der Hochmuet, die ausgelasenheit, das nächtliche herum luaffen und [schwermen], die Verfiererey und die Verfluechte Prandwein Haingart, und was daraus erfolgt, wen ich mir dies Vorstelle, so darf ich sagen wo unter unser gemein Finfzig Seelig werden: Herentgegen Betrachte ich aber die Liebhaber: und Verehrer Maria der Mutter Jesu, so kan ich auch sagen, das mehrere Von uns Seelig, ia die mehrere. Ammen.  
+          </p>
+            </div>
+            <div xml:id="predigt_12">
+                <head>
+                    <choice>
+                        <orig>
+                   12.te- Predig, so den 29. September 1773 St. Michaeli tag als Bruderschaft fest zu Prämau, der Hr. P. Michl gehalten, alda kurz die Hauptsach Beschriben.
+                </orig>
+                        <reg>
+                   12. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>Gott hat den Moisi, und den ganzen Egippischen: oder
+         
+          <pb xml:id="pb_60" n="60" facs="#mss/ed000232_00064"/>
+             
+             Volk Israel, den Heiligen Erz-Engel Michael Geben zu einen Leither und Vorangeher, das Volk aber wurde Bos: und Sindhaft, der Engel aber flüehet destwegen nit Von ihnen; Also auch mir haben einen Heiligen Schutz-Engel, und ein ieder Mensch hat einen Engel, in Erstenteil. Das der Engel auch bei den Sinder ist, im Zweiten Teil.<lb/>
+             Ein ieder Mensch hat einen Besonderen Beschitzer und Engel, ist das nit eine grosse Guttat, einen Heiligen Engel ein ieder Mensch haben, und das ist noch ein Grössere Gueth tat, das der Engel bei einen ieden Menschen ist, es mag der Mensch hingehen wo er will, so ist der Schutz Engel bei ihme, Von ersten Augenblick der Empfängnuss, biß auf den letzten Augenblick des Tod oder sterben, in diser Zeit ist er bei dir, und bei mir, eß mag der Mensch Tuen was er wihl, der Engel sicht alles, er ist unser Besitzer, Vorleither, und weegweiser zu den Himmel, so seind mir ihm wohl grossen Dank schuldig, ia freilich seind mir ihme zu danken schuldig, und ihme zu bitten, das er uns Vor Gefahren Leibs: und der Seel, Tag und nach, und die Ganze Lebenszeit Bewahren wohle. Das der Heilige Schutz-Engel auch bei den Sünder ist, und der Sinder absonderlich ihme Dank zu sagen schuldig ist, diß würd weisen der Zweite Teil. <lb/>
+             Gleich wie der Heilige Erz-Engel Michael Von den Egippischen Volk, so Bald solches Sindhaft, Böß, und undankbar worden ist, nit geflochen ist, also fliehet auch der Schutz-Engel Von den Sinder nit, es mag der Sinder gehen in die Sind und Laster, der 
+             
+          <pb xml:id="pb_61" n="61" facs="#mss/ed000232_00065"/>
+             Engel Bleibt doch darbey, und Bleibt halt dannoch den Sinder sein Beschitzer, an Leib und Seel, o wie Ville wurden schan Von uns gegenwartigen gestorben sein, wen uns nit der Heilige Schutz Engel Beigestanden wehr, den Sinder ermant er zu der Buess, halt ihm ab Von unglick und gefahren, so ist der Sinder wohl absonderlich den Heiligen Schutz-Engel Grossen Dank zu sagen schuldig, weil er sonst Villeicht schan in der Höllen wäre, auf den weeg und Stieg, auf Gassen und strassen, am Berg und Thal, wo du ihmer Gewesen bist, ist die dein Engel beygestandten, Von der Todts gfar und unglick erettet: mithin fordert der Engel Von uns gehorsam, Lieb, und Treu, Er ermahnet uns fast Täglich zum Guten werken, er Gibt uns ein allerhand Guete gedanken, forderist bei Versuechung, mithin wohlen wir im Täglich Verehren, ihme folgen, auf das mir zu den König der Englen, nemlich zu Gott in den Himmel kommen, zu welchen uns der Heilige Schutz-Engel, ein ieden sein Engel alzeit suchet, Ammen.     
+          </p>
+            </div>
+            <div xml:id="predigt_13">
+                <head>
+                    <choice>
+                        <orig>
+                   13.te- Preig, so gehalten der Herr ikäri den 1. November 1773 als allerheiligen tag, zu Fieberprunn.
+                </orig>
+                        <reg>
+                   13. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             Es ist ein gemeines sprich wort, arweite damit du etwas Gewingest, in ein gewissen ort wurden Zwey tempel erbauet, ainer ein arweit Tempel, der andere ein Besserer
+             
+          <pb xml:id="pb_62" n="62" facs="#mss/ed000232_00066"/>
+             für ein Besseres Leben, es mueste aber ein ieder zu Vor auf ein Zeitlein in den Arweit Tempel bleiben, und dardurch Gehen, ehe ehr zu disen Besseren kommen kunte, also auch alle Heilige Gottes (dessen fest die Katolische Kirchen anheunt Begehet und Verehrete) dise haben alle Ehr und Bevor sie zu den Himmlischen Tempel kommen seind, haben sie zuvor zu den Arweit Tempel und aldort daß bessere Leben und den Himmel dienen müssen durch ihre Guete Werk; Zu alten zeiten war ein Gwisses ort, und Bald sie an disen ort  Arweit Leit Brauchten, und einen ieden der hinkomt und dort arweithen wil, den schaueten sie zuvor seine Hände an, ob er grobe geschrundete händ: oder weicher kluege Zarte hände hat, hat einer Grobe händ, so heist es, her mit disen, diser Mensch ist zur Arweit Tauglich und Guet, er ist die Arweit gewöhnet; hat aber einer kluege zarte saubere händ, weck mit disen heist es, er ist nit tauglich in dises arweit ort, er ist kein arweit Gewohnt, seine Händ sechen keine Arweit hände Gleich, er ist nur ein Miessig Geher, ein faullenzer, der die händ nur in Sack stöckt. <lb/>
+             Also saget auch Gott zu uns, sihet er das mir Arweit händ haben, und für unser Seele gearweitet haben, so spricht er, kommet her in daß Hauß meines Vaters, haben mir aber nit Gearweitet und seind dafür träge faulle miessigeher und schlenzer
+             
+          <pb xml:id="pb_63" n="63" facs="#mss/ed000232_00067"/>
+             
+             gewesen, haben mir die händ nur in sack gestöckt, und die kostbare zeit also unnutz Verschwendet, ia oft gar Sindhaft zue gebracht, so saget Gott hinweck mit disen, diese sein nit Tauglich in dises ort, in das ort des Himmels gehören nur iene, die darum Arweithen, und der Arweit gleich sechen. Ein König fahret einstens auß mit seinr Gutschen, es Begegnete imme gleich ein Adelicher Jüngling, und der Jüngling sagte zu den König, er solte ihm, in seiner Gutschen hinein nemmen, und mit ihme reitten lassen, ist das nit ein grobes und Villes Begehren, ob wohl er Von Adel wahr, dannoch begehrt er zu den König sitzen, der König gabe den Jingling zur Antwort, reiche deine händ her, der Jingling Tuet dises, und der König nam im in seine Gutschen auf, und Lies ihm reitten. <lb/>
+             Mir haben auch ein solches keckes Begehren, wie der Adeliche Jingling, mir Begehren das von den König aller Königen, da mir zu Gott sagen, zuekomme uns dein Reich, ist das nit ein freches grobes Begehren, an den allerhöchsten König, nemlich Von gott, Gott aber sagte zu uns, reiche deine Händ her, seichet er wie ich schan gesagt hab das Arweit händ sind, und Gute werk Verasmlet haben, so nimt er uns auf in das Land der Seeligen, sichet er aber, das mir keine Gute
+             
+          <pb xml:id="pb_64" n="64" facs="#mss/ed000232_00068"/>
+             
+             Werk nit Gearweitet haben, so nimt er uns nit auf: Aber wie vielle wollen Gott (wan er uns rueffet mir sollen ihm unsere händ reichen) ihr händ nit darbieten und reichen, Sondern dafür der welt nach gelangen, in Sindigen fort fahren, Sauffen und fressen, feuern und missigeher Bleiben, solche händ kennet Ggott nit; solche Menschen nimmet er nit an, sondern solche Gehören zu straf. Nun mit unseren leben das mir ietzt füehren können mir den Himmel nit gewingen und Verdienen, der Himmel Braucht Gwalt, nur ienne die darum kämpffen und streitten gewinnen ihm, er ist keine schankung, sondern Christus selbst nennet den Himmel ein Belohnung, er würd nit hergeschenkt, iene die darum arweithen, die Bekommen ihm als eine Belohnung, gleich wie der [Lidlohn]eines Ehehalten keine schankung, sondern ein Belohnung für die Arweit ist, Ich will Von disen allen nach möglichister kürze reden. Mir müssen uns Gwalt antuen in den Ersten theil. Hernach kommet die grosse Belohnung in Zweiten Theil.  <lb/>
+             Von euch ein aufmerksammes gehör, so fang ich an in deren nämen Jesu, Maria, und aller heiligen. <lb/>
+             Bey Johannes, und Chrisostinus ist zu Lesen in 4. Kaitl das ville Tuasent freund stehen Vor den Thron Gottes, aber alle seind mit Kreutz und Leiden, mit mieh und Arweit dahin kommen, also mein Mensch, schau
+             
+          <pb xml:id="pb_65" n="65" facs="#mss/ed000232_00069"/>
+             
+             wilst du, und mir alle dort hinkommen in das Land der Seeligen, so müssen mir uns einen Gwalt, einen ernst antuen, mir müssen uns unser Kreutz Gedultig tragen, mür müssen Vil wäderwärtigkeit ausstehen, weil die Heilige Gottes auch mit diesen den Himmel erobert und Verdeint haben, Leidest und muest du Vil Leiden der auf diser Welt, wüest du Veracht, Verfolget, Verschmächet, und gleichsam zu sagen für einen Schuch hadern gebraucht, Bist du Kranck, [Bresshaft], hast due schmerzen, Ey so sein nit klein mietig, Verzagt, undungedultig, sondern Leide mit gedult, es würd nit lang werden, das Blätlein würd sich Bald wendten, auf Leiden komt Freiden, und auf freiden komt leiden, zwei Himmelreich Gehen nit auf einander, es würd sich mit dir schan Bald ändern, als wie bei den Egippischen Jospeh, der Joseph wurde Von seinen eigenen Brüdern Verkauft, und Von ienen die im kauft haben wurde er widerum Verkauft, er wurde unschuldiger weiß in ein kerker geworffen, und er wahre einer der armseeligisten Menschen einer, es stunde nit lang an, wurde derselbeJoseph Vice König in Ganz Egippen land. Gesetzt ein Kaufman der kan etwan ein seinige einen fremdling nit anderst geben als nur so und so Vil Geld, der andern aber wils wohl feiller haben, der Kaufmann sagte ich kunte es mein eignen Sohn nit 
+          <pb xml:id="pb_66" n="66" facs="#mss/ed000232_00070"/>
+             
+             anderst geben als um dies geld, also gottes Sohn hat der Himmel Vil kost, er hat im Von gott Vater nit anderst Bekommen, als durch Kreutz und Leiden Leben, ia so gar den Tod hat er ausstehen müssen, un dmir wohlen den Himmel wohlfeiller kauffen als Gottes Sohn selbsten, mit unseren wohl leben, mit den fressen und Sauffen derffen mir uns keine Hoffnung machen zu den Himmel, so mir unser leben mit den leben Jesu Christi: und den Heiligen Gottes Vergleichen, wen mir uns, mit disen unseren leben den Himmel Hoffen, und in den Himmel kommen, so seind die Heilige Gottes Nahren gewesen, warum, die weil sie sich also gebeiniget, gegeislet, und selbst Buess werk Getan haben, weil sich Vil Tausent haben wegen den Himmel Marteren lassen, daß sie so gestreng gefastet, und Gleichsam mit wurzen und kreider ernört haben, weil sie sich so arm und schlecht gekleidet haben, weil sie so Vil geliten und Gestriten haben, und so lang, ia oft halbe nächt in Gebeth zue Gebracht haben, so seind sie ia Nahren gewesen, das kein grössere sein hetten kennen, das sie nit also wie mir Tuen und Leben, gelebt und Getan haben, weil mir mit unsern leben auch in Himmel kommen wollen, und uns mit disen leben in Himmel zu kommen getrauen, eintweders mir seind nahren, oder die Heilige Gottes; aber höre der Himmel braucht
+          <pb xml:id="pb_67" n="67" facs="#mss/ed000232_00071"/>
+             
+             gwalt, die Heilige wurden nit so gestreng und from gelebt haben, wan sie den Himmel anderst zu Gewinnen gewust, weil aber der Himmel anderst nit zu Bekommen ist, als durch mie, mithin nur die Gwaltatige diese reisen den Himmel zu scih; also solten: und müssen mir uns Bemiehen, und eine mie uns kosten Lassen, und um den Lohn (Gleich einem Ehehalten)arweithen. Wie muß sich nit ein Jäger Bemiehen, er steigt Bürg auf, Berg ab, er Leidet frost kält, Hitz, und ungewider, er steigt den ganzen tag in gröster Lebens gfar trum, warum deut er sich also um, nur ein Wildbrät zu er haschen und zu Bekommen. Ein Tagwercher oder Tag Löhner Arweitet frue und spat, bei groben, kalten, winter Weter den ganzen tag, um was, nur um 8: 10: oder 12 xr. Ein Soldat waget sein Leben so gering in den Krieg und streit, Er ist wachtbar tag: und nacht, nur damit er etwas erdienet, sein Brod und kleinen Lohn, auch den Gehorsam erzeiget. Ein Kaufmann reist über Meehr, und sonst gefährliche Wasser, nur wegen ein Zietlichen Gewin. Und wie Bemieht sich nit ein unkeuscher, er net ratet den schlaf, er Leidet kält und grobes weder, es ist im kein weeg: kein Alpen zu weit, kein Berg zu hoch, nur seinen Teuflischen gelisten nach zu kommen, um das zeitliche, ia wohl oft Gar um daß Sindhafte Bemiehet man scih so Vil: ach Lieber Gott
+             
+          <pb xml:id="pb_68" n="68" facs="#mss/ed000232_00072"/>
+             
+             waß tuet man für dich, wie Bemiehen wir uns wegen deiner, schen sauber nicht oder sehr wenig, aber wöhlen mir für Gott wenüg oder nicht anwenten, so Bekommen mir die Belohnung nit, so wohlen mir wegen Gott ins kinftig mehrer Tuen, das Vergangene Bereuen, so Bekommen mmir die grosse Himlische freuden und Belohnung in den zweiten teil. <lb/>
+             Wie Groß die Belohnung in den Himmel für Seelige seye, kan ich nit Beschreiben, aussprechen und sagen, sie wer enit auszusprechen und zu beschreiben weil sie unendlich ist, o wen einer nur ein Viertl stund in den Himmel wär, daß ist nur dreissig Minuten lang, und kunte dort die Lustbarkeit, und Gottes anschauungen Geniessen kunte und Täte, so wurde er das alles gehrn Leiden was alle heilige Gottes und Martirer auf Erden geliten haben, so gross ist die freid in den Land der Seeligen, das wen ein einziges Tröpflein des Himmlischen Freiden in die Höll hinunter fiel, so wurde den ersten Augenblick die Höll, keine Höll mehr sein, dan die Freud wurde überhandnemmen, der Himmel würd genent eine Grosse starke Festung, Gleich wie ein grosse starke festung, Stadt, Schloß oder sonst eine festung Von Vieln: und oft Belagert würd, aber Von wenigen Eingenommen. Also der Himmel würd Von Villen Belagert aber eingenommen und Gewungen würd er Von wenigen, 
+             
+          <pb xml:id="pb_69" n="69" facs="#mss/ed000232_00073"/>
+             
+             Weiter den Himmel würd genant ein Kran der streitenden, nur der streitet bekomt die Kran, also für die streidente Leidente Christen würd der Himmel als eine Kran gegeben, nit aber den feinden und müessig Gehern, die dise kran nit Bestreiten wohlen. Und der Himmel würd Von Jesu Christi selbst genent als ein Verborgner schatz, einen schatz zeigt man nit ein ieden, wan dir schan ein Kasten gezeigeg würde, wo ein Schatz darinen ist, so kanst du den Scatz dannoch nit sechen, und weist nit was darinnen ist, als in den Himmel kanst due nit hinein sechen, was für freiden darinen seind, der Heilige Apostel Petrus sagt, kein Aug hat es gesechen, kein Ohr hats Gehört, und kein Menschen Herz ist es nit gestigen die Freüd der Seeligen, in Gottes anschauung Geniessen und Besitzen. Also haben die Seeligen in alle Ewigkeit unendliche Freuden, Lustbarkeiten, und ganzliche Vergneigenheit in den Himmel. Mithin ist der Himmel wohl wert, das mir uns Gwalt antuen, weil dir Belohnung so gros ist, <lb/>
+             Ammen.
+            </p>
+            </div>
+            <div xml:id="predigt_14">
+                <head>
+                    <choice>
+                        <orig>
+                   14.te- Predig, so gehalten der Herr Pater Michl, dan 2. November 1773 als Allerseelen tag Zu Prämen, alda die Haupt sach kurz Beschriben.
+                </orig>
+                        <reg>
+                   14. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+          Mir Menschen auf Erden, und die ausser wölte Heilige Gottes in den Himmel, und auch die Armen Leidente
+          <pb xml:id="pb_70" n="70" facs="#mss/ed000232_00074"/>  
+
+Seelen in den fegfeuer, seind zusammen mit glider, und eine gemeinschaft, die Heilige Gottes können uns Menschen fürbit weiß helfen, und mir den Armen selen, und die Arme Seelen widerum uns in stand seind zu helfen, dise drey gemeinschaften haben ein Oberhaupt nemlich Gott, sie werden genent die Triumfiehrende daß seind die ausserwölte Heilige Gottes in Himmel, die streitende seind mir Menschen auf der Welt, und die Leidente seind die Arme Seelen in den fegfeuer: diese können, und solten mir helfen, aus ursach, die Armen Seelen rueffen uns um Hilf an in ersten teil. und mir können ihnen Leich Helfen in zweiten Teil, so fang ich an in nammen Jesu: und Maria, merket auf zu nutzen euer und der Armen Seelen. <lb/>
+Die Armen Seelen in den fegfeuer seind unsere mit Brüeder, mit glieder, Liebs freund, sie seind in unser gemeinscahft, und über daß seind sie unsere Eigne Natürliche Eltern, Geschwisteret, Guettäter, Verwandte, und Bekante, Befreundte und Nahbars Leit, es seind einige in disen Fegfeuer, denen mir Ursache ihren Bein seyen, die Seelen Leiden grosse, unbeschreibliche Beinen, ihre Beinen seind unaussprechlich Groß in der Empfindlcihkeit, und auch daß sie so lang Von der Anschauung Gottes beraubt sein müssen, auf 
+
+       
+          <pb xml:id="pb_71" n="71" facs="#mss/ed000232_00075"/>
+             
+             daß sie so grosse Begiert und Verlangen haben, zwischen den Fegfeuer und der Höllischen Beinen ist nur diser unterschid, sagt der Heilige Thamas und mit ihme Ville Heilige Lehrer, das das Fegfeuer nur ein Zeit daß ist Zeitlich dauret, und die Höllische Beinen Ewig werden: und daß die Seelen in Fegfeur mit Gedult Gott Loben, und die Verdamte mit ungedult Gott [Böseren] und Verfluechen, sonst ist die Bein Gleich groß, daß feur Gleiche Hitz, in der Höll und fegfeuer: die Seelen in fegfeuer rueffen uns zue um Hilf, sie können ihnen nit Helfen, sie reufen und schreien erbarmet euch meiner, erbarmet euch meiner, wenigist ihr meine freund, ich Leide Grosse Bein, schau Mensch erbarme dich der Armen Seelen, du kanst auch dises Bein ort des fegfeuer kommen, du würst auch um Hilf an rueffen und Verlangen, also mit der Mass di[e/r] man ausmesset, würd dier eingemessen werden, Hilfts du den Armen seelen, so würd auch dir Geholfen werden: und mir können ihnen Leicht Helfen in dem Zweiten Teil. <lb/>
+             Helfen können und nit wohlen, daß ist ein unbarmherzigkeit, schau wen dein Vater, Brueder, oder Gueter freind auf der Welt, In Eisen und Band in ein Kerker Geworffen wurd, so wurdest du Vil Geld wagen, wan due ihme Von Kerker Losmachen kanst, also schau wage nur
+          <pb xml:id="pb_72" n="72" facs="#mss/ed000232_00076"/>
+             
+             für die Arme Seelen die helfte des geld, das du so liederlich ainwendest, an die kleidung, zum Spillen, Sauffen, und Danzen, du kanst deine Eltern, deine Geschwisteret, und deine gute Freind Von Kerker Von der Bein des fegfeuer Losmachen, Tuee es , wen du eine Arme Seel erlösen Tuest, so hast du bei Gott einn grossen fürbitter in Himmel, dise Sell hat selbst die gröste freid, diser Seel ihr Schutz-Engel hat an diese Freid ein Teil, auch Jesus Christus selbst hat freid wen eine Seel zu ihme Gebracht würd in den Himmel: Wen mirdie Grosse beinen so diese Armen Seelen leiden Betrachten, so sollen und müssen mir Bewegt werden ihnen Helfen, waß mir können, mit Bethen, fasten, Almosen geben, mit Mess hören, Comunicieren, und wer kan mit Messe Zahlen für die Armen Seelen. Eins mahl wurde ein frommer Ordens mann in das fegfeuer Verzuckt, da sache und höret er schröckliches Heilen Vor Beinen, die Gemeinste bein sagt er ist in fegfeur nit zu beschreiben, und lieber wil er sterben als den Bösen feind den Teufel anschauen: Die Seelen ruffen uns zue um Hilf, um erlösung und Befreiung Von ihrer Bein, mir sollen und köknnen ihnen Leicht Helfen, mir wohlen dises Tuen, damit sie: und mir nutzen schafen, Ammen.
+          </p>
+            </div>
+            <pb xml:id="pb_73" n="73" facs="#mss/ed000232_00077"/>
+            <div xml:id="predigt_15">
+                <head>
+                    <choice>
+                        <orig>
+                   15.te- Predig, so gehalten der Herr Pater Gabriel Coporater zu St. Ulrich, bei St. Jakob zu Haus den 7 9ber 1773 als Seelen Sontag: alda kurz Notiert.
+                </orig>
+                        <reg>
+                   15. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             Daß Menschen leben auf der Welt zergehet sehr geschwind, dies Beweiset und Behret die erfahrenheit, würd heuen ein Kind gebohren, so sechen mir Morgen einen Mann sterben, also ist kein Beständigkeit: sondern ein armseeligkeit auf der Welt: Mir sechen einen Soh, eine Tochter bei den Grab ihrer Eltern, ein Vater ein Mutter bei den grab ihres Kind, Bedauren, Weinen, und Klagen: der liebsvolle Gott hat dich mein Mensch disen tag erleben lassen; damit du deren Seelen Helfen könest, Bevor [ienen] denen du schuldig bist zu Helfen, Gott erdult auch den Sinder, auf der Welt, er straft die Arme Seelen auf ein zeitlein, Gott ist gerecht das er straft: Aber daß straffen in fegfeur ist groß und unaussprechlich, die Armen Seelen haben auf Heuntigen tag schan lang Verlanget, nur wegen Hilf Von uns, mir wohlen Von disen heunt handeln, und zwar ihre grosse bein Betrachten, daß sie ihnen selbst nit helfeen können un dmir ihnen Helfen solten: Die Schörffe der Bein in Ersten teil, das sie ihnen nit helfen könen in dem Zweiten Teil, das mir ihnen zu Helfen schuldig sein in den dritten teil. <lb/>
+             Die Beinen in den fegfeuer seind unaussprechlich Gros, den Laurenzi sein Braten, den Bärtlme sein Haut abziechen, und den Vitus sein in Keßl Sieden seind grosse Beinen, aber Gegen der Bein in fegfeuer seind sie nicht zurechnen, ia die bein des fegfeuer seind der Höllischen gleich, nur der untschid mit gedult: und ausgang: Vernemmet ein Exempel, es stirbt ein Brueder eines geistlichen,
+             
+          <pb xml:id="pb_74" n="74" facs="#mss/ed000232_00078"/>
+             und diser muste in daß fegfeur, aldorten die Seel Gereiniget zu werden, sein Geistlicher Brueder leset den anderen tag seines Todes eine Heilige Messe für ihme: da erschien die Seele des Verstorbenen, sein Brueder der die Mess lesete, und sprache, daß er schan so Ville Jahr in fegfeuer grosse Bein leiden muß, der geistliche sagte zu im es seye erst ein tag seit seinen Todt, und die Seel meinte es sei schan mehrere Jahr lang: Von anderen Vilen solchen Exemplen wil ich schweigen: geliebte wen einzige schan zwey Monat, zwey Jahr, 7. oder noch mehreren Jahr in fegfeuer leiden müssen, wie lang wird es disen Vorkommen: über daß, daß sie so grosse Bein leiden müssen können sie ihnen in mindesten nit Helfen in Zweiten Teil. Sie rueffen als wie der Job in seiner armseeligkeit: erbarmet euch meiner, es ruft mit Bittender Stim zu dir, mein Sohn dein Verstorbener Vater, Tochter deine Mutter ruffet dich um Hilfe an, Kinder nur Eltern rueffen zu euch um Hilf, Wittiber, Wittib dein Verstorbner gegenteil rueft dir nur Hilfe, die Bekante, Verwandte, Befreindte, Gothen, und Göthen dise rueffen euch um Hilfe an, erbarmet euch meiner sprechen sie mir leiden grosse bein, mir können uns Helfer nit Helfen, Gedanket an uns mir haben euch Vil Erbteil hinterlassen. Der Reich Prasser in der Höll, bit den Abraham, er soll im durch [Caiarum] ein
+             
+          <pb xml:id="pb_75" n="75" facs="#mss/ed000232_00079"/>
+             
+             tropffen Wasser [Schälm] last es ihme aber nit zue weil er ein Verdamter ist, aber den Armen Seelen lasset gott unser Hilf zue weillen sie freund Gottes seind. Der Heilige Bernhardus sagt, wen dein neben Mensch Hilfe notwendig hat, und kanst du Helfen, so bist due Vor Gott schuldig zu Helfen, wer hat aber Bessere Hilf Vonneten, als die Armen Seelen, also müssen mir ihnen Helfen in dritten und letzten teil.<lb/>
+             Mür seind Schuldige denen Leidenten Seelen Hilf zu leisten, weil sie unsere mit Brüeder und Schwestern sein, dis befilcht Gott daß einer den anderen Helfen solle, Bevor wen mein mit Mensch im selber nit Helfen kan, und ich im wohl, Wie der Profet Daniel in der Lewen Grueben war und nichts zu Essen hat, da nam der Engel aus Befelch Gottes den Profeten Nathan, der seinen Schniteren aufs feld ein mueß hinauß tragen wolte, und fiert im samt den Mueß nach bawilan über berg und Thal zu den Hungerigen Daniel in die leben greuben, sehet Gott hat es Gewolt zu Helfen, also müssen mir ihnen Helfen mit Gebeth, mit Comunion, sie haben lang grosses Verlangen um Hilf auf den Heuntigen tag, dein Vater und Mutter, mein Sohn und Tochter Hofen von dir heunt hilf, sage nit dise undankbare wort, o wan ich den armen Seelen schan nit Hilf, sie werden schan dannoch Seelig, es ist war, aber wie were dir wen du in fegfeur bist, und wie du außmist, so würd dir eingmessen werden: Vielleicht
+             
+          <pb xml:id="pb_76" n="76" facs="#mss/ed000232_00080"/>
+             
+             bald die seel die zu dir reuft in Himmel fart, so fahrest du disen tag zu den Teuffel in die Höll, auch aus ursach daß du nit geholfen hast, Christus spricht Seelig sein die Barmherzige, dan sie werden Barmherzigkeit erlangen, nun so wohlen mir denen Leidenten Seelen Helfen, es würd uns solches doplet vergeltet werden, da uaf diser Welt und dorten, mir können Tröstlich sterben, die Seelen die mir Von fegfeuer zu Gott gebracht, dise Bithen für uns, für ihre erlöser, in leben und sterben, und auch wen mir in das fegfeur kommen so werden unsere freind uns Bald daruas erlösen, wen mir dies ietzt Tuen, daß solle uns antreiben, denen armen Seelen zu Helfen, damit sie und mir ehender zu Got in Himmel kommen mögen, Ammen. 
+          </p>
+            </div>
+            <div>
+                <head>
+                    <choice>
+                        <orig>
+                   16te- Predig, so gehalten der Herr Pat. Vikäri den 9. November 1773 am letzten Seelentag als Erechtag um 3 uhr nachmittag, so gestift ist
+                </orig>
+                        <reg>
+                   16. Predigt
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             Es ist diese täg der Seelen octäv Von den Predigern an allen orten für getragen worden, die Beinen so die Armen Seelen in den fegfeur leiden müssen, wie si uns zur rueffen, es ist gehandlet: und denen auf Erden Lewenden Menschen geprediget worden, wie daß die Seelen leiden müssen ein so Hiesses feuer, das alle Schmölz öfen, alle Schwebl öfen, alle Pach öfen, und alle gals Hitner und dergelichen heisse feur Gegen den fegfeuer ein nichts zu rechnen, ein Kielles TAu, nur eine abkiehllung wäre. und daß sie ihr selbsten nit helfen können. und mir ihnen zuhleffen schuldig und Verpundten seyen, es haben dieses Ville Christen gehört dise Neun täg herdurch, Villen is in die ohren 
+
+          <pb xml:id="pb_77" n="77" facs="#mss/ed000232_00081"/>
+             
+             gangen, aber in wie Vielen würd es in das Herz gangen sein, zu Herzen werden es wenig genommen haben, wan ich Von disen handle, so werde ich halt auch wenig nutzen schaffen, wen ich aber Von euch, und [Zu] euch rede, so Verhoffe ich ein grösseren nutzen, Von wem muß ich aber heutigen Letzen tag der Neuntägigen Andacht meldten: und euch Vortragen, wie Ville Arme Seelen werden noch heunt zu uns rueffen, mit den Husittischen Fürst Job, erbarmet euch meiner wenigist ihr meine freind, aber ich Bleibe bei meinen Kanzlspruch und sage, Erbarmet euch über eure eigne Seel, damit ihr Gott Gefahlet; wen ihr euch ietzt nit helfet, so kent ihr euch nit mehr helfen. Erbarmet euch über euch selbsten, das ihr nit fremder Hilf Bedirftig und nötig seith, Tuet dies, dan auf fremde Hilf zu Verlassen ist sher ungewiß und Betrieglich. Dies würd mein Inhalt und anred sein meiner heutigen Predig, Ich rede Von euch. Zeige mir einen der nit sterben muß, ist er Jung oder Alt, Reich oder Arm, groß oder klein, in Stätu du[mest] gestorben muß sein, beü allen, wie mir schan gehört haben, Wan sterben, daß weiß niemand, und das wüssen mir auch, das auf das sterben das gericht ist, und dort werden mir sechen so Vil hundert und Tausent gelegenheiten die mir gehabt hetten guetes zu tuen, wen mir wohlen hetten, eintweders werden mir dort auf Ewig: oder auf ein Zeitlein Zur straf, oder Ewigen fried bestimt wie der Ausspruch Von göttlichen Richter sein würd; Ist der ausspruch des urteil Zu dem Hinmel Zu der Ewigen Glickseeligkeit so würd die Seel Zur Ewigen glickseeligkeit den Himmel Zue Gehen: Aber in den Himmel da ist kein Thor
+             
+          <pb xml:id="pb_78" n="78" facs="#mss/ed000232_00082"/> 
+             
+             nit, sondern ein Enges Hauß Thürlein, kein gemachte Breitte strassen nit, es ist ein kleines schmalles ungetretens Weeglein, und dies finden gar wenig. Ist der Ausspruch aber zu der Höll, o da get wohl ein breite getrette Strassen dahin, und eine Grosse offene Pforten, diesen Weeg und Strassen wohlen die mehrere gehen und fahren durch ihr wohl Leben dahin. Ist der ausspruch aber auf ein Zeitlein, so komt die Seel in das fegfeuer, und alda muß sie Büessen, Biß sie rein ist: und kan nict ender erlöset werden und daraus kommen, dan gott hat Gleichsam ein Schwur getan, da er gesagt, wahrlich wahrlich du würst nit Ehender aus den fegfeuer kommen, bist du nit alle deine Schulden richtig Bezahlet hast. Es werden Vil Tausent und Tausent Seelig, fromm, geistliche und Weltliche, Arme und Reiche, ihre gute Werk Vor gott auflegen, Ihre Buess, ihre Reu, ihr Bethen und fasten, ihr Casteien und Almosen geben, ihre Trit: und schrit, die sie zu ehre Gottes getan: und durch die guete Meinung Verdienstlich Gemacht haben. Aber was werden mir auf zu wiesen haben, derohlaben erbarme dich deiner eigenen Seel, dan hernach kanst du dier nit hlefen in den ersten Teil. <lb/>
+             Jenne die dir helfen können und sollen, wohlen dir nit helfen in den zweiten Teil. <lb/>
+             Mein wort und euer Aufmerksamkeit opfere ich Gott auf zu uns und den Armen Seelen Trost, so fang ich an in nammen Jesu und Maria. <lb/>
+             Es kan in Himmel nicht ein gehen, so nit Vorhero rein ist und Gott hat ein Guetes gesicht, er hat ein scharfes gesicht, er sichet einen ieden Menschen alle Gedanken, so in den Winklen
+             
+             
+          <pb xml:id="pb_79" n="79" facs="#mss/ed000232_00083"/>  
+             
+             des Menschen Herzen stecken, einen augenblicklichen Gedanken erkennt Gott schan, er merket genau auf, und Von ein iedem unnitzen wort und Geringsten Sinden müssen gerecht: und Gebiessert werden. Der Heilige Apostel Paulus sagt, wan ich mich Vor gott schan nicht schuldig waiß, das ist noch nit genueg, dan der Herr der ein schafes gesicht hat, und ihme niemand nicht verbergen kan sicht und weiß alles; der Heilige Apostel Petrus sagt das kaum der Gerechte Seelig würde, wie würd es den Sinder Gehen, da sich der Gerechte förchten muß, und hat ursach zu forchten, dan Gott straft ia ein ieden nach gerechtigkeit, wo nit Ewig, doch in den Fegfeur; mithin ist daß fegfeur bei uns fast unendlich, und das dieses wenig werden eingehen, es seind Von all ständten, Von all Orthen, Seelen in den Fegfeuer, es seind Ville Prediger die durch ihr Predigen nach den Tausent Seelen gott gewunnen haben, aber etwan an sich und für sich ein wenig gefählet haben, so müssen sie in den Fegfeuer sein; Es seind Ville frommen Ordens Leith die wegen übertretung ein und anderes kleines ding in ihren orden in fegfeuer Büessen müssen. Es seind Ville gerechte Richter die etwan ein: und anderes mahl ein wenig der gerechtigkeit zu kurz getan haben seind in den flammen der Beinen. Es seind Ville Barmherzige, die Vil unter die Armen aufgeteilt haben, doch aber nit alzeit dieses recht getan haben, müssen sie dafür in fegfeuer genueg Thuen, kurz von allen gattungen der Menschen seind in diesen Orth der Bein: Also würd uns dieses auch zu teil werden, weil mir taglich den zue gehen, seind mir zu den fegfeuer etwan 7 täg verordnet, so müssen
+             
+             
+          <pb xml:id="pb_80" n="80" facs="#mss/ed000232_00084"/>  
+             
+             mir Bleiben. Seind mir 7 Monat dahin berueffen, so müssen mir Bleiben. Seind mir 7 Jahr, 20 Jahr, 30, 40 Jahr, oder gar Biß auf den Jüngsten Tag, als wie ein Gewisser König der gleichsam für heilig Von allen Menschen ist gehalten worden, so müssen mir Bleiben, nur kommen kein tag, kein stund, kein Minutten nit Ehender heraus, ausgenommen es duet dir gott Exträ ein absonderliche Gnad an, das er dich: oder ein Engel deinen Befreindten die dich schan längst Vergessen haben, sagen wie sie dir helfen können, als wie es den Heiligen König erfahren ist: nach Vierzig Jahr erschien ein Engel, und mueste gleichsam die Ganze Welt für ihme Bethen, hernach ist er Erlöset worden, aber diß würd selten und nit Leicht sein, aus den Fegfeuer kan im selbst niemand herauß helfen, Er mag Bitten und Bethen wie er wihl. Der Heilige Augustinus sagt, es ist ein ort, wo es niemahls tag würd, und niemand Arweithen kan, und dies ort ist das Fegfeuer, da kanst für dich Guets Tuen, nicht Bethen, dort kanst nit fasten, dort kanst dich nit kasteien, dort kanst nit Almosen geben, dort kanst nit Kirchen Gehen, dort kanst deine Sind nicht dir nützlich Bereuen, dort kanst nit Beichten, nicht nichts hilft dich dort, du magst Weinen und klagen, rueffen und schreien, Bithen und Seufzen, mit einen wort du kanst für dich nichts mehr Arweithen. Ein [Anmeis] was sie ihr den Sommer zusammen tragt, das hat sie den Winter Zu Essen und Zu 
+             
+          <pb xml:id="pb_81" n="81" facs="#mss/ed000232_00085"/>  
+             
+             nagen, also auch mir, was mir uns iezt zusammen arweitten, da mir auf der Welt, das haben mir hernach, Gott wihl selber das mir uns iezt auf der Welt gute werk Zusammen tragen, was mir iezt zu sammen bringen, das haben mir nach den Tod zu geniessen, in den fegfeuer kanst dich nit Biegen noch wiehren, als wie die Zwey Armen Tropffen die gichbrichtig waren, da ihre Befreindte sie zu Jesu Tragen wolten, könten sie ihnen nit hinbringen, selber könten sie nit Gehen, und das Angreiffen könten sie nit erleiden, da nammen ihre freunde sie samt den Böth, und Truegen sie zu dem Hauß wo der Herr Jesus ware, alda kunten sie widerum wegen der menge des Volk nit Vorkommen, sie nammen daß Beth stigen auf selbes Tach machen das Tach auf, und Liessen sie zu den Herrn hinab, damit sie gesund wurden, ist das nit ein armseeligkeit, sie könten sich nit wehren noch Biegen, wo man ihnen das Haupt, die Arm, die füuess hinlegt, da mussten sie es ligen lassen, biß ihnen der Herr geholfen hat. Also die Armen Seelen, dise können sich nit wehren, sie können das feur nit Von sich Blasen, und Von sich wendten, sie müssens halt Leiden so lang: und Viel biß sie rein seind, sie seind halt Verlassen, sie seind auch angeschmidet mit Eisen kötten, angeföslet, sie können sich nit umwenden, alle ihre Gedanken, anschläg und rät seind umsonst, sie müssen in feur sein, so sollen mir für unser Seel sorg tragen, und kein Gelegenheit der guten Werken auß handen lassen, iezt wohlen mir gutes Tuen, hernach wen mir wohlen können mir nicht mehr guetes tuen. [.] Was tuet nit ein gefangener in einer Keüchen, er erdacht alle 
+          <pb xml:id="pb_82" n="82" facs="#mss/ed000232_00086"/>  
+             
+             Rät, alle Anschläg, er denkt aus wie wo er zum Leichtisten auß der gefängnus kommen kunte, er schitlet die Gschloß wo er immer kan Von sich, er Ladlet die Eisene Ridl von der Thir, er Last sich auch mit seinm seinem strosack über hoche Mauren und Balsten herab, man Liset daß einig stro an einander geknupft, oder den Kerker angezindt, oder Bittet seiner freind den Kerker oder das ort wo er gefangen ist anzuzinten, damit er etwan auskommen möchte Von der Gefaängnuss loß werden, wen er schan halb Geprenter darvon kommt, er gibt sich Gehrn in die äeusseristen Lebensgefahr, als wie bei absaillung mit stro, und anzindung des ort sein muß: Was ist dan ein solcher kerker, ist er ein feuriger kerker so nit zu erleiden ist. Nein er ist kein feuriger Kerker nit als wie daß fegfeuer, auf dieser welt. kan man alle übel ein end machen, etwan mit der flucht, mit rat: und Tad der freinden, oder zu einer höcheren obrigkeit, oder man kan ihm selbst auf Verzweifelhaftigkeit daß leben [anemen], aber aus diser Verzweiflung kommt daß grössere Übel auf das kleinere. Aber in den fegfeur, da kan im keiner mit den übel ein end machen, er muß Leiden, kunte ein Grösseres übel sein als das fegfeuer, kunte ein übel disen Verglichen werden, mit nichten, sehet das ihnen die Seelen in den fegfeuer gar nicht helfen können. <lb/>
+             Es kunten aber einige helfen, und die wohlen nit: in den Zweiten Teil. Das mir den neben Menschen Hlefen in der not, das Lehret uns das Geboth Gottes, es Gibt uns ia der Vernunft ein das mir hlefen sollen, die
+             
+             
+          <pb xml:id="pb_83" n="83" facs="#mss/ed000232_00087"/>  
+             
+             heiden haben dis erkent, das einer den anderen geholfen hat in der noth. Wie es sich einstens zue Getragen, daein Stross Vogl einen kleinen Vögelein nach floge in willen dasselbe zerreissen und zerfressen, dise sache ein Heid, und Er hette das Vögelein den Stoß Vogel entziechen können, hat es aber nit getan, da dieses die andern Heiden wahr genommen, Verfluechten sie ihme wegen diesen, das er den Vögel hät helfen können und nit gewolt, und sie sagten zu ihme, Er, sein hauß, seine Kinder, und Kinds Kinders solten Von allen Verfluecht sein, diß haben Heiden getan, Von wegen einen Vich, was solle man nit für eine Seel Thuen, Es will Gott haben das mir den neben Menschen helfen solten, wie mirs in ein Geschicht sehen, als der Profet Natan für seine Träud Schnidern auf mittag ein Müessl Kocht und dieses auf das feld hinaustragen wolte, Begehnet ihm ein Engel, und sprach zu ihme wo er daß Mueß hintrage, der Profet sagte den Schnidern etwaß zu Essen, nein sagt der Engel dis solts nach Bawilan hintragen, o sagt der Profet ich weis nit wo Bawilan ist, der Engel namb ihm bei den Schopf und füert ihn mit samt den Müeßl über Stöck und Stauden, Bichl und Berg zu der Stadt Bawilan, aldort ließ er ihm mit samt den Müeßl nider, Vor einen Keller, und sagte zu Nathan, in disen Keller ist der Profet Daniel unschuldig weyß darin gespert worden, und er schan Sechs Täg nicht zu Esseen hat, und schie Vor Hunger sterben mueß, er solte da Müeßlein den Daniel geben, die Schnitner
+             
+          <pb xml:id="pb_84" n="84" facs="#mss/ed000232_00088"/>  
+             
+             wen sie anfang zu Hungern können schan anderst wo etwaß zu Essen Bekommen, sehet das auch Gott will, daß man den notleidenten helfen solle, Helfen sol man den Armen Seelen das erfordert ia gott und Gibt uns die Natur ein. Es gedencken ihnen einige, ich kann nit helfen, Gehe ich zu den Tisch oder Essen, so sich ich den Seegen Gottes, ich habe Ville Kinder, ein iedes wil zu Essen haben, das Gwant kost auch Vil, es wil ein iedes alleweil waß schenes und neues haben, es kimt die Hoffart auch alweil Baß auf, ich Brauche das Gold sonst gar wohl, ich muß hausen, sonst heist es ich Verhauß alles. Höre daß du hausest ist recht, aber es wäre Preichig ein: oder Zwey mahl recht Gnueg Essen, nit drey und Viermahl als Schoppen bei ietzt so sträflichen Ziet wer ist den aber schuldig den Abgestorbenen zu Helfen, die nachbarn und Bekante, die Befreundte und Kinder: die nachbarn solten unter ein ander sagen, ietzt ist unser nachbar Gestorben, er ist in die Ewigkeit fort, Er ist villeich und fast unumgänglich in den fegfeur mir wohlen ihme Helfen, ihm auß den Bein des fegfeuer Zu den Himel schicken, sie solten sagen und Gedenken wen ein seimiges Pferd, oder Rind Vich in den graben: oder Grueben Gefahlen ist, so sein mir alle Geschwind Gesprungen, dieses herauß geholfen und erröttet, der nachbar selber ist in die Grueben des Fegfeur gefahlen, in eine Tieffe grueben, einen Vich helften mir heraus, warum der Menschen Seel nit: sie solten sagen Nachbarn, gelt wie dort das nachabrs hauß brinent worde ist, seind mir alle Gschind gloffen, Von Schlaf auf, Von den Essen,
+             
+          <pb xml:id="pb_85" n="85" facs="#mss/ed000232_00089"/>  
+             
+             Von der Arweit, Von der Werkstat, und alles Ligen und [Lainen] Lassen, und Gschwind den Nachbarn Hauß zue, dasselbe zu Löschen, mir haben uns hin ein gewagt auf die Brinende Went, auf die Zimmer in gröster Lebens gefar haben mir uns gewagt, damit mir nur ihm das Hauß erröttet haben, oder errötten möchten, und iezt ist unser nachbar gestorben, ietzt ist er zusagen in feuer des fegfeur, er Brint selber, er ist ein Lauters feuer, so wohlen mir im Löschen, also solten die Nachbarn unter ein ander sagen, solten soagen, aber wie sagen sie, sagen sie auch also , ich will dises klar zeigen, wie dises geschicht, und daß du dich auf deine Nachbarn, bekante, und Verwandte, auch Kinder nit Verlassen derft, dass dir helfen, sondern ietzt mußim ein ieder selber helfen, die ander Leit Hilf ist falsch, nur mit den Versprechen Geschicht diese, würd nit gehalten, Verlaß dich nit auf deine nachbars Leith, die nachbarn und Bekanten die noch leben, sollen den Verstorbenen Seelen der Nachbarn und Bekanten Helfen, und ia sie Versprechen Zwar den Tod schwach und kranken, sie wohlen im helfen, Gewislich wöllen sie im nit Vergessen, und seiner alzeit in Gedenk sein; nun sobald der Krake stürbt, so Gehen sie Gleich wohl schanden halber mit der Leich, sonst wegen der Verstorbenen Seel wurden auch nit Ville Gehen, Bei den Begraben stundten sie schaucken Gewiß bei ein ander, und etliche hint nach, wie es die alte Weiber in Brauch haben, oft Schwätzen, Blaudern, und damit die Leith ausrichten, oder wen sie etwan ein: oder nderen Vater unser Bethen, so ist es Lau und kalt, daß die wolken unmöglich nit durchtringen kan, und gott diß nit erhöret, über ein kurzes zeitlein denkt man nit mehr an den Verstorbenen, 
+             
+             
+          <pb xml:id="pb_86" n="86" facs="#mss/ed000232_00090"/>  
+             
+             So blad der Gottes dienst volbracht ist, da Geht man in das Würths Hauß, da frist: und Sauft man Bräf drauf, zu letzt wischt man das maul ab, und Geht man davon, der Armen Wittib und Kinder macht man ein Grosse Schuld, das ist den Nachbarn sein Gwiß nit Vergessen. <lb/>
+             Oder wilst du dich auf die Hilf deiner Befreindten Verlassen, komme etwan diese dir zu Hilf, wen du in den fegfeuer bist, siche wie dise dir zu Hilf kommen, si werden dir auch in den Tod Vil Versprechen, und machen es dir wie die Benachbarn, den ersten und anderen Tag seind sie ein wenig deiner in gedenk, hernach ist es gar, sie können dich nit mehr.<lb/>
+             Deine eignen Kinder, dise kunten dir noch zu hilf kommen, und dich Von den Fegfeuer erlösen, Verlaß du dich nit auf deine eigene Kinder, ia ihr Kinder ihr seith zwar wohl schuldig euren Eltern nach den Tod: so wohl als ietzt bei leben zu helfen, die Eltern haben dich auferzochen, ernörtet, und erhalten, sie haben für dich bei tag und nacht Vil getan, sie haben dir vil gut und Geld hinterlassen, aber wie ist die Hilf, höret Eltern und erschröcket nit, wie euch die Kinder nach den Tod helfen, ich dueß nur krat nennen, wie sie ietzt euch helfen und ehren, eure Kinder sagen, oft, o wan nur krat ain mahl der Vater sturbe, wan nur Gott Bald die Mutter hinwekc namme, sie seind so ainfaltig, Kindisch, und haigl, es ist mit ihnen recht hart umzugehen, wan sie nur Bald sterben däten, so kunte ich Tuen waß ich wolte, ich mueß ia alles selber arweithen und gegieren, daß sie mir die sachen gar nie über geben, ich muß ia sie erhalten, sie seind auch
+             
+          <pb xml:id="pb_87" n="87" facs="#mss/ed000232_00091"/>
+             
+             recht haiggl in der Kost, es ist ihnen die kost so man den Ehehalten: und arweit Leithen zu geschlecht, sie wöllen bessere Bissen haben, der Bader kostet auch Vil geld, es fält ia alleweil wa, also Eltern reden euch die Kinder in Lebzeiten zue, wan es nit mit worten geschicht, so geschichts doch in Hezr mit Lauten gedanken, geld Kinder Bestet es, ist euch nit also in Hezren, ietzt Eltern Tuent euch die Kinder also, mithin Kint ihr euch scan einbilden wie es nach euren Tod würd hergehen; O ihr Kinder Villeicht rueft eure Mutter die noch in Fegfeuer sit also zue, mein Sohn, meine Tochter, ich hab dich Empfangen, ich  hab dich mit schmerzen zur Welt gebohren, und so Vil für dich Sorg getragen, ich ware tag und nacht Bemiet für euch, damit ihr ein Kreützer Von mir Bekommen habt, und ietzt bin ich Von euch Verlassen, ich Leide grosse Bein, und kan mir selber nit Helfen, erbarmet euch meiner, ich Bitte euch, Gedenket doch noch an mich; also kan dir o Kind dein Mutter Zuerueffen: nicht weniger dein Verstorbner Vater o Kind ruffet dir zue um Hilf. Und Bist du ein Eheman: oder Ehefrau, und Verlast dich auf dein noch lebenden Gegenteil, das sie dir aus den Beinlichen Ort des fegfeuer helfen würden, o so bist du auch Veralssen genug, habt ihr in Zangg, grollen, und Haß, auch feindschaft Gelebt, wie es oft ist und Geschicht daß eines des anderen Gegenteil heunt LIeber als Morgen sterben säche, daß ein Teil lieber wäre das andern sturbe Bald, so kan man wohl ein grosse hilf hoffen, da weiß man schan was für eine hilf bei solchen heraus komt: habt ihr aber fridsam
+             
+             
+          <pb xml:id="pb_88" n="88" facs="#mss/ed000232_00092"/>
+             
+             einig wie es der Ehestand erfordert und ihr Versprechen habt gelebt, und stirbt der andere Teil daraus, o da kratzet man in Kopf, da Tobet man, da Seufzet man, da weinet man, da hauset und stellet man sich als wolte man schir Von sinen kommen, ietzt bin ich Verlassen, um euch iss ia aus, ietzt weiß ich gar nicht was Tuen, ist diß den anderen Teil zu hilf kommen, auß der Bein zu Helfen, daß ist nur ein Natürliches mitleiden, meistens wegen ihme selber, dieses nutzet den Verstorbenen nit Vil: über ein Zeitlein gedenkest du, ia ich mag äso nit Hausen, ich muß heiraten, Von diesen Von Heiraten hast ietzt dein [geträcht], da ist der Ganze Blunder bei ein ander, so Bald es wider Geheiratet ist denkt man nit mehr an den enderen gestorbenen gegen Teil: ist es nit wahr, daß man Verlassen ist, nach den Tod, und du Mensch Von niemand, weder Von nachbarn und Bekanten, weder Von Befreundten, und auch Von deinen eigenen Kindern, und den Gegen Eheteil gänzlich Vergessen wüest, Sie können dir zwar Vil: und das aller bester Versprechen, und sagen wie sie dir Helfen wohlen, aber Versprechen hin, Versprechen her, Versprchen sagt man ist herrisch, und halten ist beirisch, mir komets iust für als wir zu Zeiten da die Best regiert hat, da die Leit widerum Von dieser Sucht darvon, und aufkommen seind, haben sie ihre eigene Eltern nicht mehr Gekennt, sie haben alles Vergessen: Also auch ihr habt eure Eltern, euer Befreundte, euer Bekante und Verwante, nur [Gutaler], euer Ehe Gegenteil, und eure Nachbars Leith schen
+             
+          <pb xml:id="pb_89" n="89" facs="#mss/ed000232_00093"/>  
+             
+             sauber Vergessen, ihr denkt oft ein ganzes Jahr nit mehr daran, Mir sechen dies schan in einer wahrhaften Biblischen Gschicht das der Egippische Joseph bei den Mund Schenk in den kerker wahr, da hare bei im in Kerker der [Mudsum] sie wahren gar Gute freund, Versprchen einer den anderen zu helfen wo nur möglich ist, der Joseph sagte den Musum Vor, das erüber drey tag widerum in die Köngliche gnad aufgenommen würd und bittet ihme, er wohle bei den König für im ein Gutes Wort einlegen, der Mudsum Versprache den Joseph dies so kröftig, du hast dich zu Verlassen drauf, ich wil gwis bitten für dich: Wie Joseph Vorgesagt über drey tag war der Mudsum widerum bei den König in Gnaden, aber der Vergesen Mudsam gedenkte nit mehr an seinen freund Joseph, Er Vergüst seinen Cameraden ganz und gar, Er liesse den Joseph ruhig in der Keuchen sitzen. Nun sehet wider, wie es ein Sohn seinen Vater gemacht hat, desselben Sohn sein Vater wahre Tod Krank, da Bate der Vater seinen Sohn, er solte doch seiner nit Vergessen, und ihme nit Lang in den fegfeuer Leiden lassen, weil er ihme so Vil Gueth und geld, haus und Hof, Zue Gebracht und Geben habe; ia sagte der Sohn, Lieber Vater, ich will dich gwiß nit Vergessen, und deiner stets Gedenk sein, so lang ein Tropfen Bleut in mir ist, will ich für dich Bitten un ddir Helfen, und für dich Heilige Messen Lesen Lasen und dergelichen, daß bin ich redlich schuldig also Versprache es der Sohn. Der Gute Vater stürbet, der Sohn Zahlete Endlich wohl schandten halbe die Gottes dienst, hernach ist es gar, da dies seine Befreunde 
+             
+          <pb xml:id="pb_90" n="90" facs="#mss/ed000232_00094"/>
+             
+             Vernommen, ermanten sie den Sohn, er solte doch den Vater wie er in Versprochen hat helfen, o Sagte der Verkehrte Sohn, daß ich für den Verstorbenen Vater wohl nicht Tue, ist er in Himmel so braucht er nichts mehr, ist er in der Höll so hilft nichts, und ist er in den Fegfeuer so haater wohl die sichere Hofnung zu den Himmel, es ist schan gewunnen, mithin Last im ein wenig leiden, der Himmel ist alles wert; Zu wem komt diese red, zu einen Vich, zu einen Camel Thier, oder zu einen ochsen, oder zu einen Vater Von seinen einen Sohn. Sehet wie Betrogen mit den Verstorbenen gespillet würd, man Last sie halt rueffen, mir kunten helfen und wohlen nit; als wie die Brüeder Joseph, die haben ihren Brueder ruffen lassen, da sie im in ein ausgetrücknete grueben gesperret, und sie neben her: und oben drum Brod geessen, getrunken, und ihnen wohl sein hamt lassen, der arme Joseph aber rufte erbarmet euch meiner und Gebt mir ein Brod; also die Seelen seind in der grueben, in der feuer Grueben, mir Sitzen aber herum auf der Welt, Sauffen und fressen und lassen uns wohl sein, die Seelen aber unseren Brueder, Schwester, Vater und Mutter lassen mir ruffen. So sechen mir ia augenscheinlich, da wen mir unser eigen Seel nit erbarmen, so würd sich niemand dariber erbarmen, das mir uns auf diese gar nit trauen, sie ist falsch, und alle die uns Versprechen seind Lugner. Anietzto zum Beschlus, sage ich euch noch ein mahl, erbarmet euch euer eigeenen Seel, und das ihr Gott Gefallet, dan ihr könt euch selbste in der Bein
+             
+             
+          <pb xml:id="pb_91" n="91" facs="#mss/ed000232_00095"/>  
+             
+             des Fegfeuer nit helfen, dies haben mir gehört in den ersten teil. Die Helfen könten die wohlen nit in zweiten teil, also ist auf andere Hilf nit zu Bauen, Weillen sie falsch ist: Das Beste ist das die Seelen in den Fegfeuer und kein Brief nit schreiben können, sie wurden unsere undankbarkeiten in nach truck schreiben: Aber es wäre Guet wan sie uns Breif schreiben kunten, si wurden in den flammen eindunken, und uns Bitten und ermahnen ihnen zu hlefen, welches unser schuldigkeit ist, und mir auch Thuen sollen.<lb/>
+             Amen
+          </p>
+            </div>
+            <pb xml:id="pb_iii" n="iii" facs="#mss/ed000232_00093"/>
+            <div>
+                <head>
+                    <choice>
+                        <orig>
+                   Register
+                </orig>
+                        <reg>
+                   Register
+                </reg>
+                    </choice>
+                </head>
+                <p>
+             Über Dieses dritte Predig Buech, So vom Jahre 1773 Gehalten worden seind.
+             <table>
+                        <row>
+                            <cell>Lauf Nr.</cell>
+                            <cell>Seind die Predigen gehalten worden</cell>
+                            <cell>Folio</cell>
+                            <cell>Inhalt der Predigen</cell>
+                        </row>
+                        <row>
+                            <cell>Lauf Nr. </cell>
+                            <cell>Wenn</cell>
+                            <cell>Wo- und</cell>
+                            <cell>Wer</cell>
+                            <cell>Folio</cell>
+                            <cell>Inhalt der Predigen</cell>
+                        </row>
+                        <row>
+                            <cell>1</cell>
+                            <cell>den 20ten Juny</cell>
+                            <cell>Fieberprun</cell>
+                            <cell>Pa Ben. Vikäry</cell>
+                            <cell>1</cell>
+                            <cell>Das es ein ernst und gewalt braucht zur Buess, das es ein ernst kröften und Mann Braucht, der Welt Teufl und fleisch absagen, und in 3 stuck nit blieben.</cell>
+                        </row>
+                        <row>
+                            <cell>2</cell>
+                            <cell>den 4. July</cell>
+                            <cell>Zu St. ulrich</cell>
+                            <cell>Capuciner</cell>
+                            <cell>10</cell>
+                            <cell>St. ulrich ist groß Vor den Augen der Menschen, und Groß Vor gott.</cell>
+                        </row>
+                        <row>
+                            <cell>3</cell>
+                            <cell>25. July</cell>
+                            <cell>Fieberprun</cell>
+                            <cell>Pat Michael Widman</cell>
+                            <cell>13</cell>
+                            <cell>Gott kan uns Helfen weil er almächtig: er will Helfen weil er gietig ist.</cell>
+                        </row>
+                        <row>
+                            <cell>4</cell>
+                            <cell>1. August</cell>
+                            <cell>Fieberprun</cell>
+                            <cell>Pater Vikäry</cell>
+                            <cell>15</cell>
+                            <cell>Wie falsch das Grä oder Morgen Schrein, sagen und denken seyn.</cell>
+                        </row>
+                        <row>
+                            <cell>5</cell>
+                            <cell>10 August</cell>
+                            <cell>Fieberprun</cell>
+                            <cell>P. Vikäry Ben. Schm.</cell>
+                            <cell>24</cell>
+                            <cell>der Reiche Prasser und alle Verdamte Braten in der Höll, und auf Ewig Braten</cell>
+                        </row>
+                        <row>
+                            <cell>6</cell>
+                            <cell>15. August</cell>
+                            <cell>Fieberprun</cell>
+                            <cell>Pa. Michael Quäti</cell>
+                            <cell>33</cell>
+                            <cell>Maria ist Bei gott hoch in Gnaden, und gegen uns ein barmherzige Mutter</cell>
+                        </row>
+                        <row>
+                            <cell>7</cell>
+                            <cell>24. August</cell>
+                            <cell>Fieberprun</cell>
+                            <cell>Pat. Michael Wid.</cell>
+                            <cell>35</cell>
+                            <cell>Unser geschäft sol sein der Seel abzuwarten, sie ist daß beste, geies.et Buche</cell>
+                        </row>
+                 <row>
+                     <cell>8</cell>
+                     <cell>16. october</cell>
+                     <cell>Hochfilzen</cell>
+                     <cell>P. Michael Widman</cell>
+                     <cell>38</cell>
+                     <cell>Maria Hilft den Sinder in 1. teil. Sie hilft den Sinder in sein Tod in 2.ten Teil.</cell>
+                 </row>
+                 <row>
+                     <cell>9</cell>
+                     <cell>17. october</cell>
+                     <cell>Fieberprun</cell>
+                     <cell>Pa. Vikäri aldort</cell>
+                     <cell>40</cell>
+                     <cell>Mir müssen in Leben sterben lehrnen, damit mir nit unversehchen sterben.</cell>
+                 </row>
+                 <row>
+                     <cell>10</cell>
+                     <cell>29. August</cell>
+                     <cell>St. ulrich</cell>
+                     <cell>Pat. Roman</cell>
+                     <cell>48</cell>
+                     <cell>Die gurtl ist ein Drey fache Heil gürtl, 1. ein gnad Volle hiel gütl, 2. ein sicherer weegweiser zum Vaterland, und 3. ein Trost gürtl in den gericht.</cell>
+                 </row>
+                 <row>
+                     <cell>11</cell>
+                     <cell>8. September</cell>
+                     <cell>Fieberprunn</cell>
+                     <cell>Pa. Vikäri</cell>
+                     <cell>54</cell>
+                     <cell>Maria kan uns Helfen die M<unclear>ut.</unclear> Jes. Sie wil uns helfen wil sie uns Mut. ist</cell>
+                 </row>
+                 <row>
+                     <cell>12</cell>
+                     <cell>29. 7bter.</cell>
+                     <cell>Prämer ob fieberpr.</cell>
+                     <cell>Pat. Michael</cell>
+                     <cell>59</cell>
+                     <cell>Jeder Mensch hat ein Engel. Diser Engel ist auch bei den Sinder in 2.te-teil.</cell>
+                 </row>
+                 <row>
+                     <cell>13</cell>
+                     <cell>1. November</cell>
+                     <cell>Fieberprun</cell>
+                     <cell>Hr. Pat. Vikäry</cell>
+                     <cell>67</cell>
+                     <cell>Um den Himmel müssen mir uns gewalt an tuen, als dan ist die Belohnung.</cell>
+                 </row>
+                 <row>
+                     <cell>14</cell>
+                     <cell>2. 9ber.</cell>
+                     <cell>P. Michael</cell>
+                     <cell>69</cell>
+                     <cell>Den Armen Seelen sollen mir Helfen, sie rufen zu uns, mir könen ihnen helfen.</cell>
+                 </row>
+                 <row>
+                     <cell>15</cell>
+                     <cell>7. Nowember</cell>
+                     <cell>St. Jakob z. Hauß</cell>
+                     <cell>Pat. gabriel grieß</cell>
+                     <cell>73</cell>
+                     <cell>Die Armer Seelen ledien grosse Bein, mir seind schuldig ihnen zu Helfen.</cell>
+                 </row>
+                 <row>
+                     <cell>16</cell>
+                     <cell>Den 9. Nowember</cell>
+                     <cell>Fieberprun</cell>
+                     <cell>Herr Vikäry</cell>
+                     <cell>76</cell>
+                     <cell>Erbarm dich deiner eignen Seel, hernach kanst du dir nit Helfen, iene die dir Helfen können und sohlen, Sie wohlen dir nit Helfen.</cell>
+                 </row>
+             </table>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
