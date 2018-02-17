@@ -156,7 +156,7 @@ declare %private function api:list-collection-content($collection as xs:string, 
                             <type>TEI-Document</type>
                             <id>{$id}</id>
                             <attributes>
-                                <title>{normalize-space(string-join($doc//tei:title[1]//text(), ' '))}</title>
+                                <title>{normalize-space(string-join($doc//tei:title[@type='sub']//text(), ' '))}</title>
                                 <created>{xmldb:created($path, $id)}</created>
                                 <modified>{xmldb:last-modified($path, $id)}</modified>
                             </attributes>

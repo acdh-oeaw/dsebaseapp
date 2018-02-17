@@ -10,6 +10,8 @@ declare variable  $app:editions := $config:app-root||'/data/editions';
 declare variable  $app:indices := $config:app-root||'/data/indices';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
 declare variable $app:personIndex := $config:app-root||'/data/indices/listperson.xml';
+declare variable $app:orgIndex := $config:app-root||'/data/indices/listorg.xml';
+declare variable $app:workIndex := $config:app-root||'/data/indices/listwork.xml';
 
 declare function functx:contains-case-insensitive
   ( $arg as xs:string? ,
@@ -181,12 +183,12 @@ for $title in ($entities, $terms)
  :)
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
-    for $person in doc($app:personIndex)//tei:listPerson/tei:person
+    for $person in doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:listPerson/tei:person
     let $gnd := $person/tei:note/tei:p[3]/text()
     let $gnd_link := if ($gnd != "no gnd provided") then
         <a href="{$gnd}">{$gnd}</a>
         else
-        "-"
+        $gnd
         return
         <tr>
             <td>
@@ -206,7 +208,7 @@ declare function app:listPers($node as node(), $model as map(*)) {
  :)
 declare function app:listPlace($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
-    for $place in doc($app:placeIndex)//tei:listPlace/tei:place
+    for $place in doc($app:placeIndex)//tei:place[./tei:placeName]
     let $lat := tokenize($place//tei:geo/text(), ' ')[1]
     let $lng := tokenize($place//tei:geo/text(), ' ')[2]
         return
@@ -223,6 +225,20 @@ declare function app:listPlace($node as node(), $model as map(*)) {
 
 
 (:~
+ : creates a basic term-index derived from the all documents stored in collection'/data/editions'
+ :)
+declare function app:listTerms($node as node(), $model as map(*)) {
+    let $hitHtml := "hits.html?searchkey="
+    for $term in distinct-values(collection(concat($config:app-root, '/data/editions/'))//tei:term)
+    order by $term
+    return
+        <tr>
+            <td>
+                <a href="{concat($hitHtml,data($term))}">{$term}</a>
+            </td>
+        </tr>
+ };
+(:~
  : creates a basic table of content derived from the documents stored in '/data/editions'
  :)
 declare function app:toc($node as node(), $model as map(*)) {
@@ -234,7 +250,7 @@ declare function app:toc($node as node(), $model as map(*)) {
         else
             collection(concat($config:app-root, '/data/editions/'))//tei:TEI
     for $title in $docs
-        let $date := $title//tei:title//text()
+        let $date := $title//tei:title[@type='sub']//text()
         let $link2doc := if ($collection)
             then
                 <a href="{app:hrefToDoc($title, $collection)}">{app:getDocName($title)}</a>
@@ -243,9 +259,7 @@ declare function app:toc($node as node(), $model as map(*)) {
         return
         <tr>
            <td>{$date}</td>
-            <td>
-                {$link2doc}
-            </td>
+            <td>{$link2doc}</td>
         </tr>
 };
 

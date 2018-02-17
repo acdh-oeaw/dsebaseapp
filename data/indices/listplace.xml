@@ -2822,7 +2822,6 @@
                             <ptr target="http://de.wikipedia.org/wiki/San_Michele_all%E2%80%99Adige"/>
                          </note>
                       </place>
-                      
                       <place xml:id="nonsberg">
                          <placeName type="geonames" key="3172219">Val di Non</placeName>
                          <placeName>Nonsberg</placeName>
@@ -2830,10 +2829,6 @@
                             <ptr target="http://de.wikipedia.org/wiki/Nonstal"/>
                          </note>
                       </place>
-                      
-                      
-                      
-                      
                 </listPlace>
             </div>
         </body>
