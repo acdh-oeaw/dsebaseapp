@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="brief_3.xml" xml:base="http://digital-archiv.at:8081/exist/rest/db/files/millinger/xml/">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Millinger Archiv</title>
+                <title type="sub">Katharina Prantner an ihren Mann Leonhard Millinger am <date when-iso="1797-03-04">04.März 1797</date>
+                </title>
+                <author>Leonhard Millinger</author>
+                <principal>
+                    <rs type="person" ref="#andorfer">Peter Andorfer</rs>
+                </principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Peter Andorfer</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                        <p> You are allowed to share (copy and redistribute the material in any medium or
+                            format) and adapt (remix, transform, and build upon the material) for any
+                            purpose, even commercially. </p>
+                        <p> You must give appropriate credit, provide a link to the license, and indicate
+                            if changes were made. You may do so in any reasonable manner, but not in any
+                            way that suggests the licensor endorses you or your use. </p>
+                        <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                            distribute your contributions under the same license as the original. </p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Innsbruck</settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <idno>Mikrofilm Nr. 2187, Nr. 9.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <rs type="place" ref="#waidring">Waidring</rs> d<ex>en</ex>
+                    <date when-iso="1797-03-04">4 März 1797</date>
+                </p>
+                <p>
+                    Liebster <rs type="person" ref="#millinger_leonhard">Eheman</rs>
+                </p>
+                <p>
+                    <seg type="bericht">
+                        <s type="complex">
+                            <rs type="person" ref="#millinger_leonhard">Deinen</rs> in <rs type="place" ref="#bozen">Botzen</rs> geschriebenen Briefe habe mit<lb/> vielen Freiden erhalten, und daraus vernohmen<lb/> das ihr alle gott lob gesund und wohl lebet,<lb/> welches noch ferners von Herzen wünsche.</s>
+                        <lb/>
+                        <s type="complex">Was <rs type="person" ref="#prantner_katharina">mich</rs> und das ganze Haus anbelangt<lb/> sind wir gott Lob gesund und wohlauf,<lb/> auch muß <rs type="person" ref="#prantner_katharina">ich</rs>
+                            <rs type="person" ref="#millinger_leonhard">dir</rs> sagen, das sich der <rs type="person" ref="#millinger_stephan">Vater<lb/>
+                            </rs> und <rs type="person" ref="#piechl_catharina">Mutter</rs> mit <rs type="person" ref="#prantner_katharina">mir</rs> recht gut Betrag<ex>en</ex>, und<lb/> durch ihr guttes Betragen, meine Sorgen und Betriebnus schon vielles gemindert<lb/> worden.</s>
+                        <s type="complex">nur ist mein, und von ganzen<lb/> Hauß größter Wunsch, <rs type="person" ref="#millinger_leonhard">dich</rs> bald gesund und wohl<lb/>
+                            <rs type="place" ref="#waidring">hier</rs> zu sehen, <rs type="person" ref="#prantner_katharina">ich</rs> und d<ex>as</ex> ganze Hauß können<lb/> nichts anders für <rs type="person" ref="#millinger_leonhard">dich</rs>
+                            <note type="crit_app">Nachträglich eingefügt</note> als gott täglich<pb/> um erhaltung deiner gesundheit Bitten.</s>
+                    </seg>
+                    <lb/>
+                    <seg type="neuigkeit">
+                        <s type="complex">Neues kann <rs type="person" ref="#prantner_katharina">ich</rs> dir nicht viel schreiben, als<lb/> das der alte <rs type="person" ref="#mesner">Meßner</rs>
+                            <date>vor gestern acht täg</date>
+                            <lb/> ohne Krank zu seyn gestorben ist.</s>
+                    </seg>
+                    <lb/>
+                    <seg type="grüsse">
+                        <s type="simple">Von <rs type="person" ref="#millinger_stephan">Vatter</rs> und <rs type="person" ref="#piechl_catharina">Mutter</rs>, auch Von der größ<ex>ten</ex>
+                            <lb/> Tochter <rs type="person" ref="#millinger_katharina">Catharina</rs>, nicht minder allen Kindern,<lb/> und von deinen geschwistert<ex>en</ex>, auch Von der<lb/> ganzen Nachbarschaft einen freundlich<ex>en</ex>
+                            <lb/>Gruß.</s>
+                    </seg>
+                    <seg type="wallfahrt">
+                        <s type="simple">
+                            <date>Heunte achttäg</date> habe <rs type="person" ref="#prantner_katharina">ich</rs> Wihlens für<lb/>
+                            <rs type="person" ref="#millinger_leonhard">dich</rs> in das <rs type="place" ref="#kirchental">Kirchenthall</rs> zu gehen.</s>
+                    </seg>
+                    <seg type="verpflegung">
+                        <s type="complex">sollte<lb/>
+                            <rs type="person" ref="#millinger_leonhard">dir</rs> was abgehen, oder was gebrauchen, so<lb/> schreibe, was <rs type="person" ref="#millinger_leonhard">du</rs> Vonnöthen hast, <rs type="person" ref="#prantner_katharina">ich</rs> werde<lb/> gelegenheit suchen, <rs type="person" ref="#millinger_leonhard">dir</rs> solches zu überschick<ex>en</ex>.</s>
+                    </seg>
+                    <lb/>
+                    <seg type="gruss">
+                        <s type="complex">In desen<note type="crit_app">Nachträglich eingefügt</note> Lebe recht wohl, und gedenke an <rs type="person" ref="#prantner_katharina">mich</rs>, wie<lb/> allzeit<note type="crit_app">Nachträglich eingefügt</note> an dich denkt</s>
+                    </seg>
+                </p>
+                <p>Dein getreues Ehe<lb/> Weib<lb/>
+                    <rs type="person" ref="#prantner_katharina">Catharina Millingerin<lb/> gebohrne Brantnerin</rs>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Millinger Archiv</title>
+                <title type="sub">Leonhard Millinger an seine Frau Katharina Prantner vom <date when-iso="1797-02-21">21. Februar 1797</date>
+                </title>
+                <author>Leonhard Millinger</author>
+                <principal>
+                    <rs type="person" ref="#andorfer">Peter Andorfer</rs>
+                </principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Peter Andorfer</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                        <p> You are allowed to share (copy and redistribute the material in any medium or
+                            format) and adapt (remix, transform, and build upon the material) for any
+                            purpose, even commercially. </p>
+                        <p> You must give appropriate credit, provide a link to the license, and indicate
+                            if changes were made. You may do so in any reasonable manner, but not in any
+                            way that suggests the licensor endorses you or your use. </p>
+                        <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                            distribute your contributions under the same license as the original. </p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Innsbruck</settlement>
+                        <repository>Tiroler Landesarchiv</repository>
+                        <idno>Mikrofilm Nr. 2187, Nr. 9.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>Gelobt sey Jesus Christus.</p>
+                <p>Sonders geehrtes Eheweib</p>
+                <p>
+                    <seg type="marschieren">
+                        <s type="complex">
+                            <hi rend="antiqua">Nachdeme wir gestern</hi> als <date when="1797-02">Montag</date> auf die Stadt <rs type="place" ref="#bozen">Potzen</rs> sind an<lb break="no"/>kommen, berichte <rs type="person" ref="#millinger_leonhard">ich</rs>
+                            <rs type="person" ref="#prantner_katharina">dir</rs>, daß <rs type="person" ref="#millinger_leonhard">ich</rs> (:Gott sey Lob:)
+                            recht gesund bin,</s>
+                        <s type="complex">daß<lb/> mäschieren ist in etwaß zwar Beschwärlich gewest,
+                            doch sind mir<lb/> ietzt es gewohnet zu gehen,</s>
+                        <s type="complex">wür haben täglich ein oder mer H<choice>
+                                <abbr>
+                                    <hi rend="super">e</hi>
+                                </abbr>
+                                <expan>eilige</expan>
+                            </choice>:<lb/> Messen zu hören, beten alle tag auf den märsch den
+                                Rosen<lb break="no"/>kranz,</s>
+                        <s type="simple">
+                            <unclear>meinen</unclear> Pix darf <rs type="person" ref="#millinger_leonhard">ich</rs> nit zu tragen,</s>
+                    </seg>
+                    <seg type="mannschaft">
+                        <s type="simple">
+                            <rs type="person" ref="#millinger_leonhard">ich</rs> kom gar guet zu
+                            meinen<lb/> Officieren und meinen Karporalschaften,</s>
+                        <s type="complex">meine Verrichtung ist,<lb/> von Hauptman zu den 10.
+                            Karporallen, und von Karporal<lb break="no"/>len zu den Hauptman die
+                            Verordnung auszurichten, etwaß<lb/> weniges zu schreiben, und den
+                                    <date>6.<hi rend="super">ten</hi>- tag</date> die Karporallen
+                            Zahlen<lb/> mit 426 <choice>
+                                <abbr>f:</abbr>
+                                <expan>Gulden</expan>
+                            </choice> 36 <choice>
+                                <abbr>X</abbr>
+                                <expan>Kreuzer</expan>
+                            </choice> für ihre leith,</s>
+                        <s type="simple">in unser Conponier seind<lb/> bey 144. Köpffe,</s>
+                        <s type="complex"> in der 2.<hi rend="super">ten</hi> Conponier, die gehen
+                            unß we<lb break="no"/>nig an von Herr Stadt Schreiber dort
+                                <unclear>seind</unclear> eben so Vil,</s>
+                    </seg>
+                    <seg type="bild">
+                        <s type="complex">wegen den<lb/> frau Bild nechst Haal, diss hat ein Herr
+                            Dechent, Pfarrer,<lb/> und Obrigkeit weck auf <rs type="place" ref="#brixen">Prixen</rs> gebracht, und dortiger <rs type="person" ref="#spaur_leopold-von">Pi<lb break="no"/>schof</rs> hat die sach
+                            auf <rs type="place" ref="#rom">Rom</rs> bericht, </s>
+                        <s type="simple">in <rs type="place" ref="#oberland_tirol">Oberland</rs>
+                            redt man von<lb/> diesen nit Vil.</s>
+                    </seg>
+                    <space/>
+                    <seg type="strategisches">
+                        <s type="complex">Die <rs type="person" ref="#franzosen">Francosen</rs> sind
+                            biß <rs type="place" ref="#san_michele">Wellisch Michaeli</rs> ko<lb break="no"/>mmen, ietzt aber in etwaß zurugg:</s>
+                        <s type="complex">der Junge <rs type="person" ref="#laudon">Generäl
+                                Laudan</rs>
+                            <note type="annotation">http://www.napoleon-online.de/AU_Generale/html/laudon.html</note>
+                            <lb/> ist ietzt alhir in <rs type="place" ref="#bozen">Potzen</rs>, und
+                            würd in kirze mit seinen Volk<lb/> den Feinde zue ziechen,</s>
+                        <s type="simple">der <rs type="person" ref="#napoleon">francössische
+                                Generälle Bono<lb break="no"/>pärdi</rs> ist gegen <rs type="place" ref="#trient">Treiß</rs> mit seiner Feinds<note type="crit_app">Nachträglich eingefügt</note> Ärme,</s>
+                        <space/>
+                        <s type="complex">Von <rs type="place" ref="#bozen">Potzen</rs>
+                            <pb/> werden mir <date>Morgen als Mitwoch</date> auf die Märsch Stätion
+                                <rs type="place" ref="#egna">Neumarkt</rs>
+                            <lb/> Mäschieren, und dorten weiter Verordnung erwarten,</s>
+                        <s type="simple">es<lb/> ziechen täglich schitzen <rs type="place" ref="#egna">dorthin</rs>, dergleichen Melizioten,</s>
+                        <s type="complex">man<lb/> verhoffet der <rs type="person" ref="#franzosen">Francos</rs> ziecht selber aus <rs type="place" ref="#tirol">Tyrol</rs>, wegen Villen<lb/> schitzen die <rs type="person" ref="#franzosen">er</rs> ser scheuet,</s>
+                    </seg>
+                    <seg type="krankheit">
+                        <s type="simple">es werden Vil millitär marodi wägen<lb/> nach <rs type="place" ref="#unterland_tirol">unter Inntall</rs> in die Spitäl
+                            und Klöster gefiert,</s>
+                        <s type="complex">es ist<lb/> Just keine sucht oder sterb alhie in <rs type="place" ref="#brixen">Prixen</rs>, <rs type="place" ref="#barbiano">Kolman</rs>, <rs type="place" ref="#bozen">Potzen</rs>, <lb/> und <rs type="place" ref="#egna">neumarkt</rs>,
+                            doch sind überall Vil Leit gesund und <unclear>kraizen</unclear>
+                            <lb/> mithin sterben halt täglich Ville,</s>
+                    </seg>
+                    <seg type="marschieren">
+                        <s type="simple">ietzt wissen wür nit in waß<lb/> für ein Thall oder Berg
+                            wür kommen werden,</s>
+                    </seg>
+                    <seg type="verpflegung">
+                        <s type="simple">Biß <date>däto</date> ist<lb/> noch um ein rechten kreutzer
+                            zu Leben,</s>
+                        <s type="simple"> bein Würthen kost<lb/> daß Kändl Wein 10 <choice>
+                                <abbr>X-<hi rend="super">r</hi>
+                                </abbr>
+                                <expan>Kreuzer</expan>
+                            </choice> und bein Poschen: oder Bauren<lb/> Heusern 6. und 7 <choice>
+                                <abbr>X-<hi rend="super">ers</hi>
+                                </abbr>
+                                <expan>Kreuzer</expan>
+                            </choice>
+                        </s>
+                        <s type="simple">daß Bier ist schlecht und kost die Mas<lb/> 9 <choice>
+                                <abbr>X-<hi rend="super">er</hi>
+                                </abbr>
+                                <expan>Kreuzer</expan>
+                            </choice>
+                        </s>
+                    </seg>
+                    <seg type="kommunikation">
+                        <s type="complex">auf diese schreiben duet ihr mir nit schreiben, weil <rs type="person" ref="#millinger_leonhard">ich</rs>
+                            <lb/> nit weiß wo wür in stand wie oben gemeld hinkommen,</s>
+                        <s type="complex">bald<lb/>
+                            <rs type="person" ref="#millinger_leonhard">ich</rs> in ein Ort bin so
+                            werd <rs type="person" ref="#millinger_leonhard">ich</rs> euch merers
+                            berichten,</s>
+                    </seg>
+                    <seg type="grüsse">
+                        <s type="simple">mithin<lb/> winsche <rs type="person" ref="#millinger_leonhard">ich</rs> euch ein gesundtes Leben,</s>
+                        <s type="complex">wen ihr gesund seit so seit ihr ge<lb break="no"/>gen
+                            alhie schan in Rosengarten.</s>
+                        <space/>
+                        <s type="complex">Also bist von mir<lb/> der <rs type="person" ref="#millinger_leonhard">ich</rs> von dir 53. stund entfernet bin
+                            getreues Eheweib,<lb/> samt Kindern bevohr die <rs type="person" ref="#millinger_katharina">Tochter Katarina</rs>, und <rs type="person" ref="#millinger_stephan">Vater</rs> und<lb/>
+                            <rs type="person" ref="#piechl_catharina">Mutter</rs> auch ganzes
+                            Hausgesindt freindlich gegriest und in den<lb/> Schutz Gottes seiner
+                            wertisten Mutter befolchen, auch seit mei<lb break="no"/>ner in Gebet in
+                            Gedenk so werde <rs type="person" ref="#millinger_leonhard">ich</rs> mit
+                            gesund gesund nach Haus<pb/> komen,</s>
+                        <s type="simple"> auch seind alle <rs type="person" ref="#waidringer">Waidringer Schitzen</rs> gesund<lb/> und ganz mundter,</s>
+                        <s type="complex">auch grieß <rs type="person" ref="#prantner_catharina">du</rs> mir den <rs type="person">Jäggl</rs> und die<lb/> Nachbar
+                            Zunft für die <rs type="person" ref="#millinger_leonhard">ich</rs>
+                            gegeangen, den <rs type="person">hinter Kappeller</rs>, und<lb/>
+                            <rs type="person">Stöckl</rs>, bevor alle Geschwistert nach
+                            Gelegenheit.</s>
+                    </seg>
+                    <seg type="klima">
+                        <s type="complex">Hie ist es nit kalt weil von <rs type="place" ref="#brixen">Prixen</rs> weck als äber ist.</s>
+                    </seg>
+                </p>
+                <p> Actum <rs type="place" ref="#bozen">Potzen</rs> den <date>21. Feburäry ao.
+                        1797</date>
+                </p>
+                <p>
+                    <seg type="kommunikation">NB. <s type="complex">Just ehe <rs type="person" ref="#millinger_leonhard">ich</rs> diesen Brief zue mache Bekame <rs type="person" ref="#millinger_leonhard">ich</rs>
+                            <lb/> nachricht daß wür von <rs type="place" ref="#egna">Neumarkt</rs>
+                            1. stund in daß<lb/> Thal und Dorf <rs type="place" ref="#termeno_sulla_strada_del_vino">Trämin</rs> kommen werden.</s>
+                    </seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
