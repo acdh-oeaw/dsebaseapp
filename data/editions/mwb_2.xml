@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd" xml:id="edoc_ed000223_fg_transcript_f02" xml:base="http://diglib.hab.de/edoc/ed000223/">
-   <teiHeader type="text">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Weltbeschreibung des Leonhard Millinger </title>
-            <title type="part"> Teil 2</title>
+            <title type="main">Millinger Archiv</title>
+            <title type="sub">Millingers Weltbeschreibung - Teil 2</title>
             <author>Leonhard Millinger</author>
+            <principal>
+               <rs type="person" ref="#andorfer">Peter Andorfer</rs>
+            </principal>
             <respStmt>
                <resp>TEI-P5 konforme Kodierung durch</resp>
                <name type="person">
@@ -26,20 +29,19 @@
          </editionStmt>
          
          <publicationStmt>
-            <idno type="workID">http://diglib.hab.de/edoc/ed000223/start.htm</idno>
-            <idno type="ppn">77097337X</idno>
-            <publisher>
-               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
-               <ptr type="crossRef" target="http://www.hab.de"/>
-            </publisher>
-            <date>2011</date>
-            <availability status="restricted">
-               <p>
-                  Available at
-                  <ref target="http://diglib.hab.de/edoc/ed000223/start.htm">
-                     (c) Herzog August Bibliothek Wolfenbüttel
-                  </ref>
-               </p>
+            <authority>Peter Andorfer</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                  <p> You are allowed to share (copy and redistribute the material in any medium or
+                     format) and adapt (remix, transform, and build upon the material) for any
+                     purpose, even commercially. </p>
+                  <p> You must give appropriate credit, provide a link to the license, and indicate
+                     if changes were made. You may do so in any reasonable manner, but not in any
+                     way that suggests the licensor endorses you or your use. </p>
+                  <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                     distribute your contributions under the same license as the original. </p>
+               </licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -49,12 +51,6 @@
       <encodingDesc>
          <p/>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change status="draft">
-            <date>$LastChangedDate: 2013-04-21T13:34:16Z$</date>
-            <name>Peter Andorfer</name>
-         </change>
-      </revisionDesc>
    </teiHeader>
     <text>     
     <body>

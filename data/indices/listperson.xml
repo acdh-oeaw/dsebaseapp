@@ -1,26 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="edoc_ed000223_fg_personenregister" xml:base="http://diglib.hab.de/edoc/ed000223/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Personenverzeichnis</title>
+                <title type="main">Millinger Archiv</title>
+                <title type="sub">Personenverzeichnis</title>
+                <principal>
+                    <rs type="person" ref="#andorfer">Peter Andorfer</rs>
+                </principal>
                 <respStmt>
-                    <resp/>
-                    <name>Peter Andorfer</name>
+                    <resp>TEI-P5 konforme Kodierung durch</resp>
+                    <name type="person">
+                        <name type="person">Peter Andorfer</name>
+                    </name>
                 </respStmt>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name type="person">
+                        <name>Peter Andorfer</name>
+                    </name>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                </respStmt>
+                <funder>Universität Innsbruck, Tiroler Wissenschftsfonds, Forschungsunterstützungsverein Viktor und Dr. Edith Schemfil (FUS), Land Niedersachsen (Digital-Humanities Stipendium)</funder>
             </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+            </editionStmt>
+            
             <publicationStmt>
-                <date>17.04.2013</date>
+                <authority>Peter Andorfer</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                        <p> You are allowed to share (copy and redistribute the material in any medium or
+                            format) and adapt (remix, transform, and build upon the material) for any
+                            purpose, even commercially. </p>
+                        <p> You must give appropriate credit, provide a link to the license, and indicate
+                            if changes were made. You may do so in any reasonable manner, but not in any
+                            way that suggests the licensor endorses you or your use. </p>
+                        <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                            distribute your contributions under the same license as the original. </p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <p> Das Personenverzeichnis bezieht sich auf die digitale MWB-Edition. </p>
+                <p/>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="index_persons">
+            <div>
                 <listPerson>
+                    <person xml:id="andorfer">
+                        <persName key="1043833846">
+                            <forename>Peter</forename>
+                            <surname>Andorfer</surname>
+                         </persName>
+                    </person>
+                    <person xml:id="dobcheva">
+                        <persName>
+                            <forename>Ivana</forename>
+                            <surname>Dobcheva</surname>
+                        </persName>
+                    </person>
 <!--  @key im persName Element entpspricht der GND-Nummer                    -->
                     <person xml:id="myller"/>
                     <person xml:id="millinger_stefan_vater">

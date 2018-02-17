@@ -1,22 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd" xml:id="edoc_ed000223_fg_ortsregister" xml:base="http://diglib.hab.de/edoc/ed000223/" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ortsverzeichnis</title>
+                <title type="main">Millinger Archiv</title>
+                <title type="sub">Ortsverzeichnis</title>
+                <principal>
+                    <rs type="person" ref="#andorfer">Peter Andorfer</rs>
+                </principal>
                 <respStmt>
-                    <resp/>
-                    <name>Peter Andorfer</name>
+                    <resp>TEI-P5 konforme Kodierung durch</resp>
+                    <name type="person">
+                        <name type="person">Peter Andorfer</name>
+                    </name>
                 </respStmt>
+                <respStmt>
+                    <resp>Verknüpfung mit Normdaten</resp>
+                    <name>
+                        <rs type="peson" ref="#dobcheva">Ivana Dobcheva</rs>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name type="person">
+                        <name>Peter Andorfer</name>
+                    </name>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                </respStmt>
+                <funder>Universität Innsbruck, Tiroler Wissenschftsfonds, Forschungsunterstützungsverein Viktor und Dr. Edith Schemfil (FUS), Land Niedersachsen (Digital-Humanities Stipendium)</funder>
             </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+            </editionStmt>
+            
             <publicationStmt>
-                <date>10.04.2013</date>
+                <authority>Peter Andorfer</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                        <p> You are allowed to share (copy and redistribute the material in any medium or
+                            format) and adapt (remix, transform, and build upon the material) for any
+                            purpose, even commercially. </p>
+                        <p> You must give appropriate credit, provide a link to the license, and indicate
+                            if changes were made. You may do so in any reasonable manner, but not in any
+                            way that suggests the licensor endorses you or your use. </p>
+                        <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                            distribute your contributions under the same license as the original. </p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <p> Das Ortsverzeichnis bezieht sich auf die digitale Edition der Weltbeschreibung
-                    Millingers. </p>
+                <p/>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
     </teiHeader>
     <text>
         <body>
@@ -2655,6 +2694,146 @@
                     <place xml:id="unbekannter_ort">
                         <placeName> konnte noch nicht bestimmt werden </placeName>
                     </place>
+                   <place xml:id="bommer">
+                      <placeName> Bommer- oder Pomerhof </placeName>
+                      <note>
+                         Der Bommer- oder Pomerhof war der Hof, den Leonhard Millinger 1785 von seinem Vater Stefan Millinger übernommen hatte. Die aktuelle Adresse ist Stäcklweg 19, 6384 Waidring. <lb/>
+                         <ptr target="http://goo.gl/maps/LdHd7"/>
+                      </note>
+                   </place>
+                      <place xml:id="mezzocorona">
+                         <placeName key="3173485">Mezzocorona</placeName>
+                         <placeName>Deutschmetz</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mezzocorona"/>
+                         </note>
+                      </place>
+                      <place xml:id="mezzolombardo">
+                         <placeName key="3173480">Mezzolombardo</placeName>
+                         <placeName> Welsch-Metz</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mezzolombardo"/>
+                         </note>
+                      </place>
+                      <place xml:id="magre_sulla_strada_del_vino">
+                         <placeName key="6536012">Magrè sulla Strada Del Vino</placeName>
+                         <placeName>Magreid</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Margreid"/>
+                         </note>
+                      </place>
+                      <place xml:id="ora">
+                         <placeName key="3171993">Ora</placeName>
+                         <placeName>Auer</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Auer_(S%C3%BCdtirol)"/>
+                         </note>
+                      </place>
+                      <place xml:id="cortaccia">
+                         <placeName key="6535970">Cortaccia</placeName>
+                         <placeName>Kurtatsch</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Cortaccia"/>
+                         </note>
+                      </place>
+                      
+                      <place xml:id="termeno_sulla_strada_del_vino">
+                         <placeName key="6535982">Termeno Sulla Strada Del Vino</placeName>
+                         <placeName>Tramin an der Weinstraße</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Termeno_sulla_strada_del_vino"/>
+                         </note>
+                      </place>
+                      <place xml:id="barbiano">
+                         <placeName key="6534774">Barbiano</placeName>
+                         <placeName>Kollmann</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Barbian"/>
+                         </note>
+                      </place>
+                      <place xml:id="unterland_tirol">
+                         <placeName>Tiroler Unterland</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tiroler_Unterland"/>
+                         </note>
+                      </place>
+                      
+                      <place xml:id="egna">
+                         <placeName key="3177431">Egna</placeName>
+                         <placeName>Neumarkt</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Neumarkt_(S%C3%BCdtirol)"/>
+                         </note>
+                      </place>
+                      <place xml:id="trient">
+                         <placeName key="3165243">Trento</placeName>
+                         <placeName>Trient</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Trient"/>
+                         </note>
+                      </place>
+                      <place xml:id="brixen">
+                         <placeName key="3181550">Bressanone</placeName>
+                         <placeName>Brixen</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Brixen"/>
+                         </note>
+                      </place>
+                      <place xml:id="oberland_tirol">
+                         <placeName>Tiroler Oberland</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tiroler_Oberland"/>
+                         </note>
+                      </place>
+                      <place xml:id="rom">
+                         <placeName key="3169070">Roma</placeName>
+                         <placeName>Rom</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rom"/>
+                         </note>
+                      </place>
+                      
+                      <place xml:id="kufstein">
+                         <placeName key="2773299">Kufstein</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kufstein"/>
+                         </note>
+                      </place>
+                      <place xml:id="rattenberg">
+                         <placeName key="7873655">Rattenberg</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rattenberg_(Tirol)"/>
+                         </note>
+                      </place>
+                      <place xml:id="rotholz">
+                         <placeName>Rotholz</placeName>
+                         <note>Ein Ortsteil von Strass im Zillertal</note>
+                      </place>
+                      <place xml:id="schwaz">
+                         <placeName type="geonames" key="7872634">Schwaz</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schwaz"/>
+                         </note>
+                      </place>
+                      <place xml:id="san_michele">
+                         <placeName type="geonames" key="3167963">San Michele all’Adige</placeName>
+                         <placeName>St. Michael an der Etsch</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/San_Michele_all%E2%80%99Adige"/>
+                         </note>
+                      </place>
+                      
+                      <place xml:id="nonsberg">
+                         <placeName type="geonames" key="3172219">Val di Non</placeName>
+                         <placeName>Nonsberg</placeName>
+                         <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nonstal"/>
+                         </note>
+                      </place>
+                      
+                      
+                      
+                      
                 </listPlace>
             </div>
         </body>
