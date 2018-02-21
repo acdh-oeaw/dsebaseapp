@@ -184,18 +184,18 @@ for $title in ($entities, $terms)
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $person in doc($app:personIndex)//tei:listPerson/tei:person
-    let $gnd := $person/tei:note/tei:p[3]/text()
+    let $gnd := $person/tei:idno/text()
     let $gnd_link := if ($gnd != "no gnd provided") then
         <a href="{$gnd}">{$gnd}</a>
         else
-        $gnd
+        'keine Normadatenverknüpfung'
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($person/@xml:id))}">{$person/tei:persName/tei:surname}</a>
+                {$person/tei:persName/tei:surname}
             </td>
             <td>
-                {$person/tei:persName/tei:forename}
+                <a href="{concat($hitHtml,data($person/@xml:id))}">{$person/tei:persName/tei:forename}</a>
             </td>
             <td>
                 {$gnd_link}
@@ -209,15 +209,19 @@ declare function app:listPers($node as node(), $model as map(*)) {
 declare function app:listPlace($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $place in doc($app:placeIndex)//tei:place[./tei:placeName]
-    let $lat := tokenize($place//tei:geo/text(), ' ')[1]
-    let $lng := tokenize($place//tei:geo/text(), ' ')[2]
+    let $idno := if($place/tei:idno/text())
+        then 
+            <a href="{$place/tei:idno/text()}">{$place/tei:idno/text()}</a>
+        else
+            'keine Normdaten verknüpft'
+    let $lat := tokenize($place//tei:geo/text(), ' ')[2]
+    let $lng := tokenize($place//tei:geo/text(), ' ')[1]
         return
         <tr>
             <td>
                 <a href="{concat($hitHtml, data($place/@xml:id))}">{functx:capitalize-first($place/tei:placeName[1])}</a>
             </td>
-            <td>{for $altName in $place//tei:placeName return <li>{$altName/text()}</li>}</td>
-            <td>{$place//tei:idno/text()}</td>
+            <td>{$idno}</td>
             <td>{$lat}</td>
             <td>{$lng}</td>
         </tr>

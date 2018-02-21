@@ -2,7 +2,7 @@
 <div data-template="templates:surround" data-template-with="templates/datatable.html" data-template-at="datatable">
     <div class="panel panel-default">
         <div class="panel-heading" style="text-align:center;">
-            <h1>Places</h1>
+            <h1>Ortsverzeichnis</h1>
         </div>
         <div class="panel-body">
             <div id="map"/>     
@@ -11,7 +11,6 @@
                     <thead>
                         <tr>
                             <th class="header"> Ortsname (normalisiert) </th>
-                            <th>Alternative Schreibweisen</th>
                             <th>Normdata</th>
                             <th>Lat</th>
                             <th>Lng</th>
@@ -110,7 +109,7 @@
         geojson.geometry = {
         "type": "Point",
         "coordinates": [
-        element[4],
+        element[2],
         element[3]
         ]
         };

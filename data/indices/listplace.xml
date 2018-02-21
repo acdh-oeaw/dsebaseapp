@@ -1742,7 +1742,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 138. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="cuncan">
                         <placeName type="geonames"> Cuncan (Decan)</placeName>
@@ -1750,7 +1750,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 137. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="bengalen">
                         <placeName type="geonames" key="1252881"> Bengalen </placeName>
@@ -1788,7 +1788,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 131. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="kairo">
                         <placeName type="geonames" key="360630"> Kairo </placeName>
@@ -1806,7 +1806,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 131. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="dio_insel">
                         <placeName type="geonames"> Dio (Insel)</placeName>
@@ -1814,7 +1814,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 130. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="surate">
                         <placeName type="geonames" key="1255364"> Surat </placeName>
@@ -1832,7 +1832,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 130. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="nocracut">
                         <placeName type="geonames"> Nocracut </placeName>
@@ -1840,7 +1840,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 128. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="labor">
                         <placeName type="geonames"> Labor </placeName>
@@ -1848,7 +1848,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 128; Schreibweise unsicher. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="agra">
                         <placeName type="geonames" key="1279259"> Agra </placeName>
@@ -1875,7 +1875,7 @@
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="ganges">
                         <placeName type="geonames" key="1202950"> Ganges </placeName>
@@ -1893,7 +1893,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 5. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="odieschi">
                         <placeName type="geonames"> Odieschi </placeName>
@@ -1901,7 +1901,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 5. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="cassana">
                         <placeName type="geonames"> Cassana </placeName>
@@ -1909,7 +1909,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 117. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="goigne">
                         <placeName type="geonames"> Goigne </placeName>
@@ -1917,7 +1917,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 117. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="targa">
                         <placeName type="geonames"> Targa (Insel) </placeName>
@@ -1925,7 +1925,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 117. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="lecha">
                         <placeName type="geonames"> Lecha (Insel) </placeName>
@@ -1933,7 +1933,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 117. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="kamron">
                         <placeName type="geonames"> Kamron </placeName>
@@ -1941,7 +1941,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 116. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="hormus">
                         <placeName type="geonames" key="131231"> Hormus (Stadt) </placeName>
@@ -1959,7 +1959,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 115. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="almansur">
                         <placeName type="geonames"> Almansur </placeName>
@@ -1967,7 +1967,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 115. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="indus">
                         <placeName type="geonames" key="1115007"> Indus </placeName>
@@ -1984,7 +1984,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Gedrosien"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="ilment_fluss">
                         <placeName type="geonames"> Ilment </placeName>
@@ -1992,7 +1992,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 115. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="baku">
                         <placeName type="geonames" ref="587084"> Baku </placeName>
@@ -2002,7 +2002,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Baku"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="crucis_kloster">
                         <placeName type="geonames"> St. Crucis (Kloster) </placeName>
@@ -2010,7 +2010,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 112. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="ervan">
                         <placeName type="geonames"> Ervan (Irvan) </placeName>
@@ -2018,7 +2018,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 112. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="täbris">
                         <placeName type="geonames" key="113646"> Täbris </placeName>
@@ -2036,7 +2036,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenemyer, S. 110. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="casbin">
                         <placeName type="geonames"> Casbin </placeName>
@@ -2044,7 +2044,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 108. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="cascan">
                         <placeName type="geonames"> Cascan </placeName>
@@ -2052,7 +2052,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenemyer, S. 110. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="isfahan">
                         <placeName type="geonames" key="418863"> Isfahan (Nebenstädte: Abbas-Abbad,
@@ -2107,7 +2107,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 115. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="kandahar_stadt">
                         <placeName type="geonames" key="1138336"> Kandahar (Stadt) </placeName>
@@ -2136,7 +2136,7 @@
                         </tei:location>
                         <note> Vgl. Berckenemyer, S. 115 <ptr target="http://de.wikipedia.org/wiki/Drangiana"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="sublastan">
                         <placeName type="geonames"> Sublastan </placeName>
@@ -2144,7 +2144,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 115 </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="bost">
                         <placeName type="geonames" key="1134720"> Bost (Lashkar Gah)</placeName>
@@ -2192,7 +2192,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 114. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="tabaristan">
                         <placeName type="gnd" key="4401327-9"> Tabaristan </placeName>
@@ -2210,7 +2210,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 114. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="rascht">
                         <placeName type="geonames" key="118743"> Rascht </placeName>
@@ -2238,7 +2238,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenemyer, S. 112. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="adyrbeizan">
                         <placeName type="geonames"> Aserbaidschan (Iran), Adyrbeizan </placeName>
@@ -2246,7 +2246,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenemyer, S. 112. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="erakacem">
                         <placeName type="geonames"> Erakacem (Esfahan)</placeName>
@@ -2254,7 +2254,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenemyer, S. 105. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="susiana">
                         <placeName type="geonames"> Susiana (Chusistan) </placeName>
@@ -2264,7 +2264,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Susiana"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="fars">
                         <placeName type="geonames" key="134766"> Fars </placeName>
@@ -2312,7 +2312,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 83. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="tresiphon">
                         <placeName type="geonames"> Tresiphon </placeName>
@@ -2320,7 +2320,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 82f. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="seleukia-ktesiphon">
                         <placeName type="geonames" key="90287"> Seleukia-Ktesiphon </placeName>
@@ -2350,7 +2350,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Anchiale_(Kilikien)"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="bawiram">
                         <placeName type="geonames"> Bawiram </placeName>
@@ -2358,7 +2358,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 77. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="assur">
                         <placeName type="geonames" ref="4003281-4"> Assur </placeName>
@@ -2368,7 +2368,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/A%C5%A1%C5%A1ur_(Stadt)"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="cars">
                         <placeName type="geonames"> Cars (Tors) </placeName>
@@ -2376,7 +2376,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 77. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="erzurum">
                         <placeName type="geonames" ref="315368"> Erzurun</placeName>
@@ -2386,7 +2386,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Erzerum"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="zalfa">
                         <placeName type="geonames"> Zalfa </placeName>
@@ -2394,7 +2394,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 84. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="nacksivan">
                         <placeName type="geonames"> Nacksivan </placeName>
@@ -2402,7 +2402,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 84. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="eupha">
                         <placeName type="geonames"> Eupha / Scusa </placeName>
@@ -2410,7 +2410,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 84. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="diarbeck">
                         <placeName type="geonames"> Diarbeck </placeName>
@@ -2418,7 +2418,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 77. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="derbent">
                         <placeName type="geonames" key="566532"> Derbent </placeName>
@@ -2436,7 +2436,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 71f. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="medina">
                         <placeName type="geonames" key="109223"> Medina </placeName>
@@ -2466,7 +2466,7 @@
                         <note> Vgl. Berckenmeyer, S. 66
                             <!-- http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=saba-geo -->
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="balsera">
                         <placeName type="geonames"> Balsera (Belsora) </placeName>
@@ -2474,7 +2474,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 65. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="anatho">
                         <placeName type="geonames"> Anatho (Ana; Anah) </placeName>
@@ -2484,7 +2484,7 @@
                         <note> Vgl. Berckenmeyer, S. 65.
                             <!--<ptr target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=anatho-geo&highlight=anatho"/>-->
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="quarantania">
                         <placeName type="geonames"> Quarantania (Berg der Versuchung) </placeName>
@@ -2494,7 +2494,7 @@
                         <note>
                             <ptr target="http://en.wikipedia.org/wiki/Mount_of_Temptation"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="nazareth">
                         <placeName type="geonames" key="294098"> Nazareth </placeName>
@@ -2564,7 +2564,7 @@
                         <note>
                             <ptr target="http://en.wikipedia.org/wiki/Anathoth"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="bethanien">
                         <placeName type="geonames"> Bethanien (Heimatort des Lazarus)</placeName>
@@ -2574,7 +2574,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Bethanien_(Bibel)#Heimatort_des_Lazarus"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="venedig">
                         <placeName type="geonames" key="3164603"> Venedig </placeName>
@@ -2609,7 +2609,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 34. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="jaffa">
                         <placeName type="geonames" key="293397"> Jaffa (Tel-Aviv)</placeName>
@@ -2657,7 +2657,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 29. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="daphnis">
                         <placeName type="geonames"> Daphnis </placeName>
@@ -2665,7 +2665,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 29. </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="scanderana">
                         <placeName type="geonames"> Scanderana </placeName>
@@ -2673,7 +2673,7 @@
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
                         <note> Vgl. Berckenmeyer, S. 29.</note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="japan">
                         <placeName type="geonames" key="1861060"> Japan </placeName>
@@ -2793,7 +2793,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Milos"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="patmos">
                         <placeName type="geonames" key="255687"> Patmos </placeName>
@@ -2843,7 +2843,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Lystra"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="göksu">
                         <placeName type="geonames" key="314184"> Göksu </placeName>
@@ -2897,7 +2897,7 @@
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="dardanellen">
                         <placeName type="geonames" key="749779"> Dardanellen </placeName>
@@ -2914,7 +2914,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Abydos_(Kleinasien)"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="chalcedon">
                         <placeName type="geonames" key="744906"> Chalcedon </placeName>
@@ -2934,7 +2934,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Pergamon"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="troja">
                         <placeName type="gnd" ref="4060974-1"> Troja </placeName>
@@ -2944,7 +2944,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Troja"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="nicäa">
                         <placeName type="geonames" ref="745026"> Nicäa (İznik) </placeName>
@@ -2954,7 +2954,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Nic%C3%A4a"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="konstantinopel">
                         <placeName type="gnd" key="4073697-0"> Konstantinopel (Istanbul) </placeName>
@@ -3065,7 +3065,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Betulia"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="assur_reich">
                         <placeName type="gnd" key="4003285-1"> Assyrisches Reich</placeName>
@@ -3313,7 +3313,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Mongolenreich"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="perser_reich">
                         <placeName type="geonames"> Perserreich </placeName>
@@ -3323,7 +3323,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/perser_reich"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="china">
                         <placeName type="geonames" key="1814991"> China </placeName>
@@ -3771,7 +3771,7 @@
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="lofer">
                         <placeName type="geonames" key="7873328"> Lofer </placeName>
@@ -4708,7 +4708,7 @@
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng"> </tei:geo>
                         </tei:location>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="ampfing">
                         <placeName type="geonames" key="6556285">Ampfing</placeName>
@@ -5776,7 +5776,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Hohenlinden"/>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="walserfeld">
                         <placeName type="geonames" key="3322815">Walserfeld (Salzburg)</placeName>
@@ -6981,7 +6981,7 @@
                         <geogName>
                             <geo>47.590 12.531</geo>
                         </geogName>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="rudersberg">
                         <placeName type="geonames">Rudersberg (in Waidring)</placeName>
@@ -6991,7 +6991,7 @@
                         <geogName>
                             <geo>47.585 12.518</geo>
                         </geogName>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="rettenmoos">
                         <placeName type="geonames">Rettenmoos (in Waidring)</placeName>
@@ -7001,7 +7001,7 @@
                         <geogName>
                             <geo>47.590 12.562</geo>
                         </geogName>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="stöcklweg">
                         <placeName type="geonames">Stöcklweg (in Waidring)</placeName>
@@ -7011,7 +7011,7 @@
                         <geogName>
                             <geo>47.596 12.551</geo>
                         </geogName>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="lindau">
                         <placeName type="geonames" key="6558516">Lindau (Bodensee)</placeName>
@@ -7061,7 +7061,7 @@
                         <geogName>
                             <geo>47.495 12.083</geo>
                         </geogName>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="vomp">
                         <placeName type="geonames" key="7872639">Vomp</placeName>
@@ -7339,7 +7339,7 @@
                         <geogName>
                             <geo>47.582, 12.531</geo>
                         </geogName>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                     <place xml:id="savona">
                         <placeName key="3167022">Savona</placeName>
@@ -7689,7 +7689,7 @@
                         <geogName>
                             <geo>47.517 12.350</geo>
                         </geogName>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/</tei:idno>
+                    
                     </place>
                 </listPlace>
             </div>
