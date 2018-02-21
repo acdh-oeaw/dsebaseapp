@@ -27,8 +27,21 @@
     <text>
         <body>
             <div>
-                <head>The Millinger Archiv</head>
-                <p>Leonhard Millinger</p>
+                <head>Das Millinger Archiv</head>
+                <p>Dies Web Applikation versammelte alle auffindbaren und bereits edierten Selbstzeugnisse des Tiroler Bauern Leonhard Millingers.</p>
+            </div>
+            <div>
+                <head>Millingers Weltbeschreibung</head>
+                <p>Die Weltbeschreibung des Tiroler Bauern Leonhard Millingers (1753-1834), eine rund 1000 Seiten starke Handschrift aus dem ausgehenden 18. Jahrhundert, ermöglicht aufgrund ihres Inhaltes und ihrer Entstehungsweise Rückschlüsse auf das Leseverhalten, die Leseinteressen und die Lesekompetenzen bildungsferner, bäuerlich-ländlicher Schichten. Aufgrund der thematischen Breite dieser Quelle, Bereiche wie Bibelwissen, Religion, Geschichte, Geographie oder Naturwissenschaften abdeckend, kann Millingers Weltbeschreibung als Gradmesser bäuerlicher Weltvorstellungen, als Spiegel ländlicher, peripherer Wissensmöglichkeiten benutzt werden.</p> 
+                <p>Die vorliegende Edition entstand im Rahmen der Dissertation <ref target="http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-3223">Die Weltbeschreibung des Leonhard Millinger. Ein Schlüssel zum Weltbild eines Bauern um 1800.</ref> Die Edition ist weiters veröffentlich in der Reihe <ref target="http://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=77097337X">Editiones Electronicae Guelferbytanae.</ref>
+                </p>
+            </div>
+            <div>
+                <head>Millingers Predigtmitschriften</head>
+                <p>Die vorliegende Edition der Predigtmitschrift des Leonhard Millinger (1753-1834) entstand im Rahmen der Dissertation <ref target="http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-3223">Die Weltbeschreibung des Leonhard Millinger. Ein Schlüssel zum Weltbild eines Bauern um 1800</ref>. Die Edition ist weiters veröffneltich in der Reihe <ref target="http://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=78630202X">Editiones Electronicae Guelferbytanae.</ref>. Das Manuskript befindet sich in Privatbesitz von Nachfahren Leonhard Millingers.</p>
+                    <p>Konkret handelt es sich bei besagtem Manuskript um ein 96 Seiten (ca. 20 x 31 cm) starkes, in einen Umschlag gebundenes Heft aus Papier mit Mitschriften von 16 Predigten. Wandprediger hatten diese Predigten zwischen dem 10. Juni und dem 9. November 1773 in Millingers näherem lokalen Umfeld (Fieberbrunn, St. Ulrich am Pillersee oder Hochfilzen) gehalten. Millinger wohnte diesen bei und schrieb diese danach nieder. 
+                    Die Transkription erfolgte buchstabengetreu, Groß- und Kleinschreibung wurde, soweit erkennbar, aus dem Original übernommen.</p>
+                    <p>Eine ausführlichere Beschreibung der Handschrift, sowie weitere Informationen zu Leonhard Millinger kann der bereits erwähnten <ref target="http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-3223">Dissertation</ref>  entnommen werden.</p>           
             </div>
         </body>
     </text>

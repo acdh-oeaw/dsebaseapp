@@ -22,7 +22,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h3 class="panel-title">
-                        <h2 align="center">Header</h2>
+                        <h2 align="center">Info</h2>
                     </h3>
                 </div>
                 <div class="panel-body">
@@ -33,7 +33,7 @@
                                     <abbr title="tei:titleStmt/tei:title">Dokument</abbr>
                                 </th>
                                 <td>
-                                    <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title">
+                                    <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title[@type='sub']">
                                         <xsl:apply-templates/>
                                         <br/>
                                     </xsl:for-each>
@@ -78,34 +78,19 @@
                                 </tr>
                             </xsl:if>
                             <tr>
-                                <th>Verantwortlich</th>
+                                <th>Ediert von</th>
                                 <td>
-                                    <xsl:for-each select="//tei:author">
-                                        <xsl:apply-templates/>
-                                    </xsl:for-each>
+                                    Peter Andorer
                                 </td>
                             </tr>
-                            <xsl:if test="//tei:titleStmt/tei:respStmt">
+                            
                                 <tr>
                                     <th>
-                                        <abbr title="//tei:titleStmt/tei:respStmt">responsible</abbr>
-                                    </th>
-                                    <td>
-                                        <xsl:for-each select="//tei:titleStmt/tei:respStmt">
-                                            <p>
-                                                <xsl:apply-templates/>
-                                            </p>
-                                        </xsl:for-each>
-                                    </td>
-                                </tr>
-                            </xsl:if>
-                                <tr>
-                                    <th>
-                                        <abbr title="//tei:availability//tei:p[1]">License</abbr>
+                                        <abbr title="//tei:availability//tei:p[1]">Lizenz</abbr>
                                     </th>
                                     <xsl:choose>
                                         <xsl:when test="//tei:licence[@target]">
-                                         <td align="center">
+                                         <td>
                                              <a class="navlink" target="_blank">
                                                  <xsl:attribute name="href">
                                                      <xsl:value-of select="//tei:licence[1]/data(@target)"/>
@@ -134,7 +119,7 @@
                                 <xsl:attribute name="href">
                                     <xsl:value-of select="$path2source"/>
                                 </xsl:attribute>
-                                see the TEI source of this document
+                               TEI-Code
                             </a>
                         </p>
                     </div>
@@ -145,34 +130,39 @@
             <div class="panel-heading">
                 <h3 class="panel-title">
                     <h2 align="center">
-                        Body
+                        Transkription
                     </h2>
                 </h3>
             </div>
             <div class="panel-body">
-                <xsl:element name="ul">
-                    <xsl:for-each select="//tei:body//tei:head">
-                        <xsl:element name="li">
-                            <xsl:element name="a">
-                                <xsl:attribute name="href">
-                                    <xsl:text>#text_</xsl:text>
-                                    <xsl:value-of select="."/>
-                                </xsl:attribute>
-                                <xsl:attribute name="id">
-                                    <xsl:text>nav_</xsl:text>
-                                    <xsl:value-of select="."/>
-                                </xsl:attribute>
-                                <xsl:value-of select="."/>
-                            </xsl:element>
-                        </xsl:element>
-                    </xsl:for-each>
-                </xsl:element>
-
+                <!-- inhaltsverzeichnis -->
+                <xsl:if test="//tei:div/tei:head">
+                    <h3 id="clickme">
+                        <abbr title="Klicken um den Inhalt des Dokuments anzuzeigen">[Inhalt]</abbr>
+                    </h3>
+                    <div id="headings" class="readmore">
+                        <ul>
+                            <xsl:for-each select="/tei:TEI/tei:text/tei:body//tei:div/tei:head">
+                                <li>
+                                    <a>
+                                    <xsl:attribute name="href">
+                                            <xsl:text>#hd</xsl:text>
+                                            <xsl:number level="any"/>
+                                        </xsl:attribute>
+                                    <xsl:number level="multiple" count="tei:div" format="1.1. "/>
+                                    
+                                        
+                                       
+                                </a>
+                                    <xsl:apply-templates/> <xsl:apply-templates/>
+                                </li>
+                            </xsl:for-each>
+                        </ul>
+                    </div>
+                </xsl:if>
                 <div>
                     <xsl:apply-templates select="//tei:text"/>
-                </div>
-                
-                
+                </div>               
             </div>
             <div class="panel-footer">
                 <p style="text-align:center;">
@@ -199,6 +189,14 @@
                 </p>
             </div>
         </div>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $( "div[class~='readmore']" ).hide();
+            });
+            $("#clickme").click(function(){
+                $( "div[class~='readmore']" ).toggle("slow");
+            });
+        </script>
     </xsl:template><!--
     #####################
     ###  Formatierung ###
@@ -431,19 +429,26 @@
         </xsl:element>
     </xsl:template><!-- Überschriften -->
     <xsl:template match="tei:head">
-        <xsl:element name="h3">
-            <xsl:element name="a">
-                <xsl:attribute name="id">
-                    <xsl:text>text_</xsl:text>
-                    <xsl:value-of select="."/>
+        <xsl:if test="@xml:id[starts-with(.,'org') or starts-with(.,'ue')]">
+            <a>
+                <xsl:attribute name="name">
+                    <xsl:value-of select="@xml:id"/>
                 </xsl:attribute>
-                <xsl:attribute name="href">
-                    <xsl:text>#nav_</xsl:text>
-                    <xsl:value-of select="."/>
-                </xsl:attribute>
-                <xsl:apply-templates/>
-            </xsl:element>
-        </xsl:element>
+                <xsl:text> </xsl:text>
+            </a>
+        </xsl:if>
+        <a>
+            <xsl:attribute name="name">
+                <xsl:text>hd</xsl:text>
+                <xsl:number level="any"/>
+            </xsl:attribute>
+            <xsl:text> </xsl:text>
+        </a>
+        <h2 style="background-color:#EEE;padding:0.3em;margin-top:1em;position:relative;width:100%;">
+            <div style="position:relative;width:90%;">
+                <xsl:apply-templates select="tei:choice/tei:orig"/>
+            </div>
+        </h2>
     </xsl:template><!--  Quotes / Zitate -->
     <xsl:template match="tei:q">
         <xsl:element name="i">
@@ -462,5 +467,8 @@
         <xsl:element name="strike">
             <xsl:apply-templates/>
         </xsl:element>
+    </xsl:template>
+    <xsl:template match="tei:choice">
+        <xsl:apply-templates select="./tei:orig"/>
     </xsl:template>
 </xsl:stylesheet>
