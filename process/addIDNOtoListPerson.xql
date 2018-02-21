@@ -7,9 +7,9 @@ declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 (:script to add tei:idno elements containing normdata-ID-URLs:)
 
-for $x in doc($app:personIndex)//tei:person
-let $gnd := $x/tei:note/tei:p[3]/text()
-let $idno := if($gnd != 'no gnd provided') then <tei:idno type="URL">{$gnd}</tei:idno> else ()
-let $insert := if($gnd != 'no gnd provided') then update insert $idno into $x else ()
+for $x in doc($app:personIndex)//tei:person[./tei:persName/@key]
+let $gnd := "http://d-nb.info/gnd/"||data($x/tei:persName/@key)
+let $idno := <tei:idno type="URL">{$gnd}</tei:idno>
+let $insert := update insert $idno into $x
 return
     $x

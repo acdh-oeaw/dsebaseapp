@@ -60,6 +60,7 @@
                             <forename>Peter</forename>
                             <surname>Andorfer</surname>
                          </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1043833846</tei:idno>
                     </person>
                     <person xml:id="dobcheva">
                         <persName>
@@ -115,6 +116,7 @@
                                 <settlement>Waidring</settlement>
                             </placeName>
                         </death>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1043834540</tei:idno>
                     </person>
                     <person xml:id="notegger_eter">
                         <persName>
@@ -148,6 +150,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Johann_Dietenberger"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118671901</tei:idno>
                     </person>
                     <person xml:id="abraham_pater">
                         <persName key="11850021X">
@@ -159,6 +162,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Abraham_a_Sancta_Clara"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11850021X</tei:idno>
                     </person>
                     <person xml:id="Cochem_Martin_von">
                         <persName key="118731319">
@@ -170,6 +174,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Martin_von_Cochem"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118731319</tei:idno>
                     </person>
                     <person xml:id="weigel">
                         <persName key="118630075">
@@ -181,12 +186,14 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Erhard_Weigel"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118630075</tei:idno>
                     </person>
                     <person xml:id="acxtelmeier">
                         <persName key="122079566">
                             <forename>Stanislaus Reinhard</forename>
                             <surname>Acxtelmeier</surname>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/122079566</tei:idno>
                     </person>
                     <person xml:id="hübner">
                         <persName key="118707701">
@@ -196,24 +203,28 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Johann_H%C3%BCbner"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118707701</tei:idno>
                     </person>
                     <person xml:id="prugger_martin">
                         <persName key="119516306">
                             <forename>Martin</forename>
                             <surname>Prugger</surname>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119516306</tei:idno>
                     </person>
                     <person xml:id="launay">
                         <persName key="128737883">
                             <forename>Karl Ludwig, de</forename>
                             <surname>Launay</surname>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/128737883</tei:idno>
                     </person>
                     <person xml:id="Schreger_Odilo">
                         <persName key="119531682">
                             <forename>Odilo</forename>
                             <surname>Schreger</surname>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119531682</tei:idno>
                     </person>
                     <person xml:id="Desing_Anselm">
                         <persName key=" 116083905">
@@ -223,6 +234,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Anselm_Desing"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/ 116083905</tei:idno>
                     </person>
                     <person xml:id="napoleon">
                         <persName key="118586408">
@@ -232,6 +244,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Napoleon"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118586408</tei:idno>
                     </person>
                     <person xml:id="Jesus_Christus_Bibel">
                         <persName key="118557513">
@@ -240,6 +253,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jesus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118557513</tei:idno>
                     </person>
                     <person xml:id="Maria">
                         <persName key="118640909">
@@ -249,6 +263,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Maria_(Mutter_Jesu)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118640909</tei:idno>
                     </person>
                     <person xml:id="Josef_von_Nazaret">
                         <persName key="118558382">
@@ -258,11 +273,13 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Josef_von_Nazaret"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118558382</tei:idno>
                     </person>
                     <person xml:id="Adam_Bibel">
                         <persName key="118646877">
                             <forename>Adam</forename>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118646877</tei:idno>
                     </person>
                     <person xml:id="Josef_Sohn_von_Jakob_Bibel">
                         <persName key="118639986">
@@ -272,6 +289,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Josef_(Sohn_Jakobs)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118639986</tei:idno>
                     </person>
                     <person xml:id="Eva_Bibel">
                         <persName key="118531441">
@@ -280,6 +298,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Adam_und_Eva"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118531441</tei:idno>
                     </person>
                     <person xml:id="Kain_Bibel">
                         <persName key="118714724">
@@ -288,6 +307,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Kain"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118714724</tei:idno>
                     </person>
                     <person xml:id="Abel_Bibel">
                         <persName key="118646575">
@@ -296,6 +316,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Abel_(Bibel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118646575</tei:idno>
                     </person>
                     <person xml:id="Lamech_Bibel">
                         <persName>
@@ -337,6 +358,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Metuschael"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/185585310</tei:idno>
                     </person>
                     <person xml:id="Ada_Bibel">
                         <persName>
@@ -393,6 +415,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Set_(Bibel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/128688483</tei:idno>
                     </person>
                     <person xml:id="Enos_Bibel">
                         <persName>
@@ -441,6 +464,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Noach"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118641328</tei:idno>
                     </person>
                     <person xml:id="Ham_Bibel">
                         <persName key="120339994">
@@ -449,6 +473,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Ham_(Bibel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120339994</tei:idno>
                     </person>
                     <person xml:id="Japheth_Bibel">
                         <persName>
@@ -534,6 +559,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Abraham"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118500201</tei:idno>
                     </person>
                     <person xml:id="Haran_Bibel">
                         <persName>
@@ -550,6 +576,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Lot_(Altes_Testament)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119435128</tei:idno>
                     </person>
                     <person xml:id="Josua_Bibel">
                         <persName>
@@ -566,6 +593,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Nimrod"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136691099</tei:idno>
                     </person>
                     <person xml:id="Isaak_Bibel">
                         <persName key="118555898">
@@ -574,6 +602,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Isaak_(Erzvater)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118555898</tei:idno>
                     </person>
                     <person xml:id="Jakob_Sohn_von_Isaak_Bibel">
                         <persName>
@@ -599,6 +628,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Melchisedek"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118580515</tei:idno>
                     </person>
                     <person xml:id="Hagar_Bibel">
                         <persName>
@@ -632,6 +662,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Rebekka"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118836870</tei:idno>
                     </person>
                     <person xml:id="Moab_Bibel">
                         <persName>
@@ -672,6 +703,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Rachel_(Bibel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118836889</tei:idno>
                     </person>
                     <person xml:id="Lea_Bibel">
                         <persName>
@@ -688,6 +720,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Ruben_(Bibel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119497980</tei:idno>
                     </person>
                     <person xml:id="Simeon_Bibel">
                         <persName>
@@ -712,6 +745,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Juda_(Bibel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119550881</tei:idno>
                     </person>
                     <person xml:id="Isaschar_Bibel">
                         <persName>
@@ -761,6 +795,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Josef_(Stamm)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118639986</tei:idno>
                     </person>
                     <person xml:id="Benjamin_Bibel">
                         <persName>
@@ -785,6 +820,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Dan_(Bibel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/12497371X</tei:idno>
                     </person>
                     <person xml:id="Naphthali_Bibel">
                         <persName>
@@ -829,6 +865,7 @@
                         <persName key="119536196">
                             <forename>Ephraim </forename>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119536196</tei:idno>
                     </person>
                     <person xml:id="Mose_Bibel">
                         <persName key="118641190">
@@ -837,6 +874,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Mose"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118641190</tei:idno>
                     </person>
                     <person xml:id="Aaron_Bibel">
                         <persName>
@@ -898,6 +936,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Mirjam_(Prophetin)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/129232726</tei:idno>
                     </person>
                     <person xml:id="Eliseba_Bibel">
                         <persName>
@@ -931,6 +970,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Kaleb"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118714880</tei:idno>
                     </person>
                     <!--<person xml:id="Nun_Bibel"/>-->
                     <!--<person xml:id="Ephraimiter_Bibel"/>-->
@@ -966,6 +1006,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Debora_(Richterin)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11909326X</tei:idno>
                     </person>
                     <person xml:id="Gideon_Bibel">
                         <persName key="118539132">
@@ -974,6 +1015,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Gideon_(Richter)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118539132</tei:idno>
                     </person>
                     <person xml:id="Abimelech_Bibel">
                         <persName>
@@ -1006,6 +1048,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Samson"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118605283</tei:idno>
                     </person>
                     <person xml:id="Samuel_Bibel">
                         <persName key="118605313">
@@ -1014,6 +1057,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Samuel_(Prophet)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118605313</tei:idno>
                     </person>
                     <!--<person xml:id="Philister_Bibel"/>-->
                     <person xml:id="Delila_Bibel">
@@ -1023,6 +1067,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Delila"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119372193</tei:idno>
                     </person>
                     <person xml:id="Rut_Bibel">
                         <persName>
@@ -1048,6 +1093,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/David_(Israel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/ 118523929</tei:idno>
                     </person>
                     <person xml:id="Obed_Bibel">
                         <persName>
@@ -1080,6 +1126,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Pinchas_(Sohn_Eleasars)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/131400703</tei:idno>
                     </person>
                     <person xml:id="Hofni_Bibel">
                         <persName>
@@ -1096,6 +1143,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Saul"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118605836</tei:idno>
                     </person>
                     <person xml:id="Jonatan_Bibel">
                         <persName key="118842978">
@@ -1104,6 +1152,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jonatan_(Sohn_Sauls)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118842978</tei:idno>
                     </person>
                     <person xml:id="Michal_Bibel">
                         <persName>
@@ -1120,6 +1169,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Goliath"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118696254</tei:idno>
                     </person>
                     <person xml:id="Abigail_Bibel">
                         <persName>
@@ -1158,6 +1208,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Bathseba"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118507125</tei:idno>
                     </person>
                     <person xml:id="Urija_Bibel">
                         <persName>
@@ -1190,6 +1241,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Joab"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118891294</tei:idno>
                     </person>
                     <person xml:id="Salomo_Bibel">
                         <persName key="118605100">
@@ -1198,6 +1250,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Salomo"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118605100</tei:idno>
                     </person>
                     <person xml:id="Saba_Königin_von_Bibel">
                         <persName>
@@ -1222,6 +1275,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jerobeam_I."/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118557416</tei:idno>
                     </person>
                     <!--<person xml:id="Judäer_Bibel"/>-->
                     <person xml:id="Elija_Bibel">
@@ -1231,6 +1285,7 @@
                                 <ptr target="http://de.wikipedia.org/wiki/Elija"/>
                             </note>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/ 118529811</tei:idno>
                     </person>
                     <person xml:id="Joschafat_Bibel">
                         <persName>
@@ -1256,6 +1311,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Joas"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119358336</tei:idno>
                     </person>
                     <person xml:id="Amazja_Bibel">
                         <persName>
@@ -1330,6 +1386,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jojakim"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118712888</tei:idno>
                     </person>
                     <person xml:id="Jojachin_Bibel">
                         <persName key="11871287X">
@@ -1338,6 +1395,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jojachin"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11871287X</tei:idno>
                     </person>
                     <person xml:id="Zedekia_Bibel">
                         <persName key="118636308">
@@ -1346,6 +1404,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Zedekia"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118636308</tei:idno>
                     </person>
                     <person xml:id="Ahab_Bibel">
                         <persName key="118501127">
@@ -1355,6 +1414,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Ahab_(K%C3%B6nig)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118501127</tei:idno>
                     </person>
                     <person xml:id="Ahasja_Bibel">
                         <persName>
@@ -1471,6 +1531,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Kyros_II."/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118568426</tei:idno>
                     </person>
                     <!--<person xml:id="Juden"/>-->
                     <person xml:id="Esra_Bibel">
@@ -1570,6 +1631,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/K%C3%B6nigin_Ester"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118682431</tei:idno>
                     </person>
                     <person xml:id="Ahasveros_Bibel">
                         <persName>
@@ -1609,6 +1671,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Ijob"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118551353</tei:idno>
                     </person>
                     <!--<person xml:id="Sabäer_Bibel">
                         <persName>
@@ -1631,6 +1694,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jesaja"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118639897</tei:idno>
                     </person>
                     <person xml:id="Jeremia_Bibel">
                         <persName key="118557394">
@@ -1639,6 +1703,7 @@
                         <note>
                             <ptr target="Jeremia"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118557394</tei:idno>
                     </person>
                     <person xml:id="Baruch_Bibel">
                         <persName>
@@ -1657,6 +1722,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Ezechiel_(Prophet)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118531611</tei:idno>
                     </person>
                     <!--<person xml:id="Chaldäer_Bibel"/>-->
                     <person xml:id="Gog_Bibel">
@@ -1683,6 +1749,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Daniel_(Prophet)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118678752</tei:idno>
                     </person>
                     <person xml:id="Belschazzar_Bibel">
                         <persName key="11865523X">
@@ -1691,6 +1758,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Belschazzar"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11865523X</tei:idno>
                     </person>
                     <!--<person xml:id="Meder"/>
                     <person xml:id="Perser"/>-->
@@ -1701,6 +1769,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Hosea"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118553763</tei:idno>
                     </person>
                     <person xml:id="Joel_Bibel">
                         <persName>
@@ -1807,6 +1876,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Johannes_der_T%C3%A4ufer"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118557858</tei:idno>
                     </person>
                     <!--<person xml:id="Makkabäer_Bibel"/>-->
                     <person xml:id="Mattatias_Bibel">
@@ -1816,6 +1886,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Mattatias"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1011235412</tei:idno>
                     </person>
                     <person xml:id="Judas_Makkabäus_Bibel">
                         <persName key="118886673">
@@ -1825,6 +1896,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Judas_Makkab%C3%A4us"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118886673</tei:idno>
                     </person>
                     <person xml:id="Jonathan_Bibel">
                         <persName>
@@ -1852,6 +1924,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Antiochos_IV."/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118503413</tei:idno>
                     </person>
                     <person xml:id="Antiochos_V.">
                         <persName>
@@ -1868,6 +1941,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Demetrios_I._(Soter)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119272830</tei:idno>
                     </person>
                     <!--<person xml:id="Römer"/>-->
                     <!--<person xml:id="Spartaner"/>-->
@@ -1886,6 +1960,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Aristobulos_I."/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118645757</tei:idno>
                     </person>
                     <person xml:id="Alexander_Jannäus_Hasmonäer_">
                         <persName>
@@ -1909,6 +1984,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Gaius_Iulius_Caesar"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118518275</tei:idno>
                     </person>
                     <person xml:id="Herodes_I.">
                         <persName key="118549847">
@@ -1918,6 +1994,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Herodes"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118549847</tei:idno>
                     </person>
                     <person xml:id="Herodes_Archelaos">
                         <persName>
@@ -1954,6 +2031,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Pontius_Pilatus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118792172</tei:idno>
                     </person>
                     <person xml:id="augustus">
                         <persName key="118505122" xml:lang="la">
@@ -1963,6 +2041,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Augustus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118505122</tei:idno>
                     </person>
                     <person xml:id="Tiberius">
                         <persName key="118622501">
@@ -1972,6 +2051,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Tiberius"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118622501</tei:idno>
                     </person>
                     <person xml:id="Anna_Heilige_">
                         <persName key="118649418">
@@ -1981,6 +2061,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Heilige_Anna"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118649418</tei:idno>
                     </person>
                     <person xml:id="Joachim_Heilige_">
                         <persName key="118712160">
@@ -1990,12 +2071,14 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Heiliger_Joachim"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118712160</tei:idno>
                     </person>
                     <person xml:id="Dionysius_Exiguus">
                         <persName key="118679724">
                             <forename>Dionysius</forename>
                             <roleName>Exiguus</roleName>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118679724</tei:idno>
                     </person>
                     <!--<person xml:id="Pharisäer"/>-->
                     <person xml:id="Hannas_Bibel">
@@ -2015,6 +2098,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Kajaphas"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/129446424</tei:idno>
                     </person>
                     <person xml:id="Johannes_Evangelist">
                         <persName key="118557815">
@@ -2024,6 +2108,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Johannes_(Evangelist)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118557815</tei:idno>
                     </person>
                     <person xml:id="Alexander_der_Große">
                         <persName key="118501828">
@@ -2033,6 +2118,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Alexander_der_Gro%C3%9Fe"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118501828</tei:idno>
                     </person>
                     <person xml:id="Assisi_Franz_von">
                         <persName key="118534963">
@@ -2042,6 +2128,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Franz_von_Assisi"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118534963</tei:idno>
                     </person>
                     <person xml:id="Augustinus_Kirchenvater">
                         <persName key="118505114">
@@ -2052,6 +2139,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Augustinus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118505114</tei:idno>
                     </person>
                     <person xml:id="Franz_Xaver_Jesuit_">
                         <persName key="118535021">
@@ -2061,6 +2149,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Franz_Xaver"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535021</tei:idno>
                     </person>
                     <person xml:id="Matthäus_Evangelist_">
                         <persName key="118578979">
@@ -2070,6 +2159,7 @@
                                 <ptr target="http://de.wikipedia.org/wiki/Matth%C3%A4us_(Evangelist)"/>
                             </note>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118578979</tei:idno>
                     </person>
                     <person xml:id="Markus_Evangelist_">
                         <persName key="118578030">
@@ -2079,6 +2169,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Markus_(Evangelist)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118578030</tei:idno>
                     </person>
                     <person xml:id="Petrus_Heiliger_">
                         <persName key="118593323">
@@ -2088,6 +2179,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Simon_Petrus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118593323</tei:idno>
                     </person>
                     <person xml:id="Nero">
                         <persName key="118586998">
@@ -2097,6 +2189,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Nero"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118586998</tei:idno>
                     </person>
                     <person xml:id="Lukas_Evangelist_">
                         <persName key="118575198">
@@ -2106,6 +2199,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Lukas_(Evangelist)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118575198</tei:idno>
                     </person>
                     <person xml:id="Paulus_Heilige">
                         <persName key="118641549">
@@ -2115,6 +2209,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Paulus_von_Tarsus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118641549</tei:idno>
                     </person>
                     <person xml:id="Zebedäus_Bibel">
                         <persName>
@@ -2132,6 +2227,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jakobus_der_%C3%84ltere"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118556800</tei:idno>
                     </person>
                     <person xml:id="Kerinth_Bibel">
                         <persName>
@@ -2149,6 +2245,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Matthias_(Apostel)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120125374</tei:idno>
                     </person>
                     <person xml:id="Judas_Ischariot_Apostel">
                         <persName key="118558536">
@@ -2158,6 +2255,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Judas_Ischariot"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118558536</tei:idno>
                     </person>
                     <!--<person xml:id="Galater_Bibel"/>-->
                     <person xml:id="Diana_Mythologie_">
@@ -2168,6 +2266,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Diana"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118678132</tei:idno>
                     </person>
                     <person xml:id="Tychicus_Bibel">
                         <persName>
@@ -2235,6 +2334,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Titus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118622951</tei:idno>
                     </person>
                     <person xml:id="Philemon_Bibel">
                         <persName>
@@ -2253,18 +2353,21 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Jakobus_der_Gerechte"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118711601</tei:idno>
                     </person>
                     <person xml:id="Andreas_Apostel_">
                         <persName key="118502891">
                             <forename>Andreas</forename>
                             <roleName>Apostel</roleName>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118502891</tei:idno>
                     </person>
                     <person xml:id="Judas_Thaddäus_Bibel">
                         <persName key="118713337">
                             <forename>Judas Thaddäus</forename>
                             <roleName>Apostel</roleName>
                         </persName>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118713337</tei:idno>
                     </person>
                     <!--<person xml:id="Ebioniten_Bibel"/>-->
                     <person xml:id="Simon_Magus_Bibel">
@@ -2275,6 +2378,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Simon_Magus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118765450</tei:idno>
                     </person>
                     <person xml:id="Gaius_Bibel">
                         <persName>
@@ -2309,6 +2413,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Hieronymus_(Kirchenvater)"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118550853</tei:idno>
                     </person>
                     <!--<person xml:id="Michael_Engel_"/>-->
                     <person xml:id="Irenäus_von_Lyon_Kirchenvater">
@@ -2319,6 +2424,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Iren%C3%A4us_von_Lyon"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118555766</tei:idno>
                     </person>
                     <person xml:id="Kopernikus_Nikolaus">
                         <persName key="118565273">
@@ -2328,6 +2434,7 @@
                         <note>
                             <ptr target="http://de.wikipedia.org/wiki/Nikolaus_Kopernikus"/>
                         </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118565273</tei:idno>
                     </person>
                     <person xml:id="Unbekannt_Person">
                         <persName>
