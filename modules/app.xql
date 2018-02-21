@@ -189,6 +189,7 @@ declare function app:listPers($node as node(), $model as map(*)) {
         <a href="{$gnd}">{$gnd}</a>
         else
         'keine Normadatenverknüpfung'
+        order by $person/tei:persName/tei:forename
         return
         <tr>
             <td>

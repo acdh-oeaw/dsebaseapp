@@ -145,16 +145,21 @@
                             <xsl:for-each select="/tei:TEI/tei:text/tei:body//tei:div/tei:head">
                                 <li>
                                     <a>
-                                    <xsl:attribute name="href">
+                                        <xsl:attribute name="href">
                                             <xsl:text>#hd</xsl:text>
                                             <xsl:number level="any"/>
                                         </xsl:attribute>
-                                    <xsl:number level="multiple" count="tei:div" format="1.1. "/>
+                                        <xsl:number level="multiple" count="tei:div" format="1.1. "/>
+                                    </a>
+                                    <xsl:choose>
+                                        <xsl:when test=".//tei:orig">
+                                            <xsl:apply-templates select=".//tei:orig"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="."/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
                                     
-                                        
-                                       
-                                </a>
-                                    <xsl:apply-templates/> <xsl:apply-templates/>
                                 </li>
                             </xsl:for-each>
                         </ul>
@@ -279,6 +284,9 @@
     </xsl:template><!-- Verweise auf andere Dokumente   -->
     <xsl:template match="tei:ref">
         <xsl:choose>
+            <xsl:when test="@cRef">
+                <xsl:apply-templates/>
+            </xsl:when>
             <xsl:when test="@target[ends-with(.,'.xml')]">
                 <xsl:element name="a">
                     <xsl:attribute name="href">
@@ -470,5 +478,17 @@
     </xsl:template>
     <xsl:template match="tei:choice">
         <xsl:apply-templates select="./tei:orig"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:list">
+        <ul>
+            <xsl:apply-templates/>
+        </ul>
+    </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <li>
+            <xsl:apply-templates/>
+        </li>
     </xsl:template>
 </xsl:stylesheet>

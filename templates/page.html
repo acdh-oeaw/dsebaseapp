@@ -75,17 +75,17 @@
                             </li>
                         </ul>
                     </li>
-                    <!--<li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Analyze</a>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Visualisierungen</a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="timeline.html">Timeline</a>
+                                <a href="timeline.html">Zeitleiste</a>
                             </li>
                             <li>
-                                <a href="netvis.html">CMFI-Net</a>
+                                <a href="netvis.html">Netzwerk</a>
                             </li>
                         </ul>
-                    </li>-->
+                    </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Daten</a>
                         <ul class="dropdown-menu">
@@ -95,18 +95,18 @@
                             <li>
                                 <a href="../../../../exist/restxq/millinger-archive/editions/json">Text as JSON</a>
                             </li>
-                            <!--<li>
+                            <li>
                                 <a href="../../../../exist/restxq/millinger-archive/dt/editions/json">Datatables API-Endpoint</a>
                             </li>
-                            <li>
+                            <!--<li>
                                 <a href="../analyze/cmfi2net.xql">Network Data (GEFX)</a>
-                            </li>
+                            </li>-->
                             <li>
                                 <a href="../analyze/beacon.xql">GND Beacon</a>
                             </li>
                             <li>
-                                <a href="../analyze/timeline.xql">Timeline</a>
-                            </li>-->
+                                <a href="../analyze/timeline.xql">Zeitleiste</a>
+                            </li>
                         </ul>
                     </li>
                 </ul>
@@ -148,8 +148,7 @@
                 </div>
             </div>
 
-            <script>
-                /*script for loading the content of the modal */
+            <script>/*script for loading the content of the modal */
                 $(document).ready(function(){
                     var trigger = $('a[data-type]');
                     $(trigger).click(function(){
@@ -157,7 +156,7 @@
                         var dataKey = $( this ).attr('data-key');
                         var xsl = dataType.replace(".xml", "");
                         var baseUrl = "showNoTemplate.html?directory=indices&amp;document="
-                        var url = baseUrl+dataType+"&amp;stylesheet="+xsl+"&amp;entiyID="+dataKey;
+                        var url = baseUrl+dataType+"&amp;stylesheet=node2html&amp;entiyID="+dataKey;
                         $('#loadModal').load(url, function(){
                             $('#myModal').modal('show');
                         });

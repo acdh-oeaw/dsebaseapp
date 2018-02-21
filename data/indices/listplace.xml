@@ -741,7 +741,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/2861374</tei:idno>
                     </place>
                     <place xml:id="reisach_bei_audorf">
-                        <placeName type="geonames" key="2954612"/>
+                        <placeName type="geonames" key="2954612">Reisach bei Audorf</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">47.66403 12.16902</tei:geo>
                         </tei:location>
@@ -7202,7 +7202,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/6535958</tei:idno>
                     </place>
                     <place xml:id="kaltern">
-                        <placeName key="6535969"/>
+                        <placeName key="6535969">Kaltern</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">46.41321 11.24118</tei:geo>
                         </tei:location>
@@ -7252,7 +7252,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/7873584</tei:idno>
                     </place>
                     <place xml:id="landeck">
-                        <placeName key="7872581"/>
+                        <placeName key="7872581">Landeck</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">47.13009 10.56358</tei:geo>
                         </tei:location>
@@ -7262,7 +7262,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/7872581</tei:idno>
                     </place>
                     <place xml:id="reith_bei_seefeld">
-                        <placeName key="7872546"/>
+                        <placeName key="7872546">Reith bei Seefeld</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">47.31225 11.21711</tei:geo>
                         </tei:location>
@@ -7292,7 +7292,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/3319581</tei:idno>
                     </place>
                     <place xml:id="lienz">
-                        <placeName key="7873678"/>
+                        <placeName key="7873678">Lienz</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">46.82803 12.75184</tei:geo>
                         </tei:location>
@@ -7402,7 +7402,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/6691392</tei:idno>
                     </place>
                     <place xml:id="simbach_am_inn">
-                        <placeName key="6558942"/>
+                        <placeName key="6558942">Simbarch am Inn</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">48.26925 13.02498</tei:geo>
                         </tei:location>
@@ -7502,7 +7502,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/3090320</tei:idno>
                     </place>
                     <place xml:id="hamburg">
-                        <placeName key="2911297"/>
+                        <placeName key="2911297">Hamburg</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">53.58333 10</tei:geo>
                         </tei:location>
@@ -7532,7 +7532,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/2772797</tei:idno>
                     </place>
                     <place xml:id="magdeburg">
-                        <placeName key="2874545"/>
+                        <placeName key="2874545">Magdeburg</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
                             <tei:geo decls="LatLng">52.12773 11.62916</tei:geo>
                         </tei:location>

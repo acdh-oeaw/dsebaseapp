@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The Millinger Archiv</title>
+                <title>Das Millinger Archiv</title>
                 <author>
                     <persName>
                         <forename>Peter</forename>
@@ -29,6 +29,10 @@
             <div>
                 <head>Das Millinger Archiv</head>
                 <p>Dies Web Applikation versammelte alle auffindbaren und bereits edierten Selbstzeugnisse des Tiroler Bauern Leonhard Millingers.</p>
+            </div>
+            <div>
+                <head>Millingers Briefwechsel</head> 
+                <p>Bei Recherchen im Tiroler Landesarchiv konnte ein Briefwechsel zwischen Leonhard Millinger und seiner Frau Katharina aus dem Jahr 1797 gefunden werden. Die Korrespondenz umfasst zwei Briefe von Millinger an seine Frau, die er während seines Kriegseinsatzes verfasst hatte, sowie ein Antwortschreiben.</p>
             </div>
             <div>
                 <head>Millingers Weltbeschreibung</head>

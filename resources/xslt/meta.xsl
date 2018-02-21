@@ -14,7 +14,7 @@
                     <br/>
                 </xsl:for-each>
             </h2>
-            <h4>by<br/>
+            <h4>von<br/>
                 <xsl:for-each select="//tei:titleStmt//tei:author//tei:persName">
                     <xsl:apply-templates select="."/>
                     <br/>
