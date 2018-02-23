@@ -61,6 +61,13 @@
         <body>
             <div type="index_places">
                 <listPlace xml:id="ortsverzeichnis">
+                    <place xml:id="absam">
+                        <placeName type="geonames" key="7873599">Absam</placeName>
+                        <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
+                            <tei:geo decls="LatLng">47.29646 11.51487</tei:geo>
+                        </tei:location>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.geonames.org/7873599</tei:idno>
+                    </place>
                     <place xml:id="weltenburg">
                         <placeName type="geonames" key="2811381">Weltenburg</placeName>
                         <tei:location xmlns:tei="http://www.tei-c.org/ns/1.0">
